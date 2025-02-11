@@ -2,70 +2,70 @@ corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 teop	viv	0001	#	#	##	##				
 teop	viv	0001	te	PREP	adp	adp				
 teop	viv	0001	=o	=ART3.SG	=ln	=ln				
-teop	viv	0001	peho	INDEF.O	ln	ln				
+teop	viv	0001	peho	INDEF3.SG	ln	ln				
 teop	viv	0001	vuri	time	np:other	np		other		
 teop	viv	0001	a	ART2.SG	ln	ln				
-teop	viv	0001	peha	INDEF.A	ln	ln				
+teop	viv	0001	peha	INDEF2.SG	ln	ln				
 teop	viv	0001	otei	man	np.h:s	np	h	s	4001	new
 teop	viv	0001	na	TAM2	lv	lv				
 teop	viv	0001	tei-tei	RED-stay	v:pred	v		pred		
 teop	viv	0001	roho	before	rv	rv				
 teop	viv	0002	#	#	##	##				
-teop	viv	0002	evehe	but	other	other				
+teop	viv	0002	evehe	but	conj_other	conj_other				
 teop	viv	0002	a	ART2.SG	ln	ln				
-teop	viv	0002	si	DIM	ln	ln				
+teop	viv	0002	sii	DIM	ln	ln				
 teop	viv	0002	otei	man	np.h:s	np	h	s	4001	
 teop	viv	0002	bona	ANA	rn	rn				
 teop	viv	0002	a	ART2.SG	ln	ln				
-teop	viv	0002	si	DIM	ln	ln				
+teop	viv	0002	sii	DIM	ln	ln				
 teop	viv	0002	pii-pii	RED-sore	np.h:pred	np	h	pred		
 teop	viv	0003	#	#	##	##				
-teop	viv	0003	Evehe	but	other	other				
+teop	viv	0003	Evehe	but	conj_other	conj_other				
 teop	viv	0003	te	PREP	adp	adp				
 teop	viv	0003	=a	=ART2.SG	=ln	=ln				
-teop	viv	0003	maamihu	every	ln	ln				
-teop	viv	0003	nubunubu	morning	np:other	np		other		
+teop	viv	0003	maamihu	every	np:other	np		other		
+teop	viv	0003	nubunubu	morning	rn	rn				
 teop	viv	0004	ZERO	3SG.ZERO	0.h:s	0	h	s	4001	
 teop	viv	0004	na	TAM2	lv	lv				
 teop	viv	0004	nao	go	v:pred	v		pred		
 teop	viv	0004	nana	3SG.IPFV	rv-pro_h_s	rv-pro_h_s				
 teop	viv	0004	ruene	river	np:g	np		g	4003	new
 teop	viv	0004	#	#	#cc:g	#cc		g		
-teop	viv	0004	tea	COMP1	other	other				
+teop	viv	0004	tea	COMPL1	conj_other	conj_other				
 teop	viv	0004	sisibu	bathe	vother:pred	vother		pred		
 teop	viv	0005	#	#	##	##				
 teop	viv	0005	#	#	#ac	#ac				
-teop	viv	0005	Me	and4	other	other				
-teop	viv	0005	be	if_when	other	other				
+teop	viv	0005	Me	and4	conj_other	conj_other				
+teop	viv	0005	be	if_when	conj_other	conj_other				
 teop	viv	0005	ZERO	3SG.ZERO	0.h:s	0	h	s	4001	
 teop	viv	0005	nao	go	v:pred	v		pred		
 teop	viv	0005	ruene	river	np:g	np		g	4003	
 teop	viv	0005	#	#	#cc:g	#cc		g		
-teop	viv	0005	tea	COMP1	other	other				
+teop	viv	0005	tea	COMPL1	conj_other	conj_other				
 teop	viv	0005	sisibu	bathe	vother:pred	vother		pred		
 teop	viv	0005	%	%	%	%				
-teop	viv	0005	o-re=	3PRON-CONSEC=	=pro.h:s	=pro	h	s	4001	
-teop	viv	0005	re=	CONSEC=	=other	=other				
+teop	viv	0005	o-	3PRON-	-pro.h:s	-pro	h	s	4001	
+teop	viv	0005	re=	CONSEC=	=conj_other	=conj_other				
 teop	viv	0005	paa	TAM3	lv	lv				
-teop	viv	0005	no	thither	v:pred	v		pred		
-teop	viv	0005	goroho	sleep	rv	rv				
+teop	viv	0005	no	go	v:pred	v		pred		
+teop	viv	0005	goroho	sleep	rv_v	rv_v				
 teop	viv	0005	te	PREP	adp	adp				
 teop	viv	0005	=a	=ART2.SG	=ln	=ln				
-teop	viv	0005	peha	INDEF.A	ln	ln				
-teop	viv	0005	vasu	stone	np:other	np		other	4004	new
+teop	viv	0005	peha	INDEF2.SG	ln	ln				
+teop	viv	0005	vasu	stone	np:l	np		l	4004	new
 teop	viv	0006	#	#	##	##				
 teop	viv	0006	a	ART2.SG	ln	ln				
 teop	viv	0006	vasu	stone	np:s	np		s	4004	
 teop	viv	0006	bona	ANA	rn	rn				
-teop	viv	0006	he	but	other	other				
+teop	viv	0006	he	but	conj_other	conj_other				
 teop	viv	0006	na	TAM2	lv	lv				
 teop	viv	0006	tei	stay	v:pred	v		pred		
 teop	viv	0006	nana	3SG.IPFV	rv-pro_s	rv-pro_s				
 teop	viv	0006	te	PREP	adp	adp				
 teop	viv	0006	=o	=ART3.SG	=ln	=ln				
 teop	viv	0006	varirovana	middle	np:l	np		l		
-teop	viv	0006	n=	3SG.POSS=	=rn_pro:poss	=rn_pro		poss		
-teop	viv	0006	a	ART2.SG	rn	rn				
+teop	viv	0006	-n=	-3SG.POSS=	=rn_pro:poss	=rn_pro		poss		
+teop	viv	0006	=a	=ART2.SG	=rn	=rn				
 teop	viv	0006	ruene	river	rn_np:poss	rn_np		poss	4003	
 teop	viv	0007	[PAUSE]	NC	nc	nc				
 teop	viv	0008	me	NC	nc	nc				
@@ -75,14 +75,14 @@ teop	viv	0010	ZERO	3SG.ZERO	0.h:s	0	h	s	4001
 teop	viv	0010	paku-paku	RED-do	v:pred	v		pred		
 teop	viv	0010	tamuana	always	rv	rv				
 teop	viv	0010	vo	like	rv	rv				
-teop	viv	0011	teebona	PREP.ANA	other	other				
+teop	viv	0011	teebona	PREP.ANA	other:obl	other		obl		
 teop	viv	0011	te	PREP	adp	adp				
 teop	viv	0011	=a	=ART2.SG	=ln	=ln				
-teop	viv	0011	maamihu	every	ln	ln				
-teop	viv	0011	bon	day	np:other	np		other		
+teop	viv	0011	maamihu	every	pl_np:other	pl_np		other		
+teop	viv	0011	bon	day	rn	rn				
 teop	viv	0012	#	#	##	##				
-teop	viv	0012	Maamihu	every	ln	ln				
-teop	viv	0012	bon	day	np:other	np		other		
+teop	viv	0012	Maamihu	every	np:other	np		other		
+teop	viv	0012	bon	day	rn	rn				
 teop	viv	0012	ZERO	3SG.ZERO	0.h:s	0	h	s	4001	
 teop	viv	0012	toro	must	lv	lv				
 teop	viv	0012	gunaha	go.down	v:pred	v		pred		
@@ -92,17 +92,18 @@ teop	viv	0013	te	PREP	adp	adp
 teop	viv	0013	=a	=ART2.SG	=ln	=ln				
 teop	viv	0013	nubunubu	morning	np:other	np		other	4007	new
 teop	viv	0014	#	#	##	##				
-teop	viv	0014	o-re	3PRON-CONSEC	pro.h:s	pro	h	s	4001	
+teop	viv	0014	o-	3SG/PL.PRON-	-pro.h:s	-pro	h	s	4001	
+teop	viv	0014	re	CONSEC	conj_other	conj_other				
 teop	viv	0014	paa	TAM3	lv	lv				
 teop	viv	0014	no	thither	v:pred	v		pred		
-teop	viv	0014	goroho	sleep	rv	rv				
+teop	viv	0014	goroho	sleep	rv_v	rv_v				
 teop	viv	0014	nana	3SG.IPFV	rv-pro_h_s	rv-pro_h_s				
 teop	viv	0014	te	PREP	adp	adp				
 teop	viv	0014	=a	=ART2.SG	=ln	=ln				
-teop	viv	0014	vasu	stone	np:other	np		other	4004	
+teop	viv	0014	vasu	stone	np:l	np		l	4004	
 teop	viv	0014	bona	ANA	rn	rn				
 teop	viv	0014	#	#	#ac	#ac				
-teop	viv	0014	be	if_when	other	other				
+teop	viv	0014	be	if_when	conj_other	conj_other				
 teop	viv	0014	ZERO	3SG.ZERO	0.h:s	0	h	s	4001	
 teop	viv	0014	va-ro-roava	MULT-RED-sun	v:pred	v		pred		
 teop	viv	0014	nana	3SG.IPFV	rv-pro_h_s	rv-pro_h_s				
@@ -113,13 +114,13 @@ teop	viv	0015	bona	ANA	rn	rn
 teop	viv	0015	me	also	other	other				
 teop	viv	0015	na	TAM2	lv	lv				
 teop	viv	0015	tii	be	v:pred	v		pred		
-teop	viv	0015	va-totobin	va-exact	rv	rv				
+teop	viv	0015	va-totobin	ADVR-exact	rv	rv				
 teop	viv	0015	nao	thither	rv	rv				
 teop	viv	0015	=na	=3SG.IPFV	=rv-pro_a	=rv-pro_a				
 teop	viv	0015	bono	OBJ.ART3.SG	ln	ln				
 teop	viv	0015	hum	place	np:p	np		p	4008	new
 teop	viv	0015	vai	DEM6	rn	rn				
-teop	viv	0016	#	#	#rc	#rc				
+teop	viv	0016	#	#	#rc_rn	#rc_rn				
 teop	viv	0016	to	REL	rel_pro:other	rel_pro		other	4008	
 teop	viv	0016	nana	warm	v:pred	v		pred		
 teop	viv	0016	maa	hither	rv	rv				
@@ -129,228 +130,227 @@ teop	viv	0016	a	ART2.SG	ln	ln
 teop	viv	0016	roava	sun	np:a	np		a	4009	unused
 teop	viv	0017	[PAUSE]	NC	nc	nc				
 teop	viv	0018	#	#	##	##				
-teop	viv	0018	M=	and4=	=other	=other				
+teop	viv	0018	me=	and4=	=conj_other	=conj_other				
 teop	viv	0018	erau	so	other	other				
 teop	viv	0019	te	PREP	adp	adp				
 teop	viv	0019	=a	=ART2.SG	=ln	=ln				
-teop	viv	0019	peha	INDEF.A	ln	ln				
+teop	viv	0019	peha	INDEF2.SG	ln	ln				
 teop	viv	0019	bon	night	np:other	np		other		
-teop	viv	0020	me	and4	other	other				
+teop	viv	0020	me	and4	conj_other	conj_other				
 teop	viv	0020	=a	=ART2.SG	=ln	=ln				
-teop	viv	0020	peha	INDEF.A	ln	ln				
-teop	viv	0020	bua	two.A	ln	ln				
+teop	viv	0020	peha	INDEF2.SG	ln	ln				
+teop	viv	0020	bua	two2.SG	ln_num	ln_num				
 teop	viv	0020	otei	man	pl_np.h:s	pl_np	h	s	4011	new
 teop	viv	0020	paa	TAM3	lv	lv				
 teop	viv	0020	kao	go	v:pred	v		pred		
-teop	viv	0020	gunaha	go.down	rv	rv				
+teop	viv	0020	gunaha	go.down	rv_v	rv_v				
 teop	viv	0020	nao	thither	rv	rv				
 teop	viv	0020	roho	before	rv	rv				
 teop	viv	0020	ruene	river	np:g	np		g	4003	
 teop	viv	0021	#	#	##	##				
 teop	viv	0021	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s	4011	
 teop	viv	0021	A	ART2.SG	ln	ln				
-teop	viv	0021	bua	two.A	ln	ln				
+teop	viv	0021	bua	two2.SG	ln_num	ln_num				
 teop	viv	0021	roosuu	giant	pl_np.h:pred	pl_np	h	pred		
 teop	viv	0021	#	#	##	##				
 teop	viv	0021	a	ART2.SG	ln	ln				
-teop	viv	0021	meha	other.A	np.h:s	np	h	s	4012	bridging
-teop	viv	0021	a	ART2.SG	ln	ln				
-teop	viv	0021	mata	eye	ln	ln				
-teop	viv	0021	kehoo	blind	ap_other:pred	ap_other		pred		
+teop	viv	0021	meha	other2.SG	np.h:s	np	h	s	4012	bridging
+teop	viv	0021	a	ART2.SG	nc	nc				
+teop	viv	0021	mata	eye	ap_other:pred	ap_other		pred		
+teop	viv	0021	kehoo	blind	other	other				
 teop	viv	0021	#	#	##	##				
 teop	viv	0021	a	ART2.SG	ln	ln				
-teop	viv	0021	meha	other.A	np.h:s	np	h	s	4013	bridging
+teop	viv	0021	meha	other2.SG	np.h:s	np	h	s	4013	bridging
 teop	viv	0021	a	ART2.SG	ln	ln				
 teop	viv	0021	ihu	nose	ap_other:pred	ap_other		pred		
-teop	viv	0021	govaa	eaten.away.by.sores	rn	rn				
+teop	viv	0021	govaa	eaten.away.by.sores	other	other				
 teop	viv	0022	[PAUSE]	NC	nc	nc				
 teop	viv	0023	#	#	##	##				
-teop	viv	0023	me=	and4=	=other	=other				
+teop	viv	0023	me=	and4=	=conj_other	=conj_other				
 teop	viv	0023	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	4011	
 teop	viv	0023	paa	TAM3	lv	lv				
 teop	viv	0023	no	thither	v:pred	v		pred		
-teop	viv	0023	tara	see	rv	rv				
+teop	viv	0023	tara	see	rv_v	rv_v				
 teop	viv	0023	bona	OBJ.ART2.SG	ln	ln				
-teop	viv	0023	si	DIM	ln	ln				
+teop	viv	0023	sii	DIM	ln	ln				
 teop	viv	0023	otei	man	np.h:p	np	h	p	4001	
 teop	viv	0023	bona	ANA	rn	rn				
 teop	viv	0023	#	#	##	##				
 teop	viv	0023	eve	3SG.PRON	pro.h:s	pro	h	s	4001	
-teop	viv	0023	he	but	other	other				
+teop	viv	0023	he	but	conj_other	conj_other				
 teop	viv	0023	goroho	sleep	v:pred	v		pred		
 teop	viv	0023	nana	3SG.IPFV	rv-pro_h_s	rv-pro_h_s				
 teop	viv	0023	te	PREP	adp	adp				
 teop	viv	0023	=a	=ART2.SG	=ln	=ln				
-teop	viv	0023	vasu	stone	np:other	np		other	4004	
+teop	viv	0023	vasu	stone	np:l	np		l	4004	
 teop	viv	0024	#	#	##	##				
-teop	viv	0024	me	and4	other	other				
+teop	viv	0024	me	and4	conj_other	conj_other				
 teop	viv	0024	=a	=ART2.SG	=ln	=ln				
-teop	viv	0024	peha	INDEF.A	np.h:s_ds	np	h	s_ds	4037	bridging
+teop	viv	0024	peha	INDEF2.SG	np.h:s_ds	np	h	s_ds	4037	bridging
 teop	viv	0024	paa	TAM3	lv	lv				
 teop	viv	0024	sue	say	v:pred	v		pred		
 teop	viv	0025	#	#	##ds	##ds				
 teop	viv	0025	Eh	Eh	other	other				
-teop	viv	0025	eara	1PL.IN.PRON	pl_pro.1:s	pl_pro	1	s	4011	
+teop	viv	0025	e-ara	H-1PL.IN.PRON	pl_pro.1:s	pl_pro	1	s	4011	
 teop	viv	0025	kahi	TAM1	lv	lv				
 teop	viv	0026	nomaa	come	v:pred	v		pred		
 teop	viv	0026	vahaa	back	rv	rv				
 teop	viv	0026	#	#	##ds	##ds				
-teop	viv	0026	eara	1PL.IN.PRON	pl_pro.1:a	pl_pro	1	a	4011	
+teop	viv	0026	e-ara	H-1PL.IN.PRON	pl_pro.1:a	pl_pro	1	a	4011	
 teop	viv	0026	paa	TAM3	lv	lv				
 teop	viv	0026	ma	come	v:pred	v		pred		
-teop	viv	0026	dee	carry	rv	rv				
+teop	viv	0026	dee	carry	rv_v	rv_v				
 teop	viv	0026	a	ART2.SG	ln	ln				
 teop	viv	0026	otei	man	np.h:p	np	h	p	4001	
 teop	viv	0026	#	#	#ac	#ac				
-teop	viv	0026	be	if_when	other	other				
+teop	viv	0026	be	if_when	conj_other	conj_other				
 teop	viv	0026	ZERO	3SG.ZERO	0.h:s	0	h	s	4001	
 teop	viv	0026	peana	busy	v:pred	v		pred		
-teop	viv	0026	goroho	sleep	rv	rv				
-teop	viv	0026	nana=	3SG.IPFV=	=rv-pro_h_s	=rv-pro_h_s				
-teop	viv	0026	i	DEM1	dem_other	dem_other			4004	
+teop	viv	0026	goroho	sleep	rv_v	rv_v				
+teop	viv	0026	nana	3SG.IPFV	rv-pro_h_s	rv-pro_h_s				
+teop	viv	0026	=i	=DEM1	=dem_other	=dem_other			4004	
 teop	viv	0027	[PAUSE]	NC	nc	nc				
 teop	viv	0028	#	#	##	##				
-teop	viv	0028	Me	and4	other	other				
+teop	viv	0028	Me	and4	conj_other	conj_other				
 teop	viv	0029	erau	so	other	other				
-teop	viv	0029	me=	and4=	=other	=other				
+teop	viv	0029	me=	and4=	=conj_other	=conj_other				
 teop	viv	0029	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	4011	
 teop	viv	0029	paa	TAM3	lv	lv				
 teop	viv	0029	nao	go	v:pred	v		pred		
 teop	viv	0029	vahaa	back	rv	rv				
 teop	viv	0029	a	ART2.SG	ln	ln				
-teop	viv	0029	bua	two.A	ln	ln				
+teop	viv	0029	bua	two2.SG	ln_num	ln_num				
 teop	viv	0029	otei	man	pl_np.h:dt_s	pl_np	h	dt_s	4011	
 teop	viv	0029	bari	ANA.PL	rn	rn				
 teop	viv	0030	#	#	##	##				
-teop	viv	0030	Meha	other.A	ln	ln				
+teop	viv	0030	Meha	other2.SG	ln	ln				
 teop	viv	0030	nubunubu	morning	np:other	np		other	4014	new
-teop	viv	0030	me=	and4=	=other	=other				
+teop	viv	0030	me=	and4=	=conj_other	=conj_other				
 teop	viv	0030	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	4011	
 teop	viv	0030	paa	TAM3	lv	lv				
 teop	viv	0030	kao	go	v:pred	v		pred		
-teop	viv	0030	gunaha	go.down	rv	rv				
+teop	viv	0030	gunaha	go.down	rv_v	rv_v				
 teop	viv	0030	bana	again	rv	rv				
 teop	viv	0030	vo	GOAL	rv	rv				
 teop	viv	0030	maa	hither	rv	rv				
 teop	viv	0030	ruene	river	np:g	np		g	4003	
 teop	viv	0031	#	#	##	##				
 teop	viv	0031	nubunubu	morning	np:other	np		other	4014	
-teop	viv	0031	me=	and4=	=other	=other				
+teop	viv	0031	me=	and4=	=conj_other	=conj_other				
 teop	viv	0031	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	4011	
 teop	viv	0031	paa	TAM3	lv	lv				
 teop	viv	0031	kao	go	v:pred	v		pred		
-teop	viv	0031	gunaha	go.down	rv	rv				
+teop	viv	0031	gunaha	go.down	rv_v	rv_v				
 teop	viv	0031	bana	again	rv	rv				
 teop	viv	0031	maa	hither	rv	rv				
 teop	viv	0031	ruene	river	np:g	np		g	4003	
 teop	viv	0032	#	#	##	##				
-teop	viv	0032	me	and4	other	other				
+teop	viv	0032	me	and4	conj_other	conj_other				
 teop	viv	0032	=a	=ART2.SG	=ln	=ln				
-teop	viv	0032	si	DIM	ln	ln				
+teop	viv	0032	sii	DIM	ln	ln				
 teop	viv	0032	otei	man	np.h:s	np	h	s	4001	
 teop	viv	0032	vai	DEM6	rn	rn				
 teop	viv	0032	paa	TAM3	lv	lv				
 teop	viv	0032	nao	go	v:pred	v		pred		
 teop	viv	0032	bana	again	rv	rv				
 teop	viv	0032	#	#	#cc:g	#cc		g		
-teop	viv	0032	tea	COMP1	other	other				
+teop	viv	0032	tea	COMPL1	conj_other	conj_other				
 teop	viv	0032	goroho	sleep	vother:pred	vother		pred		
 teop	viv	0032	te	PREP	adp	adp				
 teop	viv	0032	=a	=ART2.SG	=ln	=ln				
 teop	viv	0032	vasu	stone	np:l	np		l	4004	
 teop	viv	0033	#	#	##	##				
-teop	viv	0033	Evehee	but	other	other				
+teop	viv	0033	Evehee	but	conj_other	conj_other				
 teop	viv	0033	a	ART2.SG	ln	ln				
-teop	viv	0033	maamihu	every	ln	ln				
-teop	viv	0033	vuri	time	np:other	np		other		
+teop	viv	0033	maamihu	every	np:dt	np		dt		
+teop	viv	0033	vuri	time	rn	rn				
 teop	viv	0033	vai	DEM6	rn	rn				
 teop	viv	0033	#	#	#rc_rn	#rc_rn				
-teop	viv	0033	to	REL	rel_pro.h:s	rel_pro	h	s		
+teop	viv	0033	to	REL	rel_pro.h:other	rel_pro	h	other		
 teop	viv	0033	nomaa	come	v:pred	v		pred		
-teop	viv	0033	=na	=3SG.IPFV=	=rv-pro_h_s	=rv-pro_h_s				
+teop	viv	0033	na=	3SG.IPFV=	=rv-pro_h_s	=rv-pro_h_s				
 teop	viv	0033	=e	=3SG.PRON	=pro.h:s	=pro	h	s	4001	
 teop	viv	0033	#	#	#cc:g	#cc		g		
-teop	viv	0033	tea	COMP1	other	other				
+teop	viv	0033	tea	COMPL1	conj_other	conj_other				
 teop	viv	0033	sisibu	bathe	vother:pred	vother		pred		
 teop	viv	0033	%	%	%	%				
 teop	viv	0033	a=	ART2.SG=	=ln	=ln				
-teop	viv	0033	maa	PLM	ln	ln				
-teop	viv	0033	vahara	little.PL	ln	ln				
-teop	viv	0033	beiko	child	pl_np.h:s	pl_np	h	s	4015	new
+teop	viv	0033	maa	PLM	pl_np.h:s	pl_np	h	s		
+teop	viv	0033	vahara	little.PL	rn	rn				
+teop	viv	0033	beiko	child	rn_np.h	rn_np	h		4015	new
 teop	viv	0033	mee	also	other	other				
 teop	viv	0033	na	TAM2	lv	lv				
 teop	viv	0033	nomaa	come	v:pred	v		pred		
 teop	viv	0033	rori	3PL.IPFV	rv-pl_pro_h_s	rv-pl_pro_h_s				
 teop	viv	0033	#	#	#cc:g	#cc		g		
-teop	viv	0033	tea	COMP1	other	other				
+teop	viv	0033	tea	COMPL1	conj_other	conj_other				
 teop	viv	0033	sisibu	bathe	vother:pred	vother		pred		
+teop	viv	0034	#	#	##	##				
+teop	viv	0034	Me	and4	conj_other	conj_other				
 teop	viv	0034	#	#	#ac	#ac				
-teop	viv	0034	Me	and4	other	other				
-teop	viv	0034	be=	if_when=	=other	=other				
+teop	viv	0034	be=	if_when=	=conj_other	=conj_other				
 teop	viv	0034	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	4015	
 teop	viv	0034	tara	see	v:pred	v		pred		
 teop	viv	0034	#	#	#cc:p	#cc		p		
-teop	viv	0034	be=	COMP2=	=other	=other				
-teop	viv	0034	a	ART2.SG	ln	ln				
+teop	viv	0034	be	COMPL2	conj_other	conj_other				
+teop	viv	0034	=a	=ART2.SG	=ln	=ln				
 teop	viv	0034	sahata	poor.man	np.h:s	np	h	s	4001	
 teop	viv	0034	vai	DEM6	rn	rn				
 teop	viv	0034	goroho	sleep	v:pred	v		pred		
 teop	viv	0034	nana	3SG.IPFV	rv-pro_h_s	rv-pro_h_s				
 teop	viv	0034	te	PREP	adp	adp				
 teop	viv	0034	=a	=ART2.SG	=ln	=ln				
-teop	viv	0034	vasu	stone	np:other	np		other	4004	
+teop	viv	0034	vasu	stone	np:l	np		l	4004	
 teop	viv	0035	#	#	##	##				
 teop	viv	0035	ZERO	3SG.ZERO	0.h:s	0	h	s	4001	
-teop	viv	0035	a	ART2.SG	ln	ln				
+teop	viv	0035	a	ART2.SG	other	other				
 teop	viv	0035	pii-pii	RED-sore	ap_other:pred	ap_other		pred		
 teop	viv	0035	#	#	##	##				
 teop	viv	0035	ZERO	ZERO	0.h:s	0	h	s		
-teop	viv	0035	a	ART2.SG	ln	ln				
+teop	viv	0035	a	ART2.SG	other	other				
 teop	viv	0035	pii-pii-ana	RED-full.of.sores	ap_other:pred	ap_other		pred		
 teop	viv	0036	eve	NC	nc	nc				
 teop	viv	0036	repaa	NC	nc	nc				
-teop	viv	0037	#	#	##	##				
+teop	viv	0037	#	#	#	#				
 teop	viv	0037	eori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	4015	
-teop	viv	0037	re=	CONSEC=	=other	=other				
+teop	viv	0037	re=	CONSEC=	=conj_other	=conj_other				
 teop	viv	0037	paa	TAM3	lv	lv				
 teop	viv	0037	kao	go	v:pred	v		pred		
-teop	viv	0037	geve	turning.away.from	rv	rv				
+teop	viv	0037	geve	turning.away.from	rv_v	rv_v				
 teop	viv	0037	bari	4SG2.PRON	pro.h:p	pro	h	p	4001	
 teop	viv	0037	#	#	##neg	##neg				
 teop	viv	0037	ei	DEM2	other	other				
-teop	viv	0037	kou	PTCL3	other	other				
+teop	viv	0037	kou	EMPH23	other	other				
 teop	viv	0038	ZERO	3PL.ZERO	pl_0.h:a	pl_0	h	a	4015	
 teop	viv	0038	sa	NEG	lv	lv				
 teop	viv	0038	rake	want	v:pred	v		pred		
-teop	viv	0038	bata	along	rv	rv				
+teop	viv	0038	bata	CONT	rv	rv				
 teop	viv	0038	haa	NEG	rv	rv				
 teop	viv	0038	=ri	=3PL.IPFV	=rv-pl_pro_h_a	=rv-pl_pro_h_a				
 teop	viv	0038	#	#	#cc:p	#cc		p		
-teop	viv	0038	tea	COMP1	other	other				
+teop	viv	0038	tea	COMPL1	conj_other	conj_other				
 teop	viv	0038	sisibu	bathe	vother:pred	vother		pred		
-teop	viv	0039	rihi	near	np:l	np		l		
-teop	viv	0039	-n=	-3SG.POSS=	-rn_pro:poss	-rn_pro		poss	4001	
-teop	viv	0039	a	ART2.SG	rn	rn				
+teop	viv	0039	rihina	near	rv	rv				
 teop	viv	0039	bona	OBJ.ART2.SG	rn	rn				
 teop	viv	0039	otei	man	rn_np.h:poss	rn_np	h	poss		
 teop	viv	0039	vai	DEM6	rn	rn				
 teop	viv	0039	a	ART2.SG	rn	rn				
-teop	viv	0039	pii-pii	RED-sore	rn	rn				
+teop	viv	0039	pii-pii	RED-sore	rn_adj	rn_adj				
 teop	viv	0040	[PAUSE]	NC	nc	nc				
 teop	viv	0041	#	#	##	##				
-teop	viv	0041	Me	and4	other	other				
+teop	viv	0041	Me	and4	conj_other	conj_other				
 teop	viv	0042	te	PREP	adp	adp				
 teop	viv	0042	=o	=ART3.SG	=ln	=ln				
-teop	viv	0042	peho	INDEF.O	ln	ln				
+teop	viv	0042	peho	INDEF3.SG	ln	ln				
 teop	viv	0042	bon	day	np:other	np		other		
 teop	viv	0042	bana	again	other	other				
-teop	viv	0042	kou	PTCL3	other	other				
+teop	viv	0042	kou	EMPH23	other	other				
 teop	viv	0043	a	ART2.SG	ln	ln				
-teop	viv	0043	bua	two.A	ln	ln				
+teop	viv	0043	bua	two2.SG	ln_num	ln_num				
 teop	viv	0043	roosuu	giant	pl_np.h:s	pl_np	h	s	4011	
 teop	viv	0043	vai	DEM6	rn	rn				
 teop	viv	0043	kao	go	v:pred	v		pred		
-teop	viv	0043	gunaha	go.down	rv	rv				
+teop	viv	0043	gunaha	go.down	rv_v	rv_v				
 teop	viv	0043	vai	now	rv	rv				
 teop	viv	0043	bana	again	rv	rv				
 teop	viv	0043	maa	hither	rv	rv				
@@ -358,17 +358,17 @@ teop	viv	0043	=i	=DEM1	=dem_other	=dem_other			4003
 teop	viv	0044	#	#	##	##				
 teop	viv	0044	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s	4011	
 teop	viv	0044	Kao	go	v:pred	v		pred		
-teop	viv	0044	gunaha	go.down	rv	rv				
-teop	viv	0044	taneo	from	rv	rv				
+teop	viv	0044	gunaha	go.down	rv_v	rv_v				
+teop	viv	0044	taneo	begin	rv	rv				
 teop	viv	0044	bana	again	rv	rv				
 teop	viv	0044	maa	hither	rv	rv				
 teop	viv	0044	te	PREP	adp	adp				
 teop	viv	0044	=o	=ART3.SG	=ln	=ln				
-teop	viv	0044	hopo	cave	np:obl	np		obl	4018	bridging
+teop	viv	0044	hopo	cave	np:l	np		l	4018	bridging
 teop	viv	0044	te=	PREP=	=rn_adp	=rn_adp				
 teop	viv	0044	ori	3PL.PRON	rn_pl_pro.h:poss	rn_pl_pro	h	poss	4011	
 teop	viv	0044	#	#	##	##				
-teop	viv	0044	me=	and4=	=other	=other				
+teop	viv	0044	me=	and4=	=conj_other	=conj_other				
 teop	viv	0044	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	4011	
 teop	viv	0044	paa	TAM3	lv	lv				
 teop	viv	0044	gunaha	go.down	v:pred	v		pred		
@@ -380,74 +380,77 @@ teop	viv	0045	Sun	Stand	v:pred	v		pred
 teop	viv	0045	rori	3PL.IPFV	rv-pl_pro_h_s	rv-pl_pro_h_s				
 teop	viv	0045	rau	DEM5	dem_other:l	dem_other		l	4003	
 teop	viv	0045	#	#	##	##				
-teop	viv	0045	eori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	4011	
+teop	viv	0045	e-ori	H-3PL.PRON	pl_pro.h:a	pl_pro	h	a	4011	
 teop	viv	0045	tara	see	v:pred	v		pred		
 teop	viv	0045	bana	again	rv	rv				
 teop	viv	0045	nao	thither	rv	rv				
 teop	viv	0045	bona	OBJ.ART2.SG	ln	ln				
-teop	viv	0045	si	DIM	ln	ln				
+teop	viv	0045	sii	DIM	ln	ln				
 teop	viv	0045	otei	man	np.h:p	np	h	p	4001	
 teop	viv	0045	vai	DEM6	rn	rn				
-teop	viv	0045	#	#	#nc	#nc				
+teop	viv	0045	#	#	#cc:p	#cc		p		
 teop	viv	0045	goroho	sleep	nc	nc				
 teop	viv	0045	nana	3SG.IPFV	nc	nc				
 teop	viv	0045	te	PREP	nc	nc				
 teop	viv	0045	=a	=ART2.SG	nc	nc				
-teop	viv	0045	vasu	stone	nc_np	nc_np			4004	
+teop	viv	0045	vasu	stone	nc_np:l	nc_np		l	4004	
 teop	viv	0046	#	#	##	##				
-teop	viv	0046	me=	and4=	=other	=other				
+teop	viv	0046	me=	and4=	=conj_other	=conj_other				
 teop	viv	0046	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	4011	
 teop	viv	0046	paa	TAM3	lv	lv				
 teop	viv	0046	paku	do	v:pred	v		pred		
 teop	viv	0046	bono	OBJ.ART3.SG	ln	ln				
-teop	viv	0046	peho	INDEF.O	ln	ln				
+teop	viv	0046	peho	INDEF3.SG	ln	ln				
 teop	viv	0046	vakokona	plan	np:p	np		p	4019	bridging
 teop	viv	0046	te=	PREP=	=rn_adp	=rn_adp				
 teop	viv	0046	ori	3PL.PRON	rn_pro.h:poss	rn_pro	h	poss	4011	
 teop	viv	0047	#	#	##ds	##ds				
-teop	viv	0047	Eara	1PL.IN.PRON	pl_pro.1:a	pl_pro	1	a	4011	
+teop	viv	0047	E-ara	H-1PL.IN.PRON	pl_pro.1:a	pl_pro	1	a	4011	
 teop	viv	0047	kahi	TAM1	lv	lv				
 teop	viv	0047	gono	get	v:pred	v		pred		
 teop	viv	0047	rara	1PL.IN.IPFV	rv-pl_pro_1_a	rv-pl_pro_1_a				
 teop	viv	0047	e	ART1.SG	ln	ln				
-teop	viv	0047	ta	piece	ln	ln				
-teop	viv	0047	naono	wood	np:p	np		p	4020	new
+teop	viv	0047	ta	piece	np:p	np		p		
+teop	viv	0047	naono	wood	rn_np	rn_np			4020	new
 teop	viv	0048	[PAUSE]	NC	nc	nc				
 teop	viv	0049	eara	NC	nc	nc				
 teop	viv	0049	kahi	NC	nc	nc				
 teop	viv	0050	#	#	##	##				
-teop	viv	0050	a-re	1PL.IN-CONSEC	pl_pro.1:s	pl_pro	1	s	4011	
+teop	viv	0050	a-	1PL.IN-	-pl_pro.1:s	-pl_pro	1	s	4011	
+teop	viv	0050	re	CONSEC	conj_other	conj_other				
 teop	viv	0050	paa	TAM3	lv	lv				
 teop	viv	0050	nao	go	v:pred	v		pred		
 teop	viv	0050	#	#	##	##				
-teop	viv	0050	a-re	1PL.IN-CONSEC	pl_pro.1:a	pl_pro	1	a	4011	
+teop	viv	0050	a-	1PL.IN-	-pl_pro.1:a	-pl_pro	1	a	4011	
+teop	viv	0050	re	CONSEC	conj_other	conj_other				
 teop	viv	0050	paa	TAM3	lv	lv				
 teop	viv	0051	kis	tie	v:pred	v		pred		
 teop	viv	0051	a	ART2.SG	ln	ln				
 teop	viv	0051	moo	foot	np:p	np		p	4021	bridging
-teop	viv	0051	-n=	-3SG.POSS=	-rn_pro.h:poss	-rn_pro	h	poss	4001	
+teop	viv	0051	-n=	-3SG.POSS=	=rn_pro:poss	=rn_pro		poss	4001	
 teop	viv	0052	a	ART2.SG	rn	rn				
 teop	viv	0052	otei	man	rn_np.h:poss	rn_np	h	poss	4001	
 teop	viv	0052	vai	DEM6	rn	rn				
-teop	viv	0052	ae	and1	rn	rn				
-teop	viv	0052	kuri	hand	rn_np	rn_np			4022	bridging
-teop	viv	0052	-na	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss		
+teop	viv	0052	ae	and1	conj_other	conj_other				
+teop	viv	0052	kuri-	hand	np:p	np		p	4022	bridging
+teop	viv	0052	-na	-3SG.POSS	-rn_pro:poss	-rn_pro		poss		
 teop	viv	0052	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	4001	
 teop	viv	0052	#	#	##	##				
-teop	viv	0052	a-re	1PL.IN-CONSEC	pl_pro.1:a	pl_pro	1	a	4011	
+teop	viv	0052	a-re	1PL.IN-	-pl_pro.1:a	-pl_pro	1	a	4011	
+teop	viv	0052	re	CONSEC	conj_other	conj_other				
 teop	viv	0052	paa	TAM3	lv	lv				
 teop	viv	0052	dee	carry	v:pred	v		pred		
 teop	viv	0052	eve	3SG	pro.h:p	pro	h	p	4001	
 teop	viv	0053	[PAUSE]	NC	nc	nc				
 teop	viv	0054	#	#	##	##				
-teop	viv	0054	m=	and4=	=other	=other				
+teop	viv	0054	m=	and4=	=conj_other	=conj_other				
 teop	viv	0054	erau	so	other	other				
-teop	viv	0055	me=	and4=	=other	=other				
+teop	viv	0055	me=	and4=	=conj_other	=conj_other				
 teop	viv	0055	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	4011	
 teop	viv	0055	paa	TAM3	lv	lv				
 teop	viv	0055	paku	do	v:pred	v		pred		
 teop	viv	0055	vo	like	rv	rv				
-teop	viv	0055	teebona	PREP.ANA	other	other				
+teop	viv	0055	teebona	PREP.ANA	other:obl	other		obl		
 teop	viv	0056	[PAUSE]	NC	nc	nc				
 teop	viv	0057	#	#	##	##				
 teop	viv	0057	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s	4011	
@@ -456,56 +459,56 @@ teop	viv	0057	vai	now	rv	rv
 teop	viv	0058	#	#	##	##				
 teop	viv	0058	ZERO	3PL.ZERO	pl_0.h:a	pl_0	h	a	4011	
 teop	viv	0058	kis	tie	v:pred	v		pred		
-teop	viv	0058	bona	4SG	ln	ln				
-teop	viv	0058	bua	two.A	ln	ln				
-teop	viv	0058	kuri	hand	pl_np:p	pl_np		p	4022	
-teop	viv	0058	-n=	-3SG.POSS=	-rn_pro.h:poss	-rn_pro	h	poss	4001	
+teop	viv	0058	bona	OBJ.ART2.SG	ln	ln				
+teop	viv	0058	bua	two2.SG	ln_num	ln_num				
+teop	viv	0058	kuri-	hand-	np:p	np		p	4022	
+teop	viv	0058	-n=	-3SG.POSS=	=rn_pro:poss	=rn_pro		poss	4001	
 teop	viv	0058	a	ART2.SG	rn	rn				
 teop	viv	0059	sahata	poor.man	rn_np.h:poss	rn_np	h	poss	4001	
 teop	viv	0059	vai	DEM6	rn	rn				
 teop	viv	0059	a	ART2.SG	rn	rn				
-teop	viv	0059	pii-pii	RED.sore	rn	rn				
+teop	viv	0059	pii-pii	RED.sore	rn_adj	rn_adj				
 teop	viv	0059	a	ART2.SG	rn	rn				
-teop	viv	0059	pii-pii-ana	person.covered.with.sores	rn	rn				
+teop	viv	0059	pii-pii-ana	RED-sore-full.of	rn_adj	rn_adj				
 teop	viv	0060	#	#	##	##				
-teop	viv	0060	me=	and4=	=other	=other				
+teop	viv	0060	me=	and4=	=conj_other	=conj_other				
 teop	viv	0060	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	4011	
 teop	viv	0060	paa	TAM3	lv	lv				
 teop	viv	0060	nao	go	v:pred	v		pred		
 teop	viv	0060	#	#	##	##				
-teop	viv	0060	me=	and4=	=other	=other				
+teop	viv	0060	me=	and4=	=conj_other	=conj_other				
 teop	viv	0060	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	4011	
 teop	viv	0060	paa	TAM3	lv	lv				
-teop	viv	0060	no	thither	v:pred	v		pred		
-teop	viv	0060	kis	just	rn	rn				
+teop	viv	0060	nao	go	v:pred	v		pred		
+teop	viv	0060	kisi	just	rn	rn				
 teop	viv	0060	pete	also	rv	rv				
 teop	viv	0060	bona	OBJ.ART2.SG	ln	ln				
-teop	viv	0061	moo	foot	pl_np:p	pl_np		p	4021	
-teop	viv	0061	-na	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss	4001	
+teop	viv	0061	moo-	foot-	np:p	np		p	4021	
+teop	viv	0061	-na=	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss	4001	
 teop	viv	0061	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	4001	
 teop	viv	0062	#	#	##	##				
-teop	viv	0062	me=	and4=	=other	=other				
-teop	viv	0062	ori	.PRON	pl_pro.h:a	pl_pro	h	a	4011	
+teop	viv	0062	me=	and4=	=conj_other	=conj_other				
+teop	viv	0062	ori	PRON	pl_pro.h:a	pl_pro	h	a	4011	
 teop	viv	0062	paa	TAM3	lv	lv				
 teop	viv	0063	hogo	push	v:pred	v		pred		
 teop	viv	0063	ni	APPL	rv	rv				
 teop	viv	0063	nao	thither	rv	rv				
 teop	viv	0063	bona	OBJ.ART2.SG	ln	ln				
 teop	viv	0063	ta	piece	np:p	np		p	4017	bridging
-teop	viv	0063	naono	wood	rn	rn				
+teop	viv	0063	naono	wood	rn_np	rn_np				
 teop	viv	0064	te	PREP	adp	adp				
 teop	viv	0064	=a	=ART2.SG	=ln	=ln				
-teop	viv	0064	kuri	hand	np:obl	np		obl	4022	
-teop	viv	0064	-na	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss	4001	
+teop	viv	0064	kuri-	hand-	np:g	np		g	4022	
+teop	viv	0064	-na=	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss	4001	
 teop	viv	0064	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	4001	
-teop	viv	0064	ae	and1	rn	rn				
-teop	viv	0064	te	PREP	rn	rn				
-teop	viv	0064	=a	=ART2.SG	=rn	=rn				
-teop	viv	0064	moo	foot	rn_np	rn_np			4021	
-teop	viv	0064	-na	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss	4001	
+teop	viv	0064	ae	and1	conj_other	conj_other				
+teop	viv	0064	te	PREP	adp	adp				
+teop	viv	0064	=a	=ART2.SG	=ln	=ln				
+teop	viv	0064	moo-	foot-	np:g	np		g	4021	
+teop	viv	0064	-na=	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss	4001	
 teop	viv	0064	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	4001	
 teop	viv	0064	#	#	##	##				
-teop	viv	0064	me=	and4=	=other	=other				
+teop	viv	0064	me=	and4=	=conj_other	=conj_other				
 teop	viv	0064	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	4011	
 teop	viv	0064	paa	TAM3	lv	lv				
 teop	viv	0064	dee	carry	v:pred	v		pred		
@@ -513,78 +516,78 @@ teop	viv	0064	bari	4SG2.PRON	pro.h:p	pro	h	p	4001
 teop	viv	0065	[PAUSE]	NC	nc	nc				
 teop	viv	0066	#	#	##	##				
 teop	viv	0066	E	ART1.SG	ln	ln				
-teop	viv	0066	Ihugovaa	Ihugovaa	np.h:pred	np	h	pred	4013	
+teop	viv	0066	Ihugovaa	Ihugovaa	pn_np.h:pred	pn_np	h	pred	4013	
 teop	viv	0066	#	#	#rc:s	#rc		s		
 teop	viv	0066	to	REL	rel_pro.h:a	rel_pro	h	a	4013	
 teop	viv	0066	dee	carry	v:pred	v		pred		
 teop	viv	0066	momohu	first	rv	rv				
-teop	viv	0066	bata	along	rv	rv				
+teop	viv	0066	bata	CONT	rv	rv				
 teop	viv	0066	=na	=3SG.IPFV	=rv-pro_h_a	=rv-pro_h_a				
 teop	viv	0066	ZERO	4SG1.ZERO	0.h:p	0	h	p	4001	
 teop	viv	0067	#	#	##	##				
 teop	viv	0067	E	ART1.SG	ln	ln				
-teop	viv	0067	Matakehoo	Matakehoo	np.h:a	np	h	a	4012	
-teop	viv	0067	he	but	other	other				
+teop	viv	0067	Matakehoo	Matakehoo	pn_np.h:a	pn_np	h	a	4012	
+teop	viv	0067	he	but	conj_other	conj_other				
 teop	viv	0067	na	TAM2	lv	lv				
 teop	viv	0067	dee	carry	v:pred	v		pred		
 teop	viv	0067	va-murina	ADVR-back	rv	rv				
-teop	viv	0067	bata	along	rv	rv				
+teop	viv	0067	bata	CONT	rv	rv				
 teop	viv	0067	=na	=3SG.IPFV	=rv-pro_h_a	=rv-pro_h_a				
 teop	viv	0067	ZERO	4SG1.ZERO	0.h:p	0	h	p	4001	
 teop	viv	0068	#	#	##	##				
 teop	viv	0068	e	ART1.SG	ln	ln				
-teop	viv	0068	Ihugovaa	Ihugovaa	np.h:a	np	h	a	4013	
+teop	viv	0068	Ihugovaa	Ihugovaa	pn_np.h:a	pn_np	h	a	4013	
 teop	viv	0068	na	TAM2	lv	lv				
 teop	viv	0068	antee	be.able	v:pred	v		pred		
 teop	viv	0068	nana	3SG.IPFV	rv-pro_h_a	rv-pro_h_a				
 teop	viv	0068	#	#	#cc:p	#cc		p		
-teop	viv	0068	tea	COMP1	other	other				
+teop	viv	0068	tea	COMPL1	conj_other	conj_other				
 teop	viv	0068	tara	see	vother:pred	vother		pred		
-teop	viv	0068	bona	OBJ.ART2	ln	ln				
+teop	viv	0068	bona	OBJ.ART2.SG	ln	ln				
 teop	viv	0068	hanana	track	np:p	np		p	4023	bridging
 teop	viv	0068	#	#	#rc_rn	#rc_rn				
-teop	viv	0068	to	REL	rel_pro:p	rel_pro		p	4023	
+teop	viv	0068	to	REL	rel_pro:l	rel_pro		l	4023	
 teop	viv	0068	pita	walk	v:pred	v		pred		
-teop	viv	0068	bata	along	rv	rv				
-teop	viv	0068	ri=	3PL.IPFV=	=rv-pl_pro_h_a	=rv-pl_pro_h_a				
-teop	viv	0068	ori	3PL	pl_pro.h:a	pl_pro	h	a	4011	
+teop	viv	0068	bata	CONT	rv	rv				
+teop	viv	0068	ri=	3PL.IPFV=	=rv-pl_pro_h_s	=rv-pl_pro_h_s				
+teop	viv	0068	ori	3PL	pl_pro.h:s	pl_pro	h	s	4011	
 teop	viv	0069	#	#	##	##				
-teop	viv	0069	me=	and4=	=other	=other				
+teop	viv	0069	me=	and4=	=conj_other	=conj_other				
 teop	viv	0069	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	4011	
 teop	viv	0069	paa	TAM3	lv	lv				
 teop	viv	0069	dee	carry	v:pred	v		pred		
 teop	viv	0069	bene	ART1.SG	ln	ln				
-teop	viv	0069	Piipii	Piipii	np.h:p	np	h	p	4001	
+teop	viv	0069	Piipii	Piipii	pn_np.h:p	pn_np	h	p	4001	
 teop	viv	0070	e	ART1.SG	ln	ln				
-teop	viv	0070	Pii-pii-ana	Piipiiana	np.h:dt_p	np	h	dt_p		
+teop	viv	0070	Pii-pii-ana	Piipiiana	pn_np.h:dt_p	pn_np	h	dt_p		
 teop	viv	0070	vai	DEM6	rn	rn				
 teop	viv	0070	#	#	##	##				
-teop	viv	0070	me=	and4=	=other	=other				
+teop	viv	0070	me=	and4=	=conj_other	=conj_other				
 teop	viv	0070	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	4011	
 teop	viv	0070	dee	carry	v:pred	v		pred		
 teop	viv	0070	ZERO	4SG2.ZERO	0.h:p	0	h	p	4001	
 teop	viv	0070	#	#	##	##				
-teop	viv	0070	me=	and4=	=other	=other				
+teop	viv	0070	me=	and4=	=conj_other	=conj_other				
 teop	viv	0070	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	4011	
 teop	viv	0070	dee	carry	v:pred	v		pred		
 teop	viv	0070	ZERO	4SG2.ZERO	0.h:p	0	h	p	4001	
 teop	viv	0070	#	#	##	##				
-teop	viv	0070	me=	and4=	=other	=other				
+teop	viv	0070	me=	and4=	=conj_other	=conj_other				
 teop	viv	0070	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	4011	
 teop	viv	0070	dee	carry	v:pred	v		pred		
 teop	viv	0070	ZERO	4SG2.ZERO	0.h:p	0	h	p	4001	
 teop	viv	0071	#	#	##	##				
 teop	viv	0071	a	ART2.SG	ln	ln				
 teop	viv	0071	sahata	poor.man	np.h:a	np	h	a	4001	
-teop	viv	0071	he	but	other	other				
+teop	viv	0071	he	but	conj_other	conj_other				
 teop	viv	0071	na	TAM2	lv	lv				
 teop	viv	0071	vakokona	think	v:pred	v		pred		
 teop	viv	0071	pahi	however	rv	rv				
-teop	viv	0071	bata	along	rv	rv				
+teop	viv	0071	bata	CONT	rv	rv				
 teop	viv	0071	=na	=3SG.IPFV	=rv-pro_h_a	=rv-pro_h_a				
 teop	viv	0072	#	#	#rc:p	#rc		p		
-teop	viv	0072	toro	REL.must	rel_pro:p	rel_pro		p		
-teop	viv	0072	paku	do	v:pred	v		pred		
+teop	viv	0072	toro	REL.must	v:pred	v		pred		
+teop	viv	0072	paku	do	rv_v	rv_v				
 teop	viv	0072	vaavaha	how	rv	rv				
 teop	viv	0072	vu=	IMM=	=rv	=rv				
 teop	viv	0072	ee	3SG.PRON	pro.h:a	pro	h	a	4001	
@@ -592,7 +595,7 @@ teop	viv	0073	#	#	##	##
 teop	viv	0073	ZERO	3SG.ZERO	0.h:a	0	h	a	4001	
 teop	viv	0073	Tei	stay	v:pred	v		pred		
 teop	viv	0073	vai	now	rv	rv				
-teop	viv	0073	me	with	rv	rv				
+teop	viv	0073	me	with	rv_adp	rv_adp				
 teop	viv	0073	bona	OBJ.ART2.SG	ln	ln				
 teop	viv	0073	vakokona	idea	np:p	np		p	4024	new
 teop	viv	0073	vai	DEM6	rn	rn				
@@ -603,34 +606,34 @@ teop	viv	0075	#	#	##	##
 teop	viv	0075	ZERO	3SG.ZERO	0.h:a	0	h	a	4001	
 teop	viv	0075	kahi	TAM1	lv	lv				
 teop	viv	0075	koto	bite	v:pred	v		pred		
-teop	viv	0075	kuru-kurus	RED-cut	rv	rv				
+teop	viv	0075	kuru-kurus	RED-cut	rv_v	rv_v				
 teop	viv	0075	nana	3SG.IPFV	rv-pro_h_a	rv-pro_h_a				
 teop	viv	0075	bono	OBJ.ART3.SG	ln	ln				
 teop	viv	0075	kara	string	np:p	np		p	4025	bridging
-teop	viv	0075	taba	thing	rn	rn				
+teop	viv	0075	taba	thing	rn_np	rn_np				
 teop	viv	0075	vai	DEM6	rn	rn				
-teop	viv	0075	kuri	hand	rn_np:poss	rn_np		poss	4022	
-teop	viv	0075	-na	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss	4001	
+teop	viv	0075	kuri-	hand-	rn_np:l	rn_np		l	4022	
+teop	viv	0075	-na=	-3SG.POSS	-rn_pro:poss	-rn_pro		poss	4001	
 teop	viv	0075	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	4001	
 teop	viv	0076	#	#	##	##				
-teop	viv	0076	me=	and4=	=other	=other				
+teop	viv	0076	me=	and4=	=conj_other	=conj_other				
 teop	viv	0076	ZERO	3SG.ZERO	0.h:s	0	h	s	4001	
 teop	viv	0076	paa	TAM3	lv	lv				
 teop	viv	0076	paku	do	v:pred	v		pred		
 teop	viv	0076	vo	like	rv	rv				
-teop	viv	0076	teebona	PREP.ANA	other	other				
+teop	viv	0076	teebona	PREP.ANA	other:obl	other		obl		
 teop	viv	0077	#	#	##	##				
 teop	viv	0077	ZERO	3SG.ZERO	0.h:a	0	h	a	4001	
 teop	viv	0077	koto	bite	v:pred	v		pred		
-teop	viv	0077	kuru-kurus	RED-cut	rv	rv				
+teop	viv	0077	kuru-kurus	RED-cut	rv_v	rv_v				
 teop	viv	0077	vai	now	rv	rv				
 teop	viv	0077	bono	OBJ.ART3.SG	ln	ln				
 teop	viv	0077	kara	string	np:p	np		p	4025	
 teop	viv	0077	taba	thing	rn	rn				
 teop	viv	0077	vaa	LNK	rn	rn				
 teop	viv	0078	[PAUSE]	NC	nc	nc				
-teop	viv	0079	kuri	hand	rn_np	rn_np			4022	
-teop	viv	0079	-na	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss	4001	
+teop	viv	0079	kuri-	hand-	rn_np	rn_np			4022	
+teop	viv	0079	-na=	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss	4001	
 teop	viv	0079	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	4001	
 teop	viv	0080	#	#	##	##				
 teop	viv	0080	erau	so	other	other				
@@ -638,66 +641,66 @@ teop	viv	0080	ZERO	3SG.ZERO	0.h:s	0	h	s	4001
 teop	viv	0080	vaa-huka	CAUS-move	v:pred	v		pred		
 teop	viv	0080	vai	now	rv	rv				
 teop	viv	0080	bona	OBJ.ART2.SG	ln	ln				
-teop	viv	0080	suin	body	np:p	np		p	4026	bridging
-teop	viv	0080	-na	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss	4001	
+teop	viv	0080	suin-	body-	np:p	np		p	4026	bridging
+teop	viv	0080	-na=	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss	4001	
 teop	viv	0080	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	4001	
 teop	viv	0081	#	#	##	##				
-teop	viv	0081	me=	and4=	=other	=other				
+teop	viv	0081	me=	and4=	=conj_other	=conj_other				
 teop	viv	0081	ZERO	3SG.ZERO	0.h:a	0	h	a	4001	
 teop	viv	0081	paa	TAM3	lv	lv				
 teop	viv	0081	no	go	v:pred	v		pred		
-teop	viv	0082	riga-rigaha	RED-untie	rv	rv				
+teop	viv	0082	riga-rigaha	RED-untie	rv_v	rv_v				
 teop	viv	0082	bona	OBJ.ART2.SG	ln	ln				
-teop	viv	0082	moo	foot	np:p	np		p	4021	
-teop	viv	0082	-na	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss	4001	
+teop	viv	0082	moo-	foot-	np:p	np		p	4021	
+teop	viv	0082	-na=	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss	4001	
 teop	viv	0082	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	4001	
 teop	viv	0083	#	#	##	##				
 teop	viv	0083	A	ART2.SG	ln	ln				
-teop	viv	0083	bua	two.A	ln	ln				
-teop	viv	0083	otei	man	np.h:a	np	h	a	4011	
-teop	viv	0083	he	but	other	other				
+teop	viv	0083	bua	two2.SG	ln_num	ln_num				
+teop	viv	0083	otei	man	pl_np.h:a	pl_np	h	a	4011	
+teop	viv	0083	he	but	conj_other	conj_other				
 teop	viv	0084	dee	carry	v:pred	v		pred		
-teop	viv	0084	bata	along	rv	rv				
+teop	viv	0084	bata	CONT	rv	rv				
 teop	viv	0084	=ri	=3PL.IPFV	=rv-pro_h_a	=rv-pro_h_a				
 teop	viv	0084	ZERO	4SG2.ZERO	0.h:p	0	h	p	4001	
 teop	viv	0084	#	#	##	##				
 teop	viv	0084	ZERO	3PL.ZERO	pl_0.h:a	pl_0	h	a	4011	
 teop	viv	0084	na	TAM2	lv	lv				
 teop	viv	0084	toku	not.know	v:pred	v		pred		
-teop	viv	0084	bata	along	rv	rv				
+teop	viv	0084	bata	CONT	rv	rv				
 teop	viv	0084	=ri	=3PL.IPFV	=rv-pro_h_a	=rv-pro_h_a				
 teop	viv	0085	bona	OBJ.ART2.SG	ln	ln				
 teop	viv	0085	taba	thing	np:p	np		p		
 teop	viv	0085	#	#	#rc_rn	#rc_rn				
 teop	viv	0085	to	REL	rel_pro:p	rel_pro		p		
 teop	viv	0085	paku	do	v:pred	v		pred		
-teop	viv	0085	bata	along	rv	rv				
+teop	viv	0085	bata	CONT	rv	rv				
 teop	viv	0085	na=	3SG.IPFV=	=rv-pro_h_a	=rv-pro_h_a				
 teop	viv	0085	=e	=3SG.PRON	=pro.h:a	=pro	h	a	4001	
 teop	viv	0085	a	ART2.SG	ln	ln				
 teop	viv	0085	otei	man	np.h:dt_a	np	h	dt_a	4001	
 teop	viv	0085	vai	DEM6	rn	rn				
 teop	viv	0086	e	ART1.SG	ln	ln				
-teop	viv	0086	Piipiiana	Piipiiana	np.h:dt	np	h	dt	4001	
+teop	viv	0086	Piipiiana	Piipiiana	pn_np.h:dt	pn_np	h	dt	4001	
 teop	viv	0087	#	#	##	##				
-teop	viv	0087	tea	because	other	other				
-teop	viv	0087	tabae	because	other	other				
+teop	viv	0087	tea	because	conj_other	conj_other				
+teop	viv	0087	tabae	because	conj_other	conj_other				
 teop	viv	0087	a	ART2.SG	ln	ln				
 teop	viv	0087	otei	man	np.h:s	np	h	s	4012	
 teop	viv	0087	vai	DEM6	rn	rn				
-teop	viv	0087	kou	PTCL3	rn	rn				
+teop	viv	0087	kou	EMPH23	rn	rn				
 teop	viv	0087	#	#	#rc_rn	#rc_rn				
 teop	viv	0087	to	REL	rel_pro.h:a	rel_pro	h	a	4012	
 teop	viv	0087	dee	carry	v:pred	v		pred		
 teop	viv	0087	va-murina	ADVR-back	rv	rv				
-teop	viv	0087	bata	along	rv	rv				
+teop	viv	0087	bata	CONT	rv	rv				
 teop	viv	0087	=na	=3SG.IPFV	=rv-pro_h_a	=rv-pro_h_a				
 teop	viv	0087	ZERO	4SG1.ZERO	0.h:p	0	h	p	4001	
 teop	viv	0087	%	%	%	%				
-teop	viv	0087	a	ART2.SG	ln	ln				
+teop	viv	0087	a	ART2.SG	other	other				
 teop	viv	0087	kehoo	blind	ap_other:pred	ap_other		pred		
 teop	viv	0088	#	#	##	##				
-teop	viv	0088	me=	and4=	=other	=other				
+teop	viv	0088	me=	and4=	=conj_other	=conj_other				
 teop	viv	0088	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	4011	
 teop	viv	0088	paa	TAM3	lv	lv				
 teop	viv	0088	dee	carry	v:pred	v		pred		
@@ -707,34 +710,34 @@ teop	viv	0088	bari	4SG2.PRON	pro.h:p	pro	h	p	4001
 teop	viv	0089	#	#	##	##				
 teop	viv	0089	ZERO	3SG.ZERO	0.h:a	0	h	a	4001	
 teop	viv	0089	tara	see	v:pred	v		pred		
-teop	viv	0089	ahe	recognise	rv	rv				
+teop	viv	0089	ahe	recognise	rv_v	rv_v				
 teop	viv	0089	vai	now	rv	rv				
 teop	viv	0090	#	#	#cc:p	#cc		p		
 teop	viv	0090	o	ART3.SG	ln	ln				
 teop	viv	0090	pea	branch	np:s	np		s	4028	new
-teop	viv	0090	naono	tree	rn	rn				
+teop	viv	0090	naono	tree	rn_np	rn_np				
 teop	viv	0090	na	TAM2	lv	lv				
 teop	viv	0090	hoa	arise	v:pred	v		pred		
 teop	viv	0090	vo	GOAL	rv	rv				
 teop	viv	0090	maa	hither	rv	rv				
 teop	viv	0090	=na	=3SG.IPFV	=rv-pro_s	=rv-pro_s				
-teop	viv	0090	koma	inside	np:obl	np		obl		
-teop	viv	0090	-n	-3SG.POSS	-rn_pro:poss	-rn_pro		poss		
+teop	viv	0090	koma-	inside-	np:l	np		l		
+teop	viv	0090	-n=	-3SG.POSS=	=rn_pro:poss	=rn_pro		poss		
 teop	viv	0090	=a	=ART2.SG	=rn	=rn				
 teop	viv	0090	hanana	track	rn_np:poss	rn_np		poss	4023	
 teop	viv	0091	#	#	##	##				
 teop	viv	0091	ZERO	3PL.ZERO	pl_0.h:a	pl_0	h	a	4011	
 teop	viv	0091	Dee	carry	v:pred	v		pred		
-teop	viv	0091	oha	pass.by	rv	rv				
-teop	viv	0091	bata	along	rv	rv				
+teop	viv	0091	oha	pass	rv	rv				
+teop	viv	0091	bata	CONT	rv	rv				
 teop	viv	0091	=ri	=3PL.IPFV	=rv-pl_pro_h_a	=rv-pl_pro_h_a				
 teop	viv	0091	bono	OBJ.ART3.SG	ln	ln				
 teop	viv	0091	pea	branch	np:p	np		p	4028	
-teop	viv	0091	naono	tree	rn	rn				
+teop	viv	0091	naono	tree	rn_np	rn_np				
 teop	viv	0091	bari	4SG2.PRON	pro.h:p2	pro	h	p2	4001	
 teop	viv	0092	#	#	##	##				
 teop	viv	0092	eve=	3SG=	=pro.h:s	=pro	h	s	4001	
-teop	viv	0092	he	but	other	other				
+teop	viv	0092	he	but	conj_other	conj_other				
 teop	viv	0093	[PAUSE]	NC	nc	nc				
 teop	viv	0094	#	#	#nc	#nc				
 teop	viv	0094	iku	NC	nc	nc				
@@ -748,19 +751,19 @@ teop	viv	0095	=o	=ART3.SG	=ln	=ln
 teop	viv	0095	naono	tree	np:g	np		g	4030	bridging
 teop	viv	0096	[PAUSE]	NC	nc	nc				
 teop	viv	0097	#	#	##	##				
-teop	viv	0097	me	and4	other	other				
+teop	viv	0097	me	and4	conj_other	conj_other				
 teop	viv	0097	=a	=ART2.SG	=ln	=ln				
-teop	viv	0097	bua	two.A	ln	ln				
+teop	viv	0097	bua	two2.SG	ln_num	ln_num				
 teop	viv	0097	otei	man	pl_np.h:a	pl_np	h	a	4011	
 teop	viv	0097	paa	TAM3	lv	lv				
 teop	viv	0097	dee	carry	v:pred	v		pred		
 teop	viv	0097	bono	OBJ.ART3.SG	ln	ln				
 teop	viv	0098	naono	tree	np:p	np		p	4017	
 teop	viv	0098	o	ART3.SG	rn	rn				
-teop	viv	0098	kokoraa	bare	rn	rn				
+teop	viv	0098	kokoraa	bare	rn_adj	rn_adj				
 teop	viv	0099	#	#	##	##				
 teop	viv	0099	e	ART1.SG	ln	ln				
-teop	viv	0099	Piipiiana	Piipiiana	np.h:s	np	h	s	4001	
+teop	viv	0099	Piipiiana	Piipiiana	pn_np.h:s	pn_np	h	s	4001	
 teop	viv	0100	paa	TAM3	lv	lv				
 teop	viv	0100	hana	hang	v:pred	v		pred		
 teop	viv	0100	vaevuru	already	rv	rv				
@@ -777,14 +780,14 @@ teop	viv	0102	ZERO	3SG.ZERO	0:s	0		s	4017
 teop	viv	0102	aeae	light	v:pred	v		pred		
 teop	viv	0102	vai	now	rv	rv				
 teop	viv	0103	#	#	##ds	##ds				
-teop	viv	0103	Eara	1PL.IN.PRON	pl_pro.1:s	pl_pro	1	s	4011	
+teop	viv	0103	E-ara	H-1PL.IN.PRON	pl_pro.1:s	pl_pro	1	s	4011	
 teop	viv	0103	na	TAM2	lv	lv				
 teop	viv	0103	vahus	close	v:pred	v		pred		
-teop	viv	0103	bata=	along=	=rv	=rv				
-teop	viv	0103	ra	1PL.IN.IPFV	rv-pl_pro_1_s	rv-pl_pro_1_s				
-teop	viv	0103	vaan	village	np:obl	np		obl	4031	new
+teop	viv	0103	bata	CONT	rv	rv				
+teop	viv	0103	=ra	=1PL.IN.IPFV	=rv-pl_pro_1_s	=rv-pl_pro_1_s				
+teop	viv	0103	vaan	village	np:l	np		l	4031	new
 teop	viv	0103	#	#	##	##				
-teop	viv	0103	me=	and4=	=other	=other				
+teop	viv	0103	me=	and4=	=conj_other	=conj_other				
 teop	viv	0103	ZERO	3SG.ZERO	0:s	0		s	4017	
 teop	viv	0103	paa	TAM3	lv	lv				
 teop	viv	0103	aeae	light	v:pred	v		pred		
@@ -797,19 +800,19 @@ teop	viv	0105	va-obete	CAUS-lie	rv	rv
 teop	viv	0105	rori	3PL.IPFV	rv-pl_pro_h_a	rv-pl_pro_h_a				
 teop	viv	0105	bona	OBJ.ART2.SG	ln	ln				
 teop	viv	0105	ta	piece	np:p	np		p	4017	
-teop	viv	0105	naono	wood	rn	rn				
+teop	viv	0105	naono	wood	rn_np	rn_np				
 teop	viv	0106	[PAUSE]	NC	nc	nc				
 teop	viv	0107	#	#	##	##				
 teop	viv	0107	e	ART1.SG	ln	ln				
-teop	viv	0107	Ihugovaa	Ihugovaa	np.h:a	np	h	a	4013	
-teop	viv	0107	he	but	other	other				
+teop	viv	0107	Ihugovaa	Ihugovaa	pn_np.h:a	pn_np	h	a	4013	
+teop	viv	0107	he	but	conj_other	conj_other				
 teop	viv	0107	tara	see	v:pred	v		pred		
 teop	viv	0107	va-hiki	ADVR-not.exist	rv	rv				
 teop	viv	0107	bona	OBJ.ART2.SG	ln	ln				
 teop	viv	0107	otei	man	np.h:p	np	h	p	4001	
 teop	viv	0107	#	#	##ds	##ds				
 teop	viv	0107	Eh	Eh	other	other				
-teop	viv	0108	ean	2SG.PRON	pro.2:a	pro	2	a	4012	
+teop	viv	0108	e-an	H-2SG.PRON	pro.2:a	pro	2	a	4012	
 teop	viv	0108	sa	NEG	lv	lv				
 teop	viv	0108	paa	TAM3	lv	lv				
 teop	viv	0108	haraa	notice	v:pred	v		pred		
@@ -818,28 +821,29 @@ teop	viv	0108	nom	IPFV	rv-pro_2_a	rv-pro_2_a
 teop	viv	0108	#	#	#cc:p	#cc		p		
 teop	viv	0108	a	ART2.SG	ln	ln				
 teop	viv	0108	otei	man	np.h:s	np	h	s	4001	
-teop	viv	0108	he	but	other	other				
+teop	viv	0108	he	but	conj_other	conj_other				
 teop	viv	0108	gunaha	go.down	v:pred	v		pred		
 teop	viv	0109	#	#	#nc	#nc				
 teop	viv	0109	Gara	come.on	nc	nc				
 teop	viv	0109	vahaa	back	nc	nc				
 teop	viv	0109	#	#	##ds	##ds				
-teop	viv	0109	a-re	1PL.IN-CONSEC	pl_pro.1:a	pl_pro	1	a	4011	
+teop	viv	0109	a-	1PL.IN-	-pl_pro.1:a	-pl_pro	1	a	4011	
+teop	viv	0109	re	CONSEC	conj_other	conj_other				
 teop	viv	0109	nao	go	v:pred	v		pred		
 teop	viv	0109	vaha	again	rv	rv				
 teop	viv	0109	#	#	#cc:g	#cc		g		
-teop	viv	0109	tea	COMP1	other	other				
+teop	viv	0109	tea	COMPL1	conj_other	conj_other				
 teop	viv	0109	rake	search	vother:pred	vother		pred		
 teop	viv	0109	ZERO	4SG1.ZERO	0.h:p	0	h	p	4001	
 teop	viv	0110	#	#	##	##				
-teop	viv	0110	me=	and4=	=other	=other				
+teop	viv	0110	me=	and4=	=conj_other	=conj_other				
 teop	viv	0110	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	4011	
 teop	viv	0110	paa	TAM3	lv	lv				
 teop	viv	0110	nao	go	v:pred	v		pred		
 teop	viv	0110	vaha	again	rv	rv				
 teop	viv	0110	maa	hither	rv	rv				
 teop	viv	0110	#	#	##	##				
-teop	viv	0110	me=	and4=	=other	=other				
+teop	viv	0110	me=	and4=	=conj_other	=conj_other				
 teop	viv	0110	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	4011	
 teop	viv	0111	rake	search	v:pred	v		pred		
 teop	viv	0111	maa	hither	rv	rv				
@@ -862,41 +866,40 @@ teop	viv	0111	ZERO	4SG2.ZERO	0.h:p	0	h	p	4001
 teop	viv	0112	#	#	##	##				
 teop	viv	0112	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s	4011	
 teop	viv	0112	tara	see	v:pred	v		pred		
-teop	viv	0112	hiava	go.up	rv	rv				
-teop	viv	0112	bata	along	rv	rv				
+teop	viv	0112	hiava	go.up	rv_v	rv_v				
+teop	viv	0112	bata	CONT	rv	rv				
 teop	viv	0112	=ri	=3PL.IPFV	=rv-pl_pro_h_s	=rv-pl_pro_h_s				
 teop	viv	0112	te	PREP	adp	adp				
 teop	viv	0112	=a	=ART2.SG	=ln	=ln				
-teop	viv	0112	maa	PL	ln	ln				
-teop	viv	0112	naono	tree	np:obl	np		obl	4032	bridging
+teop	viv	0112	maa	PLM	pl_np:obl	pl_np		obl		
+teop	viv	0112	naono	tree	rn_np	rn_np			4032	bridging
 teop	viv	0113	e	NC	nc	nc				
 teop	viv	0114	#	#	##	##				
 teop	viv	0114	e	ART1.SG	ln	ln				
-teop	viv	0114	Ihugovaa	Ihugovaa	np.h:a	np	h	a	4013	
+teop	viv	0114	Ihugovaa	Ihugovaa	pn_np.h:a	pn_np	h	a	4013	
 teop	viv	0114	tara	see	v:pred	v		pred		
-teop	viv	0114	ahe	recognise	rv	rv				
+teop	viv	0114	ahe	recognise	rv_v	rv_v				
 teop	viv	0114	vaevuru	already	rv	rv				
 teop	viv	0114	nao	thither	rv	rv				
 teop	viv	0114	#	#	#cc:p	#cc		p		
 teop	viv	0114	bona	OBJ.ART2.SG	ln	ln				
 teop	viv	0115	otei	man	np.h:s	np	h	s	4001	
 teop	viv	0115	vai	DEM6	rn	rn				
-teop	viv	0115	he	but	other	other				
+teop	viv	0115	he	but	conj_other	conj_other				
 teop	viv	0115	toka	perch	v:pred	v		pred		
 teop	viv	0115	maa	hither	rv	rv				
 teop	viv	0115	=na	=3SG.IPFV	=rv-pro_h_s	=rv-pro_h_s				
 teop	viv	0115	te	PREP	adp	adp				
 teop	viv	0115	=a	=ART2.SG	=ln	=ln				
-teop	viv	0115	maa	PL	ln	ln				
 teop	viv	0115	baneo	breadfruit.tree	np:l	np		l	4030	
 teop	viv	0116	#	#	##ds	##ds				
 teop	viv	0116	Eh	Eh	other	other				
 teop	viv	0116	eve=	3SG=	=pro.h:pred	=pro	h	pred	4001	
 teop	viv	0116	i	DEM1	dem_pro:s	dem_pro		s		
 teop	viv	0116	e	ART2.SG	nc	nc				
-teop	viv	0116	si	DIM	nc	nc				
+teop	viv	0116	sii	DIM	nc	nc				
 teop	viv	0116	#	#	##ds	##ds				
-teop	viv	0116	ean	2SG.PRON	pro.2:s	pro	2	s	4001	
+teop	viv	0116	e-an	H-2SG.PRON	pro.2:s	pro	2	s	4001	
 teop	viv	0116	toro	must	lv	lv				
 teop	viv	0116	gunaha	go.down	v:pred	v		pred		
 teop	viv	0116	koa	just	rv	rv				
@@ -911,7 +914,7 @@ teop	viv	0118	#	#	##ds	##ds
 teop	viv	0118	ZERO	2SG.ZERO	0.2:s	0	2	s	4001	
 teop	viv	0118	Nomaa	come	v:pred	v		pred		
 teop	viv	0118	#	#	##ds	##ds				
-teop	viv	0118	ean	2SG.PRON	pro.2:s	pro	2	s	4001	
+teop	viv	0118	e-an	H-2SG.PRON	pro.2:s	pro	2	s	4001	
 teop	viv	0118	kahi	TAM1	lv	lv				
 teop	viv	0118	mate	die	v:pred	v		pred		
 teop	viv	0118	rakaha	very	rv	rv				
@@ -920,7 +923,7 @@ teop	viv	0118	ei	DEM2	other	other
 teop	viv	0119	[PAUSE]	NC	nc	nc				
 teop	viv	0120	#	#	##	##				
 teop	viv	0120	e	ART1.SG	ln	ln				
-teop	viv	0120	Ihugovaa	Ihugovaa	np.h:s	np	h	s	4013	
+teop	viv	0120	Ihugovaa	Ihugovaa	pn_np.h:s	pn_np	h	s	4013	
 teop	viv	0120	tavus	appear	v:pred	v		pred		
 teop	viv	0120	koa	just	rv	rv				
 teop	viv	0120	#	#	##	##				
@@ -928,19 +931,19 @@ teop	viv	0120	ZERO	3SG.ZERO	0.h:s	0	h	s	4013
 teop	viv	0120	peha	climb	v:pred	v		pred		
 teop	viv	0120	vai	now	rv	rv				
 teop	viv	0121	#	#	##	##				
-teop	viv	0121	me	and4	other	other				
+teop	viv	0121	me	and4	conj_other	conj_other				
 teop	viv	0121	ZERO	3SG.ZERO	0.h:s	0	h	s	4013	
 teop	viv	0121	peha	climb	v:pred	v		pred		
 teop	viv	0121	#	#	##	##				
-teop	viv	0121	me	and4	other	other				
+teop	viv	0121	me	and4	conj_other	conj_other				
 teop	viv	0121	ZERO	3SG.ZERO	0.h:s	0	h	s	4013	
 teop	viv	0121	peha	climb	v:pred	v		pred		
 teop	viv	0121	#	#	##	##				
-teop	viv	0121	me	and4	other	other				
+teop	viv	0121	me	and4	conj_other	conj_other				
 teop	viv	0121	ZERO	3SG.ZERO	0.h:s	0	h	s	4013	
 teop	viv	0121	peha	climb	v:pred	v		pred		
 teop	viv	0121	#	#	##	##				
-teop	viv	0121	me	and4	other	other				
+teop	viv	0121	me	and4	conj_other	conj_other				
 teop	viv	0121	ZERO	3SG.ZERO	0.h:s	0	h	s	4013	
 teop	viv	0121	peha	climb	v:pred	v		pred		
 teop	viv	0122	#	#	##	##				
@@ -954,32 +957,32 @@ teop	viv	0122	=na	=3SG.IPFV	=rv-pro_h_s	=rv-pro_h_s
 teop	viv	0122	te	PREP	adp	adp				
 teop	viv	0122	=o	=ART3.SG	=ln	=ln				
 teop	viv	0122	kopuru	top	np:l	np		l		
-teop	viv	0122	n=	3SG.POSS=	=rn_pro:poss	=rn_pro		poss		
+teop	viv	0122	-n=	-3SG.POSS=	=rn_pro:poss	=rn_pro		poss		
 teop	viv	0122	o	ART3.SG	rn	rn				
 teop	viv	0122	naono	tree	rn_np:poss	rn_np		poss	4030	
 teop	viv	0123	NC	NC	nc	nc				
 teop	viv	0124	#	#	##	##				
-teop	viv	0124	Me	and4	other	other				
+teop	viv	0124	Me	and4	conj_other	conj_other				
 teop	viv	0124	ZERO	3SG.ZERO	0.h:s	0	h	s	4013	
 teop	viv	0124	peha	climb	v:pred	v		pred		
 teop	viv	0124	#	#	##	##				
-teop	viv	0124	me	and4	other	other				
+teop	viv	0124	me	and4	conj_other	conj_other				
 teop	viv	0124	ZERO	3SG.ZERO	0.h:s	0	h	s	4013	
 teop	viv	0124	peha	climb	v:pred	v		pred		
 teop	viv	0124	#	#	##	##				
-teop	viv	0124	me	and4	other	other				
+teop	viv	0124	me	and4	conj_other	conj_other				
 teop	viv	0124	ZERO	3SG.ZERO	0.h:a	0	h	a	4013	
 teop	viv	0124	vahus	close	v:pred	v		pred		
-teop	viv	0124	bata	along	rv	rv				
+teop	viv	0124	bata	CONT	rv	rv				
 teop	viv	0124	nao	thither	rv	rv				
 teop	viv	0124	=na	=3SG.IPFV	=rv-pro_h_a	=rv-pro_h_a				
 teop	viv	0124	bone	OBJ.ART1.SG	ln	ln				
-teop	viv	0125	Piipiiana	Piipiiana	np.h:p	np	h	p	4001	
+teop	viv	0125	Piipiiana	Piipiiana	pn_np.h:p	pn_np	h	p	4001	
 teop	viv	0125	vai	DEM6	rn	rn				
 teop	viv	0126	#	#	##	##				
 teop	viv	0126	e	ART1.SG	ln	ln				
-teop	viv	0126	Piipiiana	Piipiiana	np.h:a	np	h	a	4001	
-teop	viv	0126	he	but	other	other				
+teop	viv	0126	Piipiiana	Piipiiana	pn_np.h:a	pn_np	h	a	4001	
+teop	viv	0126	he	but	conj_other	conj_other				
 teop	viv	0127	[PAUSE]	NC	nc	nc				
 teop	viv	0128	beaka	defecate	v:pred	v		pred		
 teop	viv	0128	maa	hither	rv	rv				
@@ -989,45 +992,45 @@ teop	viv	0129	ZERO	3SG.ZERO	0.h:s	0	h	s	4001
 teop	viv	0129	beaka	defecate	v:pred	v		pred		
 teop	viv	0129	maa	hither	rv	rv				
 teop	viv	0129	#	#	##	##				
-teop	viv	0129	me	and4	other	other				
+teop	viv	0129	me	and4	conj_other	conj_other				
 teop	viv	0129	=o	=ART3.SG	=ln	=ln				
 teop	viv	0129	naono	tree	np:s	np		s	4030	
 teop	viv	0129	paa	TAM3	lv	lv				
 teop	viv	0129	dohidohi	RED-slip	v:pred	v		pred		
 teop	viv	0130	#	#	##neg	##neg				
-teop	viv	0130	Me	and4	other	other				
+teop	viv	0130	Me	and4	conj_other	conj_other				
 teop	viv	0130	ZERO	3SG.ZERO	0.h:a	0	h	a	4013	
 teop	viv	0130	saka	NEG	lv	lv				
 teop	viv	0130	paa	TAM3	lv	lv				
 teop	viv	0130	antee	be.able	v:pred	v		pred		
 teop	viv	0130	haa	NEG	rv	rv				
 teop	viv	0130	#	#	#cc:p	#cc		p		
-teop	viv	0130	tea	COMP1	other	other				
+teop	viv	0130	tea	COMPL1	conj_other	conj_other				
 teop	viv	0130	kao	go	vother:pred	vother		pred		
 teop	viv	0130	hiava	go.up	rv	rv				
 teop	viv	0131	#	#	##	##				
-teop	viv	0131	me	and4	other	other				
+teop	viv	0131	me	and4	conj_other	conj_other				
 teop	viv	0132	ZERO	3SG.ZERO	0:s	0		s	4030	
 teop	viv	0132	dohidohi	RED-slip	v:pred	v		pred		
 teop	viv	0132	dohidohi	RED-slip	rv	rv				
 teop	viv	0132	#	#	##	##				
-teop	viv	0132	me=	and4=	=other	=other				
+teop	viv	0132	me=	and4=	=conj_other	=conj_other				
 teop	viv	0132	ZERO	3SG.ZERO	0.h:s	0	h	s	4013	
 teop	viv	0132	paa	TAM3	lv	lv				
 teop	viv	0132	toboha	as.soon.as	lv	lv				
 teop	viv	0133	peha	climb	rv	rv				
 teop	viv	0133	hiava	go.up	rv	rv				
-teop	viv	0133	bata	along	rv	rv				
+teop	viv	0133	bata	CONT	rv	rv				
 teop	viv	0133	koa	just	rv	rv				
 teop	viv	0133	=na	=3SG.IPFV	=rv-pro_h_s	=rv-pro_h_s				
 teop	viv	0133	#	#	##	##				
 teop	viv	0133	eve	3SG.PRON	pro.h:a	pro	h	a	4001	
-teop	viv	0133	he	but	other	other				
+teop	viv	0133	he	but	conj_other	conj_other				
 teop	viv	0133	beaka	defecate	v:pred	v		pred		
 teop	viv	0133	maa	hither	rv	rv				
 teop	viv	0133	bona	OBJ.ART2.SG	ln	ln				
-teop	viv	0133	mata	eye	np:p	np		p	4035	bridging
-teop	viv	0133	-na	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss	4013	
+teop	viv	0133	mata-	eye-	np:p	np		p	4035	bridging
+teop	viv	0133	-na=	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss	4013	
 teop	viv	0133	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	4013	
 teop	viv	0134	#	#	##	##				
 teop	viv	0134	ZERO	3SG.ZERO	0.h:a	0	h	a	4001	
@@ -1036,11 +1039,11 @@ teop	viv	0134	pipi	block	rv	rv
 teop	viv	0134	ni	APPL	rv	rv				
 teop	viv	0134	maa	hither	rv	rv				
 teop	viv	0134	bona	OBJ.ART2.SG	ln	ln				
-teop	viv	0134	mata	eye	np:p	np		p	4035	
-teop	viv	0134	-na	-3SG.POSS	-rn	-rn				
+teop	viv	0134	mata-	eye-	np:p	np		p	4035	
+teop	viv	0134	-na=	-3SG.POSS=	=rn_pro.h:poss	=rn_pro	h	poss		
 teop	viv	0134	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	4013	
 teop	viv	0135	#	#	##	##				
-teop	viv	0135	Me	and4	other	other				
+teop	viv	0135	Me	and4	conj_other	conj_other				
 teop	viv	0135	=a	=ART2.SG	=ln	=ln				
 teop	viv	0135	otei	man	np.h:s	np	h	s	4013	
 teop	viv	0135	paa	TAM3	lv	lv				
@@ -1048,7 +1051,7 @@ teop	viv	0136	dururiki	slide	v:pred	v		pred
 teop	viv	0136	gunaha	go.down	rv	rv				
 teop	viv	0136	maa	hither	rv	rv				
 teop	viv	0136	#	#	##	##				
-teop	viv	0136	me	and4	other	other				
+teop	viv	0136	me	and4	conj_other	conj_other				
 teop	viv	0136	ZERO	3SG.ZERO	0.h:s	0	h	s	4013	
 teop	viv	0136	kao	go	v:pred	v		pred		
 teop	viv	0136	gunaha	go.down	rv	rv				
@@ -1056,95 +1059,96 @@ teop	viv	0136	maa	hither	rv	rv
 teop	viv	0137	#	#	##	##				
 teop	viv	0137	ZERO	3SG.ZERO	0.h:s	0	h	s	4013	
 teop	viv	0137	poro	bang	v:pred	v		pred		
-teop	viv	0138	pusu	base	np:g	np		g	4036	bridging
-teop	viv	0138	n=	3SG.POSS=	=rn_pro:poss	=rn_pro		poss		
-teop	viv	0138	o	ART3.SG	rn	rn				
+teop	viv	0138	pusu	base	np:l	np		l	4036	bridging
+teop	viv	0138	-n=	-3SG.POSS=	=rn_pro:poss	=rn_pro		poss		
+teop	viv	0138	=o	=ART3.SG	=rn	=rn				
 teop	viv	0138	naono	tree	rn_np:poss	rn_np		poss	4030	
 teop	viv	0139	#	#	##	##				
 teop	viv	0139	e	ART1.SG	ln	ln				
-teop	viv	0139	Matakehoo	Matakehoo	np.h:a	np	h	a	4012	
+teop	viv	0139	Matakehoo	Matakehoo	pn_np.h:a	pn_np	h	a	4012	
 teop	viv	0139	boha	think	v:pred	v		pred		
 teop	viv	0139	vai	DEM6	rv	rv				
 teop	viv	0139	vo=	like=	=rv	=rv				
-teop	viv	0139	enei	this.way	other	other				
-teop	viv	0140	#	#	#cc:p	#cc		p		
+teop	viv	0139	enei	this.way	other:obl	other		obl		
+teop	viv	0140	#	#	#cc:obl	#cc		obl		
 teop	viv	0140	a	ART2.SG	ln	ln				
-teop	viv	0140	otei	man	np.h:s	np	h	s	4001	
+teop	viv	0140	otei	man	np.h:pred	np	h	pred	4001	
 teop	viv	0140	vai	DEM6	rn	rn				
-teop	viv	0140	#	#	#rc_rn:pred	#rc_rn		pred		
+teop	viv	0140	#	#	#rc:s	#rc		s		
 teop	viv	0140	to	REL	rel_pro.h:s	rel_pro	h	s	4001	
 teop	viv	0140	paa	TAM3	lv	lv				
 teop	viv	0140	kuu	fall.down	v:pred	v		pred		
-teop	viv	0140	ma=	hither=	=rv	=rv				
-teop	viv	0140	u	IMM	rv	rv				
+teop	viv	0140	maa	hither	rv	rv				
+teop	viv	0140	=u	=IMM	=rv	=rv				
 teop	viv	0141	#	#	##	##				
-teop	viv	0141	me=	and4=	=other	=other				
+teop	viv	0141	me=	and4=	=conj_other	=conj_other				
 teop	viv	0141	ZERO	3SG.ZERO	0.h:a	0	h	a	4012	
 teop	viv	0141	paa	TAM3	lv	lv				
 teop	viv	0141	gono	get	v:pred	v		pred		
 teop	viv	0141	bene	OBJ.ART1.SG	ln	ln				
 teop	viv	0141	ta	piece	np:p	np		p	4017	
-teop	viv	0141	naono	wood	rn	rn				
+teop	viv	0141	naono	wood	rn_np	rn_np				
 teop	viv	0141	#	#	##	##				
-teop	viv	0141	me	and4	other	other				
+teop	viv	0141	me	and4	conj_other	conj_other				
 teop	viv	0142	ZERO	3SG.ZERO	0.h:a	0	h	a	4012	
 teop	viv	0142	pou	hit	v:pred	v		pred		
 teop	viv	0142	bona	4SG1.PRON	pro.h:p	pro	h	p	4013	
 teop	viv	0142	#	#	##	##				
-teop	viv	0142	me	and4	other	other				
+teop	viv	0142	me	and4	conj_other	conj_other				
 teop	viv	0142	ZERO	3SG.ZERO	0.h:a	0	h	a	4012	
 teop	viv	0142	pou	hit	v:pred	v		pred		
 teop	viv	0142	ZERO	4SG1.ZERO	0.h:p	0	h	p	4013	
 teop	viv	0142	#	#	##	##				
 teop	viv	0142	ZERO	3SG.ZERO	0.h:a	0	h	a	4012	
-teop	viv	0142	me	and4	other	other				
+teop	viv	0142	me	and4	conj_other	conj_other				
 teop	viv	0142	pou	hit	v:pred	v		pred		
 teop	viv	0142	ZERO	4SG1.ZERO	0.h:p	0	h	p	4013	
 teop	viv	0142	#	#	##	##				
-teop	viv	0142	me	and4	other	other				
+teop	viv	0142	me	and4	conj_other	conj_other				
 teop	viv	0142	ZERO	3SG.ZERO	0.h:a	0	h	a	4012	
 teop	viv	0142	pou	hit	v:pred	v		pred		
 teop	viv	0142	ZERO	4SG1.ZERO	0.h:p	0	h	p	4013	
 teop	viv	0143	#	#	##	##				
-teop	viv	0143	me	and4	other	other				
+teop	viv	0143	me	and4	conj_other	conj_other				
 teop	viv	0143	ZERO	3SG.ZERO	0.h:a	0	h	a	4012	
 teop	viv	0143	pou	hit	v:pred	v		pred		
 teop	viv	0143	va-mate-mate	ADVR-RED-die	rv	rv				
 teop	viv	0143	bona	4SG1.PRON	pro.h:p	pro	h	p	4013	
 teop	viv	0144	#	#	##	##				
 teop	viv	0144	e	ART1.SG	ln	ln				
-teop	viv	0145	vaabuaku	companion	np.h:pred	np	h	pred	4013	
-teop	viv	0145	-na	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss		
+teop	viv	0145	e	ART1.SG	ln	ln				
+teop	viv	0145	vaabuaku-	COMPLanion-	np.h:dt_pred	np	h	dt_pred	4013	
+teop	viv	0145	-na=	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss		
 teop	viv	0145	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	4012	
 teop	viv	0145	#	#	#rc:s	#rc		s		
 teop	viv	0145	to	REL	rel_pro.h:p	rel_pro	h	p	4013	
 teop	viv	0145	pou	hit	v:pred	v		pred		
-teop	viv	0145	komana	PTCL2	rv	rv				
+teop	viv	0145	komana	self	rv	rv				
 teop	viv	0145	vaha	again	rv	rv				
 teop	viv	0145	na=	3SG.IPFV=	=rv-pro_h_a	=rv-pro_h_a				
 teop	viv	0145	=e=	=3SG=	=pro.h:a	=pro	h	a	4012	
-teop	viv	0145	=i	=DEM1	=other	=other				
+teop	viv	0145	=i	=3SG.PRON	=rn_pro.h	=rn_pro	h		4013	
 teop	viv	0146	#	#	##	##				
 teop	viv	0146	Eve	3SG.PRON	pro.h:a	pro	h	a	4012	
 teop	viv	0146	na	TAM2	lv	lv				
 teop	viv	0146	toku	not.know	v:pred	v		pred		
-teop	viv	0146	vo=	like=	=rv	=rv				
+teop	viv	0146	vo	like	rv	rv				
 teop	viv	0146	na=	3SG.IPFV=	=rv-pro_h_a	=rv-pro_h_a				
-teop	viv	0146	enei	this.way	other	other				
-teop	viv	0146	#	#	#cc:p	#cc		p		
+teop	viv	0146	enei	this.way	other:obl	other		obl		
+teop	viv	0146	#	#	#cc:obl	#cc		obl		
 teop	viv	0146	ZERO	3SG.ZERO	0.h:s	0	h	s	4013	
-teop	viv	0146	e	e	ln	ln				
-teop	viv	0146	vaabuaku	companion	np:pred	np		pred		
-teop	viv	0146	-na	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss		
+teop	viv	0146	e	ART1.SG	ln	ln				
+teop	viv	0146	vaabuaku-	COMPLanion-	np:pred	np		pred		
+teop	viv	0146	-na=	-3SG.POSS=	=rn_pro.h:poss	=rn_pro	h	poss		
 teop	viv	0146	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	4012	
 teop	viv	0147	#	#	##	##				
 teop	viv	0147	ZERO	3SG.ZERO	0.h:a	0	h	a	4012	
 teop	viv	0147	na	TAM2	lv	lv				
 teop	viv	0147	boha	think	v:pred	v		pred		
-teop	viv	0147	vo=	like=	=rv	=rv				
+teop	viv	0147	vo	like	rv	rv				
 teop	viv	0147	na=	3SG.IPFV=	=rv-pro_h_a	=rv-pro_h_a				
-teop	viv	0147	enei	this.way	other	other				
-teop	viv	0147	#	#	#cc:p	#cc		p		
+teop	viv	0147	enei	this.way	other:obl	other		obl		
+teop	viv	0147	#	#	#cc:obl	#cc		obl		
 teop	viv	0147	a	ART2.SG	ln	ln				
 teop	viv	0147	otei	man	np.h:s	np	h	s	4013	
 teop	viv	0147	#	#	#rc_rn	#rc_rn				
@@ -1153,16 +1157,17 @@ teop	viv	0147	paa	TAM3	lv	lv
 teop	viv	0147	gunaha	go.down	v:pred	v		pred		
 teop	viv	0147	%	%	%	%				
 teop	viv	0147	e	ART1.SG	ln	ln				
-teop	viv	0147	Piipiiana	Piipiiana	np.h:pred	np	h	pred	4001	
+teop	viv	0147	Piipiiana	Piipiiana	pn_np.h:pred	pn_np	h	pred	4001	
 teop	viv	0147	#	#	#rc_rn	#rc_rn				
 teop	viv	0147	to	REL	rel_pro.h:s	rel_pro	h	s	4001	
 teop	viv	0147	paa	TAM3	lv	lv				
 teop	viv	0147	kuu	fall.down	v:pred	v		pred		
-teop	viv	0147	maa=	hither=	=rv	=rv				
-teop	viv	0147	u	IMM	rv	rv				
+teop	viv	0147	maa	hither	rv	rv				
+teop	viv	0147	=u	=IMM	=rv	=rv				
 teop	viv	0148	#	#	##	##				
-teop	viv	0148	Me	and4.ART1.SG	other	other				
-teop	viv	0148	Piipiiana	Piipiiana	np.h:dt_a	np	h	dt_a	4001	
+teop	viv	0148	Me	and4	conj_other	conj_other				
+teop	viv	0148	=e	=ART1.SG	=ln	=ln				
+teop	viv	0148	Piipiiana	Piipiiana	pn_np.h:dt_a	pn_np	h	dt_a	4001	
 teop	viv	0148	#	#	#rc_rn	#rc_rn				
 teop	viv	0148	to	REL	rel_pro.h:s	rel_pro	h	s	4001	
 teop	viv	0148	paa	TAM3	lv	lv				
@@ -1175,26 +1180,26 @@ teop	viv	0149	ZERO	3SG.ZERO	0.h:a	0	h	a	4001
 teop	viv	0149	gono	get	v:pred	v		pred		
 teop	viv	0149	bene	OBJ.ART1.SG	ln	ln				
 teop	viv	0149	ta	piece	np:p	np		p	4017	
-teop	viv	0149	naono	wood	rn	rn				
+teop	viv	0149	naono	wood	rn_np	rn_np				
 teop	viv	0149	#	#	##	##				
-teop	viv	0149	me=	and4=	=other	=other				
+teop	viv	0149	me=	and4=	=conj_other	=conj_other				
 teop	viv	0149	ZERO	3SG.ZERO	0.h:a	0	h	a	4001	
 teop	viv	0149	paa	TAM3	lv	lv				
 teop	viv	0150	pou	hit	v:pred	v		pred		
 teop	viv	0150	va-mate	ADVR-die	rv	rv				
 teop	viv	0150	bene	OBJ.ART1.SG	ln	ln				
 teop	viv	0151	e	NC	nc	nc				
-teop	viv	0152	Matakehoo	Matakehoo	np.h:p	np	h	p	4012	
+teop	viv	0152	Matakehoo	Matakehoo	pn_np.h:p	pn_np	h	p	4012	
 teop	viv	0153	#	#	##	##				
-teop	viv	0153	Me	and4	other	other				
-teop	viv	0153	a	ART2.SG	ln	ln				
-teop	viv	0153	bua	two.A	ln	ln				
+teop	viv	0153	Me	and4	conj_other	conj_other				
+teop	viv	0153	=a	=ART2.SG	=ln	=ln				
+teop	viv	0153	bua	two2.SG	ln_num	ln_num				
 teop	viv	0153	roosuu	giant	pl_np.h:s	pl_np	h	s	4011	
 teop	viv	0153	vai	DEM6	rn	rn				
 teop	viv	0153	paa	TAM3	lv	lv				
 teop	viv	0153	pate	together	v:pred	v		pred		
-teop	viv	0153	mate=	die=	=rv	=rv				
-teop	viv	0153	u	IMM	rv	rv				
+teop	viv	0153	mate	die	rv	rv				
+teop	viv	0153	=u	=IMM	=rv	=rv				
 teop	viv	0154	E	NC	nc	nc				
 teop	viv	0154	Mata--	NC	nc	nc				
 teop	viv	0154	e	NC	nc	nc				
@@ -1203,24 +1208,26 @@ teop	viv	0155	e	NC	nc	nc
 teop	viv	0155	Ihugovaa--	NC	nc	nc				
 teop	viv	0156	#	#	##	##				
 teop	viv	0156	e	ART1.SG	ln	ln				
-teop	viv	0156	Matakehoo	Matakehoo	np.h:a	np	h	a	4012	
+teop	viv	0156	Matakehoo	Matakehoo	pn_np.h:a	pn_np	h	a	4012	
 teop	viv	0156	paa	TAM3	lv	lv				
 teop	viv	0156	asun	hit	v:pred	v		pred		
-teop	viv	0156	va-mate-u	ADVR-die-IMM	rv	rv				
+teop	viv	0156	va-mate	ADVR-die	rv	rv				
+teop	viv	0156	=u	=IMM	=rv	=rv				
 teop	viv	0156	ZERO	4SG1.ZERO	0.h:p	0	h	p	4013	
 teop	viv	0157	#	#	##	##				
-teop	viv	0157	Matakehoo	Matakehoo	np.h:dt	np	h	dt	4012	
-teop	viv	0157	he	but	other	other				
+teop	viv	0157	Matakehoo	Matakehoo	pn_np.h:dt	pn_np	h	dt	4012	
+teop	viv	0157	he	but	conj_other	conj_other				
 teop	viv	0157	e	ART1.SG	ln	ln				
-teop	viv	0157	Piipiiana	Piipiiana	np.h:pred	np	h	pred	4001	
+teop	viv	0157	Piipiiana	Piipiiana	pn_np.h:pred	pn_np	h	pred	4001	
 teop	viv	0157	#	#	#rc:s	#rc		s		
 teop	viv	0157	to	REL	rel_pro.h:a	rel_pro	h	a	4001	
 teop	viv	0157	paa	TAM3	lv	lv				
 teop	viv	0157	asun	hit	v:pred	v		pred		
-teop	viv	0157	va-mate-u	ADVR-die-IMM	rv	rv				
+teop	viv	0157	va-mate	ADVR-die	rv	rv				
+teop	viv	0157	=u	=IMM	=rv	=rv				
 teop	viv	0157	ZERO	4SG1.ZERO	0.h:p	0	h	p	4012	
 teop	viv	0158	#	#	#nc	#nc				
-teop	viv	0158	me=	and4=	nc	nc				
+teop	viv	0158	me=	and4=	=conj_other	=conj_other				
 teop	viv	0158	paa	TAM3	nc	nc				
 teop	viv	0158	kuhoo	kuhoo	nc	nc				
 teop	viv	0158	te	te	nc	nc				

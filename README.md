@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Mosel, Ulrike & Schnell, Stefan. 2019. Multi-CAST Teop. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1905. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#teop) (date accessed)
+  > Mosel, Ulrike & Schnell, Stefan. 2019. Multi-CAST Teop. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1908. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#teop) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
@@ -110,26 +110,26 @@ information on all annotated categories, including those not listed here.
 | GRAID | ⟨:s⟩ | ⟨:a⟩ | ⟨:ncs⟩ | ⟨:p⟩ | ⟨:obl⟩ | ⟨:g⟩ | ⟨:l⟩ | ⟨:pred⟩ | ⟨:poss⟩ | ⟨:other⟩ | totals |
 |:--------------|-------:|-------:|---------:|-------:|---------:|-------:|-------:|----------:|----------:|-----------:|---------:|
 | **⟨0.1⟩** | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
-| **⟨0.2⟩** | 17 | 15 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32 |
-| **⟨0.h⟩** | 196 | 87 | 0 | 44 | 0 | 0 | 0 | 0 | 0 | 0 | 327 |
+| **⟨0.2⟩** | 19 | 15 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 34 |
+| **⟨0.h⟩** | 191 | 90 | 0 | 44 | 0 | 0 | 0 | 0 | 0 | 0 | 325 |
 | **⟨0.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨0⟩** | 48 | 6 | 0 | 54 | 2 | 0 | 0 | 0 | 0 | 0 | 110 |
-| **⟨pro.1⟩** | 63 | 64 | 0 | 4 | 0 | 0 | 0 | 0 | 25 | 0 | 156 |
-| **⟨pro.2⟩** | 24 | 24 | 0 | 6 | 1 | 0 | 0 | 1 | 16 | 0 | 72 |
-| **⟨pro.h⟩** | 146 | 161 | 0 | 55 | 0 | 0 | 0 | 1 | 108 | 0 | 471 |
+| **⟨0⟩** | 49 | 6 | 0 | 54 | 2 | 0 | 0 | 0 | 0 | 0 | 111 |
+| **⟨pro.1⟩** | 61 | 64 | 0 | 4 | 0 | 0 | 0 | 2 | 24 | 0 | 155 |
+| **⟨pro.2⟩** | 24 | 24 | 0 | 6 | 0 | 0 | 1 | 1 | 17 | 0 | 73 |
+| **⟨pro.h⟩** | 143 | 163 | 0 | 55 | 0 | 0 | 0 | 1 | 116 | 1 | 479 |
 | **⟨pro.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨pro⟩** | 30 | 3 | 0 | 38 | 6 | 1 | 2 | 1 | 26 | 4 | 111 |
+| **⟨pro⟩** | 30 | 3 | 0 | 38 | 4 | 0 | 3 | 1 | 36 | 4 | 119 |
 | **⟨np.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨np.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨np.h⟩** | 122 | 55 | 0 | 53 | 5 | 0 | 0 | 35 | 21 | 1 | 292 |
+| **⟨np.h⟩** | 121 | 55 | 0 | 53 | 8 | 1 | 0 | 39 | 21 | 0 | 298 |
 | **⟨np.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨np⟩** | 65 | 7 | 0 | 183 | 17 | 42 | 45 | 48 | 37 | 61 | 505 |
+| **⟨np⟩** | 68 | 7 | 0 | 187 | 8 | 44 | 63 | 49 | 40 | 50 | 516 |
 | **⟨other.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨other.h⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **⟨other.h⟩** | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 | **⟨other.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨other⟩** | 0 | 0 | 0 | 0 | 0 | 7 | 3 | 126 | 0 | 0 | 136 |
-| | 713 | 423 | 0 | 437 | 31 | 50 | 50 | 212 | 233 | 66 | 2215 |
+| **⟨other⟩** | 0 | 0 | 0 | 0 | 6 | 8 | 2 | 132 | 0 | 0 | 148 |
+| | 709 | 428 | 0 | 441 | 28 | 53 | 69 | 225 | 254 | 55 | 2262 |
 
 
 **Clause boundaries**
@@ -137,8 +137,8 @@ information on all annotated categories, including those not listed here.
 | GRAID | count |
 |:-----------|--------:|
 | **⟨##⟩** | 1079 |
-| **⟨#⟩** | 219 |
-| **totals** | 1298 |
+| **⟨#⟩** | 223 |
+| **totals** | 1302 |
 
 
 

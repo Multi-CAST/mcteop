@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1905">
+<multicast version="1908">
     <corpus c_name="teop">
         <text t_name="mat" annotators="Ulrike Mosel, Stefan Schnell" speaker="TP02">
-            <file f_name="mc_teop_mat" audio="mc_teop_mat.wav" updated="2019-05-07">
+            <file f_name="mc_teop_mat" audio="mc_teop_mat.wav" updated="2019-08-25">
                 <unit uid="0001" start_time="0" end_time="4221">
                     <utterance_id>teop_mat_0001</utterance_id>
                     <utterance>Teitei roho a peha vaan.</utterance>
@@ -30,7 +30,7 @@
                         </segment>
                         <segment>
                             <gword>peha</gword>
-                            <gloss>INDEF.A</gloss>
+                            <gloss>INDEF2.SG</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -49,7 +49,7 @@
                     <annotations>
                         <segment>
                             <gword>[PAUSE]</gword>
-                            <gloss>[PAUSE]</gloss>
+                            <gloss>NC</gloss>
                             <graid>nc</graid>
                         </segment>
                     </annotations>
@@ -66,7 +66,7 @@
                         </segment>
                         <segment>
                             <gword>Peha</gword>
-                            <gloss>INDEF.A</gloss>
+                            <gloss>INDEF2.SG</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -77,7 +77,7 @@
                         <segment>
                             <gword>vaan</gword>
                             <gloss>village</gloss>
-                            <graid>np:dt</graid>
+                            <graid>np:dt_l</graid>
                             <refind>2001</refind>
                         </segment>
                         <segment>
@@ -92,7 +92,7 @@
                         </segment>
                         <segment>
                             <gword>peho</gword>
-                            <gloss>INDEF.O</gloss>
+                            <gloss>INDEF2.PL</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -127,7 +127,7 @@
                         <segment>
                             <gword>ae</gword>
                             <gloss>and1</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>a</gword>
@@ -136,7 +136,7 @@
                         </segment>
                         <segment>
                             <gword>peha</gword>
-                            <gloss>INDEF.A</gloss>
+                            <gloss>INDEF2.SG</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -149,12 +149,12 @@
                         <segment>
                             <gword>a</gword>
                             <gloss>ART2.SG</gloss>
-                            <graid>lv</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>gigo</gword>
                             <gloss>pregnant</gloss>
-                            <graid>v:pred</graid>
+                            <graid>rn_adj</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -186,13 +186,13 @@
                         <segment>
                             <gword>beiko</gword>
                             <gloss>child</gloss>
-                            <graid>pl_np.h:a</graid>
+                            <graid>np.h:a</graid>
                             <refind>2002</refind>
                         </segment>
                         <segment>
                             <gword>re=</gword>
                             <gloss>CONSEC=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>paa</gword>
@@ -248,7 +248,7 @@
                         <segment>
                             <gword>he</gword>
                             <gloss>but</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>na</gword>
@@ -277,8 +277,8 @@
                         </segment>
                         <segment>
                             <gword>nana</gword>
-                            <gloss>{3SG.IPFV}</gloss>
-                            <graid>rv_pro_a</graid>
+                            <gloss>3SG.IPFV</gloss>
+                            <graid>rv-pro_a</graid>
                         </segment>
                         <segment>
                             <gword>bona</gword>
@@ -300,7 +300,7 @@
                     <annotations>
                         <segment>
                             <gword>[PAUSE]</gword>
-                            <gloss>[PAUSE]</gloss>
+                            <gloss>NC</gloss>
                             <graid>nc</graid>
                         </segment>
                     </annotations>
@@ -317,7 +317,7 @@
                         </segment>
                         <segment>
                             <gword>peho</gword>
-                            <gloss>INDEF.O</gloss>
+                            <gloss>INDEF3.SG</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -328,7 +328,7 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>=a</gword>
@@ -391,7 +391,7 @@
                         </segment>
                         <segment>
                             <gword>ta</gword>
-                            <gloss>NSPEC1.SG</gloss>
+                            <gloss>NSPEC2.SG</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -410,7 +410,7 @@
                     <annotations>
                         <segment>
                             <gword>[PAUSE]</gword>
-                            <gloss>[PAUSE]</gloss>
+                            <gloss>NC</gloss>
                             <graid>nc</graid>
                         </segment>
                     </annotations>
@@ -428,7 +428,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -443,7 +443,7 @@
                         <segment>
                             <gword>beiko</gword>
                             <gloss>child</gloss>
-                            <graid>pl_np.h:s_ds</graid>
+                            <graid>np.h:s_ds</graid>
                             <refind>2002</refind>
                         </segment>
                         <segment>
@@ -475,7 +475,7 @@
                         </segment>
                         <segment>
                             <gword>ta</gword>
-                            <gloss>NSPEC1.SG</gloss>
+                            <gloss>NSPEC2.SG</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -490,8 +490,8 @@
                             <graid>##ds</graid>
                         </segment>
                         <segment>
-                            <gword>eam</gword>
-                            <gloss>2PL.PRON</gloss>
+                            <gword>e-am</gword>
+                            <gloss>H-2PL.PRON</gloss>
                             <graid>pl_pro.2:s</graid>
                             <refind>2003</refind>
                         </segment>
@@ -507,12 +507,12 @@
                         </segment>
                         <segment>
                             <gword>komana</gword>
-                            <gloss>PTCL2</gloss>
+                            <gloss>self</gloss>
                             <graid>rv</graid>
                         </segment>
                         <segment>
                             <gword>bata</gword>
-                            <gloss>along</gloss>
+                            <gloss>CONT</gloss>
                             <graid>rv</graid>
                         </segment>
                         <segment>
@@ -521,8 +521,8 @@
                             <graid>##ds</graid>
                         </segment>
                         <segment>
-                            <gword>eam</gword>
-                            <gloss>2PL.PRON</gloss>
+                            <gword>e-am</gword>
+                            <gloss>H-2PL.PRON</gloss>
                             <graid>pl_pro.2:s</graid>
                             <refind>2003</refind>
                         </segment>
@@ -546,7 +546,7 @@
                         <segment>
                             <gword>bai</gword>
                             <gloss>mango.tree</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_np</graid>
                             <refind>2004</refind>
                         </segment>
                     </annotations>
@@ -564,7 +564,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>erau</gword>
@@ -574,7 +574,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>a</gword>
@@ -604,7 +604,7 @@
                         </segment>
                         <segment>
                             <gword>peho</gword>
-                            <gloss>INDEF.O</gloss>
+                            <gloss>INDEF3.SG</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -627,7 +627,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -660,7 +660,7 @@
                         <segment>
                             <gword>Me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -675,7 +675,7 @@
                         </segment>
                         <segment>
                             <gword>sana</gword>
-                            <gloss>PTCL3</gloss>
+                            <gloss>very</gloss>
                             <graid>rv</graid>
                         </segment>
                     </annotations>
@@ -693,7 +693,7 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -714,7 +714,7 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -735,7 +735,7 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -756,7 +756,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -777,7 +777,7 @@
                         <segment>
                             <gword>tara</gword>
                             <gloss>see</gloss>
-                            <graid>rv</graid>
+                            <graid>rv_v</graid>
                         </segment>
                         <segment>
                             <gword>bono</gword>
@@ -793,7 +793,7 @@
                         <segment>
                             <gword>bai</gword>
                             <gloss>mango.tee</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_np</graid>
                             <refind>2004</refind>
                         </segment>
                         <segment>
@@ -836,15 +836,15 @@
                         </segment>
                         <segment>
                             <gword>nana</gword>
-                            <gloss>{3SG.IPFV}</gloss>
-                            <graid>rv_pro_s</graid>
+                            <gloss>3SG.IPFV</gloss>
+                            <graid>rv-pro_s</graid>
                         </segment>
                     </annotations>
                 </unit>
                 <unit uid="0018" start_time="59536" end_time="61697">
                     <utterance_id>teop_mat_0018</utterance_id>
                     <utterance>Mepaa taneo tea tasu,</utterance>
-                    <utterance_translation>And (she) started to throw (at the mango),</utterance_translation>
+                    <utterance_translation>And (she) started to throw (a stick at the mango),</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -854,7 +854,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -879,8 +879,8 @@
                         </segment>
                         <segment>
                             <gword>tea</gword>
-                            <gloss>COMP1</gloss>
-                            <graid>other</graid>
+                            <gloss>COMPL1</gloss>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>tasu</gword>
@@ -940,7 +940,7 @@
                         </segment>
                         <segment>
                             <gword>ta</gword>
-                            <gloss>NSPEC1.SG</gloss>
+                            <gloss>NSPEC2.SG</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -963,7 +963,7 @@
                         <segment>
                             <gword>vaa-buaku</gword>
                             <gloss>ORD-two</gloss>
-                            <graid>other:dt</graid>
+                            <graid>v:pred</graid>
                         </segment>
                         <segment>
                             <gword>ahiki</gword>
@@ -972,7 +972,7 @@
                         </segment>
                         <segment>
                             <gword>ta</gword>
-                            <gloss>NSPEC1.SG</gloss>
+                            <gloss>NSPEC2.SG</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -987,7 +987,7 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>mango</gloss>
+                            <gloss>3SG.ZERO</gloss>
                             <graid>np:s</graid>
                         </segment>
                         <segment>
@@ -1002,12 +1002,12 @@
                         </segment>
                         <segment>
                             <gword>bata</gword>
-                            <gloss>along</gloss>
+                            <gloss>CONT</gloss>
                             <graid>rv</graid>
                         </segment>
                         <segment>
                             <gword>=na</gword>
-                            <gloss>={3SG.IPFV}</gloss>
+                            <gloss>=3SG.IPFV</gloss>
                             <graid>=rv-pro_s</graid>
                         </segment>
                         <segment>
@@ -1030,7 +1030,7 @@
                         <segment>
                             <gword>he</gword>
                             <gloss>but</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>kuu</gword>
@@ -1073,7 +1073,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -1106,7 +1106,7 @@
                         <segment>
                             <gword>Me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -1127,7 +1127,7 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -1163,12 +1163,12 @@
                         </segment>
                         <segment>
                             <gword>bata</gword>
-                            <gloss>along</gloss>
+                            <gloss>CONT</gloss>
                             <graid>rv</graid>
                         </segment>
                         <segment>
                             <gword>=na</gword>
-                            <gloss>={3SG.IPFV}</gloss>
+                            <gloss>=3SG.IPFV</gloss>
                             <graid>=rv-pro_h_a</graid>
                         </segment>
                         <segment>
@@ -1229,7 +1229,7 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -1253,7 +1253,7 @@
                         <segment>
                             <gword>he</gword>
                             <gloss>but</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>na</gword>
@@ -1272,18 +1272,18 @@
                         </segment>
                         <segment>
                             <gword>=na</gword>
-                            <gloss>={3SG.IPFV}</gloss>
+                            <gloss>=3SG.IPFV</gloss>
                             <graid>=rv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>mata-</gword>
                             <gloss>front-</gloss>
-                            <graid>-np:l</graid>
+                            <graid>np:l</graid>
                         </segment>
                         <segment>
-                            <gword>n=</gword>
-                            <gloss>{3SG.POSS}=</gloss>
-                            <graid>rn_pro:poss</graid>
+                            <gword>-n=</gword>
+                            <gloss>-3SG.POSS=</gloss>
+                            <graid>=rn_pro:poss</graid>
                             <refind>2011</refind>
                         </segment>
                         <segment>
@@ -1344,7 +1344,7 @@
                         </segment>
                         <segment>
                             <gword>=na</gword>
-                            <gloss>={3SG.IPFV}</gloss>
+                            <gloss>=3SG.IPFV</gloss>
                             <graid>=rv-pro_h_s</graid>
                         </segment>
                         <segment>
@@ -1423,7 +1423,7 @@
                     <annotations>
                         <segment>
                             <gword>[PAUSE]</gword>
-                            <gloss>[PAUSE]</gloss>
+                            <gloss>NC</gloss>
                             <graid>nc</graid>
                         </segment>
                     </annotations>
@@ -1461,12 +1461,12 @@
                         </segment>
                         <segment>
                             <gword>bata</gword>
-                            <gloss>along</gloss>
+                            <gloss>CONT</gloss>
                             <graid>rv</graid>
                         </segment>
                         <segment>
                             <gword>=na</gword>
-                            <gloss>={3SG.IPFV}</gloss>
+                            <gloss>=3SG.IPFV</gloss>
                             <graid>=rv-pro_h_a</graid>
                         </segment>
                         <segment>
@@ -1489,7 +1489,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -1520,7 +1520,7 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and.4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -1585,7 +1585,7 @@
                         <segment>
                             <gword>Me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>=e</gword>
@@ -1639,12 +1639,12 @@
                         </segment>
                         <segment>
                             <gword>Tagan</gword>
-                            <gloss>NC</gloss>
+                            <gloss>tagan</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>takapusu</gword>
-                            <gloss>NC</gloss>
+                            <gloss>takapusu</gloss>
                             <graid>nc</graid>
                         </segment>
                     </annotations>
@@ -1662,7 +1662,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -1790,7 +1790,7 @@
                 </unit>
                 <unit uid="0034" start_time="105560" end_time="108776">
                     <utterance_id>teop_mat_0034</utterance_id>
-                    <utterance>me tei mea tavaan paa nagu me tea rake te= a bon.</utterance>
+                    <utterance>me tei mea tavaan paa nagu me tea rake tea bon.</utterance>
                     <utterance_translation>and (she) stayed (there) and the people also got tired of searching her in the night.</utterance_translation>
                     <annotations>
                         <segment>
@@ -1801,7 +1801,7 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -1822,7 +1822,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>a</gword>
@@ -1830,8 +1830,8 @@
                             <graid>ln</graid>
                         </segment>
                         <segment>
-                            <gword>tavaan</gword>
-                            <gloss>people</gloss>
+                            <gword>ta-vaan</gword>
+                            <gloss>people-village</gloss>
                             <graid>pl_np.h:a</graid>
                             <refind>2015</refind>
                             <isnref>new</isnref>
@@ -1847,19 +1847,19 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>me</gword>
+                            <gword>mee</gword>
                             <gloss>also</gloss>
                             <graid>rv</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
                             <gloss>#</gloss>
-                            <graid>#cc:p</graid>
+                            <graid>#cc:obl</graid>
                         </segment>
                         <segment>
                             <gword>tea</gword>
-                            <gloss>COMP1</gloss>
-                            <graid>other</graid>
+                            <gloss>COMPL1</gloss>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>rake</gword>
@@ -1903,7 +1903,7 @@
                 </unit>
                 <unit uid="0036" start_time="111309" end_time="113622">
                     <utterance_id>teop_mat_0036</utterance_id>
-                    <utterance>Meori nagu tea rake vaabuaku o bon nagu,</utterance>
+                    <utterance>Meori nagu tea rake, vaabuaku o bon nagu,</utterance>
                     <utterance_translation>And they got tired of searching, the second day (they) got tired,</utterance_translation>
                     <annotations>
                         <segment>
@@ -1914,7 +1914,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -1930,12 +1930,12 @@
                         <segment>
                             <gword>#</gword>
                             <gloss>#</gloss>
-                            <graid>#cc:p</graid>
+                            <graid>#cc:obl</graid>
                         </segment>
                         <segment>
                             <gword>tea</gword>
-                            <gloss>COMP1</gloss>
-                            <graid>other</graid>
+                            <gloss>COMPL1</gloss>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>rake</gword>
@@ -1993,7 +1993,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -2014,12 +2014,12 @@
                         <segment>
                             <gword>#</gword>
                             <gloss>#</gloss>
-                            <graid>#cc:p</graid>
+                            <graid>#cc:obl</graid>
                         </segment>
                         <segment>
                             <gword>tea</gword>
-                            <gloss>COMP1</gloss>
-                            <graid>other</graid>
+                            <gloss>COMPL1</gloss>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>rake</gword>
@@ -2040,7 +2040,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -2132,12 +2132,12 @@
                         <segment>
                             <gword>koma-</gword>
                             <gloss>inside-</gloss>
-                            <graid>-np:l</graid>
+                            <graid>np:l</graid>
                         </segment>
                         <segment>
-                            <gword>n=</gword>
+                            <gword>-n=</gword>
                             <gloss>{3SG.POSS}=</gloss>
-                            <graid>rn_pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -2158,7 +2158,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>a</gword>
@@ -2230,7 +2230,7 @@
                         <segment>
                             <gword>Me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -2251,7 +2251,7 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -2284,7 +2284,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>e</gword>
@@ -2384,7 +2384,7 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -2426,11 +2426,11 @@
                         <segment>
                             <gword>koma-</gword>
                             <gloss>inside-</gloss>
-                            <graid>-np:l</graid>
+                            <graid>np:l</graid>
                         </segment>
                         <segment>
-                            <gword>n=</gword>
-                            <gloss>{3SG.POSS}=</gloss>
+                            <gword>-n=</gword>
+                            <gloss>-3SG.POSS=</gloss>
                             <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
@@ -2469,7 +2469,7 @@
                         </segment>
                         <segment>
                             <gword>nana</gword>
-                            <gloss>{3SG.IPFV}</gloss>
+                            <gloss>3SG.IPFV</gloss>
                             <graid>rv-pro_h_s</graid>
                         </segment>
                         <segment>
@@ -2496,7 +2496,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -2518,7 +2518,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>a</gword>
@@ -2579,7 +2579,7 @@
                     <annotations>
                         <segment>
                             <gword>peho</gword>
-                            <gloss>INDEF.O</gloss>
+                            <gloss>INDEF3.SG</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -2590,7 +2590,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>e</gword>
@@ -2619,8 +2619,8 @@
                             <graid>##ds</graid>
                         </segment>
                         <segment>
-                            <gword>Eam</gword>
-                            <gloss>2PL.PRON</gloss>
+                            <gword>E-am</gword>
+                            <gloss>H-2PL.PRON</gloss>
                             <graid>pl_pro.2:s</graid>
                             <refind>2020</refind>
                         </segment>
@@ -2636,8 +2636,8 @@
                         </segment>
                         <segment>
                             <gword>nom</gword>
-                            <gloss>{2PL.IPFV}</gloss>
-                            <graid>rv-pl_pro_h_s</graid>
+                            <gloss>IPFV</gloss>
+                            <graid>rv</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -2647,7 +2647,7 @@
                         <segment>
                             <gword>be=</gword>
                             <gloss>when=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>naa</gword>
@@ -2667,8 +2667,8 @@
                         </segment>
                         <segment>
                             <gword>tea</gword>
-                            <gloss>COMP1</gloss>
-                            <graid>other</graid>
+                            <gloss>COMPL1</gloss>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>vaahiipi</gword>
@@ -2690,7 +2690,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -2715,8 +2715,8 @@
                         </segment>
                         <segment>
                             <gword>tea</gword>
-                            <gloss>COMP1</gloss>
-                            <graid>other</graid>
+                            <gloss>COMPL1</gloss>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>vaahiipi</gword>
@@ -2750,7 +2750,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -2775,8 +2775,8 @@
                         </segment>
                         <segment>
                             <gword>tea</gword>
-                            <gloss>COMP1</gloss>
-                            <graid>other</graid>
+                            <gloss>COMPL1</gloss>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>vaahiipi</gword>
@@ -2791,7 +2791,7 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -2824,7 +2824,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>a</gword>
@@ -2854,8 +2854,8 @@
                         </segment>
                         <segment>
                             <gword>tea</gword>
-                            <gloss>COMP1</gloss>
-                            <graid>other</graid>
+                            <gloss>COMPL1</gloss>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>sue</gword>
@@ -2931,7 +2931,7 @@
                         </segment>
                         <segment>
                             <gword>Tagan</gword>
-                            <gloss>Tagan</gloss>
+                            <gloss>tagan</gloss>
                             <graid>nc</graid>
                         </segment>
                     </annotations>
@@ -2954,7 +2954,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -2991,7 +2991,7 @@
                         </segment>
                         <segment>
                             <gword>Tagan</gword>
-                            <gloss>Tagan</gloss>
+                            <gloss>tagan</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>
@@ -3026,7 +3026,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -3088,7 +3088,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -3112,8 +3112,8 @@
                             <graid>##ds</graid>
                         </segment>
                         <segment>
-                            <gword>Eara</gword>
-                            <gloss>1PL.IN-PRON</gloss>
+                            <gword>E-ara</gword>
+                            <gloss>H-1PL.IN-PRON</gloss>
                             <graid>pl_pro.1:s</graid>
                             <refind>2020</refind>
                         </segment>
@@ -3134,7 +3134,7 @@
                         </segment>
                         <segment>
                             <gword>rara</gword>
-                            <gloss>{1PL.IN.IPFV}</gloss>
+                            <gloss>1PL.IN.IPFV</gloss>
                             <graid>rv-pl_pro_h_s</graid>
                         </segment>
                         <segment>
@@ -3280,7 +3280,7 @@
                     <annotations>
                         <segment>
                             <gword>[PAUSE]</gword>
-                            <gloss>[PAUSE]</gloss>
+                            <gloss>NC</gloss>
                             <graid>nc</graid>
                         </segment>
                     </annotations>
@@ -3355,8 +3355,8 @@
                             <graid>##ds</graid>
                         </segment>
                         <segment>
-                            <gword>Enaa</gword>
-                            <gloss>1SG.PRON</gloss>
+                            <gword>E-naa</gword>
+                            <gloss>H-1SG.PRON</gloss>
                             <graid>pro.1:a</graid>
                             <refind>2011</refind>
                         </segment>
@@ -3402,7 +3402,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -3439,7 +3439,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -3471,7 +3471,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -3505,7 +3505,7 @@
                         <segment>
                             <gword>Me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>a</gword>
@@ -3534,8 +3534,8 @@
                             <graid>##ds</graid>
                         </segment>
                         <segment>
-                            <gword>Enaa</gword>
-                            <gloss>1SG.PRON</gloss>
+                            <gword>E-naa</gword>
+                            <gloss>H-1SG.PRON</gloss>
                             <graid>pro.1:a</graid>
                             <refind>2003</refind>
                         </segment>
@@ -3556,18 +3556,18 @@
                         </segment>
                         <segment>
                             <gword>nom</gword>
-                            <gloss>{1SG.IPFV}</gloss>
-                            <graid>rv-pro_1_a</graid>
+                            <gloss>IPFV</gloss>
+                            <graid>rv</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
                             <gloss>#</gloss>
-                            <graid>#ds_cc:p</graid>
+                            <graid>#ds_cc:obl</graid>
                         </segment>
                         <segment>
                             <gword>tea</gword>
-                            <gloss>COMP1</gloss>
-                            <graid>other</graid>
+                            <gloss>COMPL1</gloss>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>an</gword>
@@ -3581,13 +3581,13 @@
                         </segment>
                         <segment>
                             <gword>maa</gword>
-                            <gloss>PL</gloss>
-                            <graid>ln</graid>
+                            <gloss>PLM</gloss>
+                            <graid>pl_np:p</graid>
                         </segment>
                         <segment>
                             <gword>tabaan</gword>
                             <gloss>food</gloss>
-                            <graid>pl_np:p</graid>
+                            <graid>rn_np</graid>
                             <refind>2023</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -3598,13 +3598,13 @@
                         </segment>
                         <segment>
                             <gword>maa</gword>
-                            <gloss>PL</gloss>
-                            <graid>rn</graid>
+                            <gloss>PLM</gloss>
+                            <graid>rn_adj</graid>
                         </segment>
                         <segment>
                             <gword>marakua</gword>
                             <gloss>unsalted</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -3619,8 +3619,8 @@
                             <graid>##ds</graid>
                         </segment>
                         <segment>
-                            <gword>Ean</gword>
-                            <gloss>2SG.PRON</gloss>
+                            <gword>E-an</gword>
+                            <gloss>H-2SG.PRON</gloss>
                             <graid>pro.2:s</graid>
                             <refind>2011</refind>
                         </segment>
@@ -3641,8 +3641,8 @@
                         </segment>
                         <segment>
                             <gword>tea</gword>
-                            <gloss>COMP1</gloss>
-                            <graid>other</graid>
+                            <gloss>COMPL1</gloss>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>kana</gword>
@@ -3681,7 +3681,7 @@
                         <segment>
                             <gword>nahu</gword>
                             <gloss>cook</gloss>
-                            <graid>rv</graid>
+                            <graid>rv_v</graid>
                         </segment>
                         <segment>
                             <gword>a</gword>
@@ -3737,7 +3737,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>erau</gword>
@@ -3747,7 +3747,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -3801,12 +3801,12 @@
                         <segment>
                             <gword>#</gword>
                             <gloss>#</gloss>
-                            <graid>#cc:g</graid>
+                            <graid>#ds_cc:g</graid>
                         </segment>
                         <segment>
                             <gword>tea</gword>
-                            <gloss>COMP1</gloss>
-                            <graid>other</graid>
+                            <gloss>COMPL1</gloss>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>kana</gword>
@@ -3903,7 +3903,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -3929,7 +3929,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -3978,7 +3978,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -4040,7 +4040,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>a</gword>
@@ -4104,7 +4104,7 @@
                         <segment>
                             <gword>re</gword>
                             <gloss>CONSEC</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>dona</gword>
@@ -4132,7 +4132,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -4164,7 +4164,7 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -4191,7 +4191,7 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -4211,7 +4211,7 @@
                         </segment>
                         <segment>
                             <gword>nao</gword>
-                            <gloss>go</gloss>
+                            <gloss>thither</gloss>
                             <graid>rv</graid>
                         </segment>
                         <segment>
@@ -4225,13 +4225,13 @@
                             <graid>ln</graid>
                         </segment>
                         <segment>
-                            <gword>taena</gword>
-                            <gloss>bottom</gloss>
+                            <gword>tae-</gword>
+                            <gloss>bottom-</gloss>
                             <graid>np:g</graid>
                         </segment>
                         <segment>
-                            <gword>n=</gword>
-                            <gloss>{3SG.POSS}=</gloss>
+                            <gword>-n=</gword>
+                            <gloss>-3SG.POSS=</gloss>
                             <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
@@ -4260,7 +4260,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>erau</gword>
@@ -4270,7 +4270,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -4306,8 +4306,8 @@
                             <graid>other</graid>
                         </segment>
                         <segment>
-                            <gword>ean</gword>
-                            <gloss>2SG.PRON</gloss>
+                            <gword>e-an</gword>
+                            <gloss>H-2SG.PRON</gloss>
                             <graid>pro.2:s</graid>
                             <refind>2011</refind>
                         </segment>
@@ -4332,15 +4332,15 @@
                             <graid>##ds</graid>
                         </segment>
                         <segment>
-                            <gword>ean</gword>
-                            <gloss>2SG.PRON</gloss>
+                            <gword>e-an</gword>
+                            <gloss>H-2SG.PRON</gloss>
                             <graid>pro.2:s</graid>
                             <refind>2011</refind>
                         </segment>
                         <segment>
                             <gword>re=</gword>
                             <gloss>CONSEC=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>paa</gword>
@@ -4359,8 +4359,8 @@
                         </segment>
                         <segment>
                             <gword>tea</gword>
-                            <gloss>COMP1</gloss>
-                            <graid>other</graid>
+                            <gloss>COMPL1</gloss>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>kana</gword>
@@ -4405,7 +4405,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -4431,7 +4431,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -4480,7 +4480,7 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -4501,7 +4501,7 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -4526,24 +4526,24 @@
                         </segment>
                         <segment>
                             <gword>bua</gword>
-                            <gloss>two</gloss>
-                            <graid>ln</graid>
+                            <gloss>two2.SG</gloss>
+                            <graid>ln_num</graid>
                         </segment>
                         <segment>
                             <gword>tom</gword>
                             <gloss>DYAD</gloss>
-                            <graid>ln</graid>
+                            <graid>np.h:s_ds</graid>
+                            <refind>2020</refind>
                         </segment>
                         <segment>
                             <gword>sina-na</gword>
                             <gloss>mother-DEREL</gloss>
-                            <graid>pl_np.h:s_ds</graid>
-                            <refind>2020</refind>
+                            <graid>rn_np.h</graid>
                         </segment>
                         <segment>
                             <gword>he</gword>
                             <gloss>but</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>paa</gword>
@@ -4566,8 +4566,8 @@
                             <graid>##ds</graid>
                         </segment>
                         <segment>
-                            <gword>Eara</gword>
-                            <gloss>1PL.IN-PRON</gloss>
+                            <gword>E-ara</gword>
+                            <gloss>H-1PL.IN-PRON</gloss>
                             <graid>pl_pro.1:s</graid>
                             <refind>2020</refind>
                         </segment>
@@ -4588,7 +4588,7 @@
                         </segment>
                         <segment>
                             <gword>rara</gword>
-                            <gloss>{1PL.IN.IPFV}</gloss>
+                            <gloss>1PL.IN.IPFV</gloss>
                             <graid>rv-pl_pro_1_s</graid>
                         </segment>
                         <segment>
@@ -4658,10 +4658,15 @@
                             <graid>##ds</graid>
                         </segment>
                         <segment>
-                            <gword>a-re</gword>
-                            <gloss>1PL.IN-CONSEC</gloss>
+                            <gword>a-</gword>
+                            <gloss>1PL.IN</gloss>
                             <graid>pl_pro.1:s</graid>
                             <refind>2020</refind>
+                        </segment>
+                        <segment>
+                            <gword>re</gword>
+                            <gloss>CONSEC</gloss>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>nao</gword>
@@ -4688,7 +4693,7 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>e</gword>
@@ -4709,7 +4714,7 @@
                         <segment>
                             <gword>tei</gword>
                             <gloss>stay</gloss>
-                            <graid>rv</graid>
+                            <graid>rv_v</graid>
                         </segment>
                         <segment>
                             <gword>maa</gword>
@@ -4718,7 +4723,7 @@
                         </segment>
                         <segment>
                             <gword>=na</gword>
-                            <gloss>={3SG.IPFV}</gloss>
+                            <gloss>=3SG.IPFV</gloss>
                             <graid>=rv-pro_h_s</graid>
                         </segment>
                         <segment>
@@ -4759,24 +4764,24 @@
                         </segment>
                         <segment>
                             <gword>bua</gword>
-                            <gloss>two.A</gloss>
-                            <graid>ln</graid>
+                            <gloss>two2.SG</gloss>
+                            <graid>ln_num</graid>
                         </segment>
                         <segment>
                             <gword>tom</gword>
                             <gloss>DYAD</gloss>
-                            <graid>ln</graid>
+                            <graid>np.h:s</graid>
+                            <refind>2020</refind>
                         </segment>
                         <segment>
                             <gword>sinana</gword>
                             <gloss>mother-DEREL</gloss>
-                            <graid>pl_np.h:s</graid>
-                            <refind>2020</refind>
+                            <graid>rn_np.h</graid>
                         </segment>
                         <segment>
                             <gword>he</gword>
                             <gloss>but</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>taatagi</gword>
@@ -4796,7 +4801,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -4844,7 +4849,7 @@
                         </segment>
                         <segment>
                             <gword>Tagan</gword>
-                            <gloss>Tagan</gloss>
+                            <gloss>tagan</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>
@@ -4867,7 +4872,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -4909,7 +4914,7 @@
                         </segment>
                         <segment>
                             <gword>Tagan</gword>
-                            <gloss>Tagan</gloss>
+                            <gloss>tagan</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>
@@ -4957,19 +4962,19 @@
                         </segment>
                         <segment>
                             <gword>bua</gword>
-                            <gloss>two.A</gloss>
-                            <graid>ln</graid>
+                            <gloss>two2.SG</gloss>
+                            <graid>ln_num</graid>
                         </segment>
                         <segment>
                             <gword>tom</gword>
                             <gloss>DYAD</gloss>
-                            <graid>ln</graid>
+                            <graid>np.h:a</graid>
+                            <refind>2020</refind>
                         </segment>
                         <segment>
                             <gword>sina-na</gword>
                             <gloss>mother-DEREL</gloss>
-                            <graid>pl_np.h:a</graid>
-                            <refind>2020</refind>
+                            <graid>rn_np.h</graid>
                         </segment>
                         <segment>
                             <gword>paa</gword>
@@ -4988,8 +4993,8 @@
                         </segment>
                         <segment>
                             <gword>tea</gword>
-                            <gloss>COMP1</gloss>
-                            <graid>other</graid>
+                            <gloss>COMPL1</gloss>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>pita</gword>
@@ -4999,7 +5004,7 @@
                         <segment>
                             <gword>voosu</gword>
                             <gloss>go.home</gloss>
-                            <graid>rv</graid>
+                            <graid>rv_v</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -5028,7 +5033,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -5049,7 +5054,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -5070,7 +5075,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -5106,12 +5111,12 @@
                         </segment>
                         <segment>
                             <gword>bata</gword>
-                            <gloss>along</gloss>
+                            <gloss>CONT</gloss>
                             <graid>rv</graid>
                         </segment>
                         <segment>
                             <gword>=na</gword>
-                            <gloss>={3SG.IPFV}</gloss>
+                            <gloss>=3SG.IPFV</gloss>
                             <graid>=rv-pro_h_s</graid>
                         </segment>
                         <segment>
@@ -5122,7 +5127,7 @@
                         <segment>
                             <gword>Pistoo</gword>
                             <gloss>Pistoo</gloss>
-                            <graid>np.h:voc</graid>
+                            <graid>pn_np.h:voc</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -5156,22 +5161,22 @@
                         <segment>
                             <gword>bo</gword>
                             <gloss>and3</gloss>
-                            <graid>rn</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>Papa</gword>
                             <gloss>Papa</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>e</gword>
                             <gloss>ART1.SG</gloss>
-                            <graid>rn</graid>
+                            <graid>ln</graid>
                         </segment>
                         <segment>
                             <gword>Mokehiva</gword>
                             <gloss>Mokehiva</gloss>
-                            <graid>rn</graid>
+                            <graid>pn_np:appos</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -5203,7 +5208,7 @@
                         </segment>
                         <segment>
                             <gword>bata</gword>
-                            <gloss>along</gloss>
+                            <gloss>CONT</gloss>
                             <graid>rv</graid>
                         </segment>
                         <segment>
@@ -5213,7 +5218,7 @@
                         </segment>
                         <segment>
                             <gword>=na</gword>
-                            <gloss>={3SG.IPFV}</gloss>
+                            <gloss>=3SG.IPFV</gloss>
                             <graid>=rv-pro_h_s</graid>
                         </segment>
                         <segment>
@@ -5224,7 +5229,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -5270,15 +5275,15 @@
                             <graid>rn</graid>
                         </segment>
                         <segment>
-                            <gword>subu=</gword>
-                            <gloss>grandparent=</gloss>
-                            <graid>=rn_np.h:poss</graid>
+                            <gword>subu-</gword>
+                            <gloss>grandparent-</gloss>
+                            <graid>rn_np.h:poss</graid>
                             <refind>2030</refind>
                             <isnref>new</isnref>
                         </segment>
                         <segment>
-                            <gword>ri=</gword>
-                            <gloss>{3PL.POSS}=</gloss>
+                            <gword>-ri=</gword>
+                            <gloss>-3PL.POSS=</gloss>
                             <graid>=rn_pl_pro.h:poss</graid>
                             <refind>2020</refind>
                         </segment>
@@ -5303,7 +5308,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -5334,7 +5339,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -5360,7 +5365,7 @@
                         <segment>
                             <gword>Pistoo</gword>
                             <gloss>Pistoo</gloss>
-                            <graid>np.h:voc</graid>
+                            <graid>pn_np.h:voc</graid>
                         </segment>
                         <segment>
                             <gword>pauna</gword>
@@ -5381,18 +5386,18 @@
                         <segment>
                             <gword>bo</gword>
                             <gloss>and3</gloss>
-                            <graid>rn</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>Papa</gword>
                             <gloss>Papa</gloss>
-                            <graid>rn_np:poss</graid>
+                            <graid>rn_pn_np:poss</graid>
                             <refind>2011</refind>
                         </segment>
                         <segment>
                             <gword>Mokehiva</gword>
                             <gloss>Mokehiva</gloss>
-                            <graid>rn</graid>
+                            <graid>pn_np:appos</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -5409,7 +5414,7 @@
                         <segment>
                             <gword>Me</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>e</gword>
@@ -5433,19 +5438,19 @@
                         <segment>
                             <gword>subu-</gword>
                             <gloss>grandparent-</gloss>
-                            <graid>-np.h:appos</graid>
+                            <graid>np.h:appos</graid>
                             <refind>2031</refind>
                         </segment>
                         <segment>
-                            <gword>na=</gword>
-                            <gloss>{3SG.POSS}=</gloss>
+                            <gword>-na=</gword>
+                            <gloss>-3SG.POSS=</gloss>
                             <graid>=rn_pro.h:poss</graid>
                             <refind>2018</refind>
                         </segment>
                         <segment>
-                            <gword>e</gword>
-                            <gloss>ART1.SG</gloss>
-                            <graid>rn</graid>
+                            <gword>=e</gword>
+                            <gloss>=ART1.SG</gloss>
+                            <graid>=rn</graid>
                         </segment>
                         <segment>
                             <gword>beiko</gword>
@@ -5486,21 +5491,21 @@
                             <graid>other</graid>
                         </segment>
                         <segment>
-                            <gword>subu=</gword>
+                            <gword>subu-</gword>
                             <gloss>grandparent=</gloss>
                             <graid>=np.h:voc</graid>
                             <refind>2030</refind>
                         </segment>
                         <segment>
-                            <gword>ri=</gword>
-                            <gloss>{3PL.POSS}=</gloss>
+                            <gword>-ri=</gword>
+                            <gloss>-3PL.POSS=</gloss>
                             <graid>=rn_pl_pro.h:poss</graid>
-                            <refind>2020</refind>
                         </segment>
                         <segment>
-                            <gword>NC</gword>
-                            <gloss>NC</gloss>
-                            <graid>nc</graid>
+                            <gword>ori</gword>
+                            <gloss>3PL.PRON</gloss>
+                            <graid>rn_pl_pro.h:poss</graid>
+                            <refind>2020</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -5527,7 +5532,7 @@
                         <segment>
                             <gword>tabae</gword>
                             <gloss>what</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_np</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -5546,18 +5551,18 @@
                         </segment>
                         <segment>
                             <gword>bata</gword>
-                            <gloss>along</gloss>
+                            <gloss>CONT</gloss>
                             <graid>rv</graid>
                         </segment>
                         <segment>
-                            <gword>ma=</gword>
-                            <gloss>hither=</gloss>
-                            <graid>=rv</graid>
+                            <gword>maa</gword>
+                            <gloss>hither</gloss>
+                            <graid>rv</graid>
                         </segment>
                         <segment>
-                            <gword>na</gword>
-                            <gloss>{3SG.IPFV}</gloss>
-                            <graid>rv-pro_h_p</graid>
+                            <gword>=na</gword>
+                            <gloss>=3SG.IPFV</gloss>
+                            <graid>=rv-pro_h_p</graid>
                         </segment>
                         <segment>
                             <gword>bene</gword>
@@ -5673,7 +5678,7 @@
                         <segment>
                             <gword>he</gword>
                             <gloss>but</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>sue</gword>
@@ -5695,7 +5700,7 @@
                         <segment>
                             <gword>Pistoo</gword>
                             <gloss>Pistoo</gloss>
-                            <graid>np.h:voc</graid>
+                            <graid>pn_np.h:voc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -5726,7 +5731,7 @@
                         <segment>
                             <gword>Papa</gword>
                             <gloss>Papa</gloss>
-                            <graid>rn_np:poss</graid>
+                            <graid>rn_pn_np:poss</graid>
                         </segment>
                         <segment>
                             <gword>e</gword>
@@ -5736,7 +5741,7 @@
                         <segment>
                             <gword>Mokehiva</gword>
                             <gloss>Mokehiva</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -5816,7 +5821,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -5837,7 +5842,7 @@
                         <segment>
                             <gword>vahusu</gword>
                             <gloss>close</gloss>
-                            <graid>rv</graid>
+                            <graid>rv_v</graid>
                         </segment>
                         <segment>
                             <gword>a</gword>
@@ -5846,19 +5851,19 @@
                         </segment>
                         <segment>
                             <gword>bua</gword>
-                            <gloss>two</gloss>
-                            <graid>ln</graid>
+                            <gloss>two2.SG</gloss>
+                            <graid>ln_num</graid>
                         </segment>
                         <segment>
                             <gword>tom</gword>
                             <gloss>DYAD</gloss>
-                            <graid>ln</graid>
+                            <graid>np.h:dt_s</graid>
+                            <refind>2020</refind>
                         </segment>
                         <segment>
                             <gword>sina-na</gword>
                             <gloss>mother-DEREL</gloss>
-                            <graid>pl_np.h:dt_s</graid>
-                            <refind>2020</refind>
+                            <graid>rn_np.h</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -5875,7 +5880,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -5896,7 +5901,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -5912,12 +5917,12 @@
                         <segment>
                             <gword>pita</gword>
                             <gloss>walk</gloss>
-                            <graid>rv</graid>
+                            <graid>rv_v</graid>
                         </segment>
                         <segment>
                             <gword>pita</gword>
                             <gloss>walk</gloss>
-                            <graid>rv</graid>
+                            <graid>rv_v</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -5939,7 +5944,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -5993,7 +5998,7 @@
                         <segment>
                             <gword>he</gword>
                             <gloss>but</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -6044,12 +6049,12 @@
                         <segment>
                             <gword>#</gword>
                             <gloss>#</gloss>
-                            <graid>#ac</graid>
+                            <graid>#cc:g</graid>
                         </segment>
                         <segment>
                             <gword>tea</gword>
-                            <gloss>COMP1</gloss>
-                            <graid>other</graid>
+                            <gloss>COMPL1</gloss>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>pam-pam</gword>
@@ -6137,7 +6142,7 @@
                         <segment>
                             <gword>#</gword>
                             <gloss>#</gloss>
-                            <graid>#rc_rn:s</graid>
+                            <graid>#rc_rn</graid>
                         </segment>
                         <segment>
                             <gword>to</gword>
@@ -6169,7 +6174,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -6189,7 +6194,7 @@
                         </segment>
                         <segment>
                             <gword>nana</gword>
-                            <gloss>{3SG.IPFV}</gloss>
+                            <gloss>3SG.IPFV</gloss>
                             <graid>rv-pro_h_a</graid>
                         </segment>
                         <segment>
@@ -6213,7 +6218,7 @@
                         <segment>
                             <gword>Pistoo</gword>
                             <gloss>Pistoo</gloss>
-                            <graid>np.h:voc</graid>
+                            <graid>pn_np.h:voc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -6239,22 +6244,22 @@
                         <segment>
                             <gword>bo</gword>
                             <gloss>and3</gloss>
-                            <graid>rn</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>Papa</gword>
                             <gloss>Papa</gloss>
-                            <graid>rn_np:poss</graid>
+                            <graid>rn_pn_np:poss</graid>
                         </segment>
                         <segment>
                             <gword>e</gword>
                             <gloss>ART1.SG</gloss>
-                            <graid>rn</graid>
+                            <graid>ln</graid>
                         </segment>
                         <segment>
                             <gword>Mokehiva</gword>
                             <gloss>Mokehiva</gloss>
-                            <graid>rn</graid>
+                            <graid>pn_np:appos</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -6298,7 +6303,7 @@
                         <segment>
                             <gword>#</gword>
                             <gloss>#</gloss>
-                            <graid>#ds_rc:a</graid>
+                            <graid>#ds_rc:s</graid>
                         </segment>
                         <segment>
                             <gword>to</gword>
@@ -6312,7 +6317,7 @@
                         </segment>
                         <segment>
                             <gword>bata</gword>
-                            <gloss>along</gloss>
+                            <gloss>CONT</gloss>
                             <graid>rv</graid>
                         </segment>
                         <segment>
@@ -6322,7 +6327,7 @@
                         </segment>
                         <segment>
                             <gword>=na</gword>
-                            <gloss>={3SG.IPFV}</gloss>
+                            <gloss>=3SG.IPFV</gloss>
                             <graid>=rv-pro_h_a</graid>
                         </segment>
                         <segment>
@@ -6341,7 +6346,7 @@
                 <unit uid="0114" start_time="334120" end_time="336384">
                     <utterance_id>teop_mat_0114</utterance_id>
                     <utterance>e Roosuu to paa tara bau vori."</utterance>
-                    <utterance_translation>they have perhaps seen the giant."</utterance_translation>
+                    <utterance_translation>they have perhaps seen the giant." (lit. what they have seen perhaps (was) the giant)</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -6362,7 +6367,7 @@
                         <segment>
                             <gword>#</gword>
                             <gloss>#</gloss>
-                            <graid>#ds_rc:p</graid>
+                            <graid>#ds_rc:s</graid>
                         </segment>
                         <segment>
                             <gword>to</gword>
@@ -6385,8 +6390,8 @@
                             <graid>rv</graid>
                         </segment>
                         <segment>
-                            <gword>vo=</gword>
-                            <gloss>GOAL=</gloss>
+                            <gword>v=</gword>
+                            <gloss>IMM=</gloss>
                             <graid>=rv</graid>
                         </segment>
                         <segment>
@@ -6472,7 +6477,7 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>e</gword>
@@ -6482,11 +6487,11 @@
                         <segment>
                             <gword>sina-</gword>
                             <gloss>mother-</gloss>
-                            <graid>-np.h:s_ds</graid>
+                            <graid>np.h:s_ds</graid>
                             <refind>2003</refind>
                         </segment>
                         <segment>
-                            <gword>na=</gword>
+                            <gword>-na=</gword>
                             <gloss>3SG.POSS=</gloss>
                             <graid>=rn_pro.h:poss</graid>
                             <refind>2018</refind>
@@ -6505,7 +6510,7 @@
                         <segment>
                             <gword>beiko</gword>
                             <gloss>child</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_np.h</graid>
                             <refind>2018</refind>
                         </segment>
                         <segment>
@@ -6544,7 +6549,7 @@
                 <unit uid="0118" start_time="348031" end_time="350875">
                     <utterance_id>teop_mat_0118</utterance_id>
                     <utterance>e s- bubuu tean to sun maana, e subuman to sun maana oioi."</utterance>
-                    <utterance_translation>your grandfather is standing there, your grandfather is standing over there."</utterance_translation>
+                    <utterance_translation>your grandfather is standing there, your grandfather is standing over there." (lit. who is standing there (is) your grandfather)</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -6595,7 +6600,7 @@
                         </segment>
                         <segment>
                             <gword>=na</gword>
-                            <gloss>={3SG.IPFV}</gloss>
+                            <gloss>=3SG.IPFV</gloss>
                             <graid>=rv-pro_h_s</graid>
                         </segment>
                         <segment>
@@ -6611,18 +6616,18 @@
                         <segment>
                             <gword>subu-</gword>
                             <gloss>grandparent-</gloss>
-                            <graid>-np.h:dt</graid>
+                            <graid>np.h:pred</graid>
                             <refind>2030</refind>
                         </segment>
                         <segment>
-                            <gword>m</gword>
-                            <gloss>{2SG.POSS}</gloss>
-                            <graid>nc</graid>
+                            <gword>-m-</gword>
+                            <gloss>-2SG.POSS-</gloss>
+                            <graid>-rn_pro.2:poss</graid>
                         </segment>
                         <segment>
-                            <gword>-an</gword>
-                            <gloss>-2SG.PRON</gloss>
-                            <graid>-rn_pro.2:poss</graid>
+                            <gword>an</gword>
+                            <gloss>2SG.PRON</gloss>
+                            <graid>rn_pro.2:poss</graid>
                             <refind>2018</refind>
                         </segment>
                         <segment>
@@ -6653,7 +6658,7 @@
                         <segment>
                             <gword>oioi</gword>
                             <gloss>NC</gloss>
-                            <graid>nc</graid>
+                            <graid>other:l</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -6691,7 +6696,7 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>=a</gword>
@@ -6700,20 +6705,20 @@
                         </segment>
                         <segment>
                             <gword>bua</gword>
-                            <gloss>two</gloss>
-                            <graid>ln</graid>
+                            <gloss>two2.SG</gloss>
+                            <graid>np.h:s_ds</graid>
                             <refind>2030</refind>
                         </segment>
                         <segment>
                             <gword>sumeke</gword>
                             <gloss>old.man</gloss>
-                            <graid>ln</graid>
+                            <graid>rn_np.h</graid>
                             <refind>2031</refind>
                         </segment>
                         <segment>
                             <gword>subuava</gword>
                             <gloss>old.woman</gloss>
-                            <graid>np.h:s_ds</graid>
+                            <graid>rn_np.h</graid>
                             <refind>2033</refind>
                         </segment>
                         <segment>
@@ -6750,8 +6755,13 @@
                         </segment>
                         <segment>
                             <gword>bua</gword>
-                            <gloss>two</gloss>
-                            <graid>ln</graid>
+                            <gloss>two2.SG</gloss>
+                            <graid>ln_num</graid>
+                        </segment>
+                        <segment>
+                            <gword>tom</gword>
+                            <gloss>DYAD</gloss>
+                            <graid>np.h:voc</graid>
                         </segment>
                         <segment>
                             <gword>sina-na</gword>
@@ -6793,15 +6803,15 @@
                             <graid>##</graid>
                         </segment>
                         <segment>
-                            <gword>eori</gword>
-                            <gloss>3PL.PRON</gloss>
+                            <gword>e-ori</gword>
+                            <gloss>H-3PL.PRON</gloss>
                             <graid>pl_pro.h:a</graid>
                             <refind>2030</refind>
                         </segment>
                         <segment>
                             <gword>he</gword>
                             <gloss>but</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
                         </segment>
                         <segment>
                             <gword>va-ina-inana</gword>
@@ -6815,7 +6825,7 @@
                         </segment>
                         <segment>
                             <gword>=ri</gword>
-                            <gloss>={3PL.IPFV}</gloss>
+                            <gloss>=3PL.IPFV</gloss>
                             <graid>=rv-pl_pro_h_a</graid>
                         </segment>
                         <segment>
@@ -6838,8 +6848,8 @@
                         </segment>
                         <segment>
                             <gword>me=</gword>
-                            <gloss>and=</gloss>
-                            <graid>=other</graid>
+                            <gloss>and4=</gloss>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>paa</gword>
@@ -6858,19 +6868,19 @@
                         </segment>
                         <segment>
                             <gword>bua</gword>
-                            <gloss>two</gloss>
-                            <graid>ln</graid>
+                            <gloss>two2.SG</gloss>
+                            <graid>ln_num</graid>
                         </segment>
                         <segment>
                             <gword>tom</gword>
                             <gloss>DYAD</gloss>
-                            <graid>ln</graid>
+                            <graid>np.h:p</graid>
+                            <refind>2020</refind>
                         </segment>
                         <segment>
                             <gword>sina-na</gword>
                             <gloss>mother-DEREL</gloss>
-                            <graid>np.h:p</graid>
-                            <refind>2020</refind>
+                            <graid>rn_np.h</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -6879,8 +6889,8 @@
                         </segment>
                         <segment>
                             <gword>me=</gword>
-                            <gloss>and=</gloss>
-                            <graid>=other</graid>
+                            <gloss>and4=</gloss>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -6929,7 +6939,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -6995,7 +7005,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -7019,8 +7029,8 @@
                             <graid>#ds</graid>
                         </segment>
                         <segment>
-                            <gword>eara</gword>
-                            <gloss>1PL.IN</gloss>
+                            <gword>e-ara</gword>
+                            <gloss>H-1PL.IN</gloss>
                             <graid>pl_pro.1:s</graid>
                             <refind>2030</refind>
                         </segment>
@@ -7081,7 +7091,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>erau</gword>
@@ -7126,8 +7136,13 @@
                         </segment>
                         <segment>
                             <gword>me</gword>
-                            <gloss>and4.ART1.SG</gloss>
-                            <graid>other</graid>
+                            <gloss>and</gloss>
+                            <graid>conj_other</graid>
+                        </segment>
+                        <segment>
+                            <gword>=e</gword>
+                            <gloss>ART1.SG</gloss>
+                            <graid>ln</graid>
                         </segment>
                         <segment>
                             <gword>sumeke</gword>
@@ -7182,17 +7197,17 @@
                         <segment>
                             <gword>koma-</gword>
                             <gloss>inside-</gloss>
-                            <graid>-np:l</graid>
+                            <graid>np:l</graid>
                         </segment>
                         <segment>
-                            <gword>n=</gword>
-                            <gloss>{3SG.POSS}=</gloss>
+                            <gword>-n=</gword>
+                            <gloss>-3SG.POSS=</gloss>
                             <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>a</gword>
                             <gloss>ART2.SG</gloss>
-                            <graid>=rn_pro:poss</graid>
+                            <graid>rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>inu</gword>
@@ -7216,7 +7231,12 @@
                         <segment>
                             <gword>me</gword>
                             <gloss>and4</gloss>
-                            <graid>other</graid>
+                            <graid>conj_other</graid>
+                        </segment>
+                        <segment>
+                            <gword>=e</gword>
+                            <gloss>=ART1.SG</gloss>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>sumeke</gword>
@@ -7239,7 +7259,7 @@
                 <unit uid="0129" start_time="386626" end_time="389770">
                     <utterance_id>teop_mat_0129</utterance_id>
                     <utterance>"Eara kahi vaavoosu ri rara a bua tom sinana to rova roho.</utterance>
-                    <utterance_translation>"We will let the mother who had disappeared go home with her son.</utterance_translation>
+                    <utterance_translation>"We will let the mother and her son who had disappeared go home.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -7247,8 +7267,8 @@
                             <graid>##ds</graid>
                         </segment>
                         <segment>
-                            <gword>Eara</gword>
-                            <gloss>1PL.IN-PRON</gloss>
+                            <gword>E-ara</gword>
+                            <gloss>H-1PL.IN-PRON</gloss>
                             <graid>pl_pro.1:a</graid>
                             <refind>2030</refind>
                         </segment>
@@ -7269,7 +7289,7 @@
                         </segment>
                         <segment>
                             <gword>rara</gword>
-                            <gloss>{1PL.IN.IPFV}</gloss>
+                            <gloss>1PL.IN.IPFV</gloss>
                             <graid>rv-pl_pro_1_a</graid>
                         </segment>
                         <segment>
@@ -7279,19 +7299,19 @@
                         </segment>
                         <segment>
                             <gword>bua</gword>
-                            <gloss>two.A</gloss>
-                            <graid>ln</graid>
+                            <gloss>two2.SG</gloss>
+                            <graid>ln_num</graid>
                         </segment>
                         <segment>
                             <gword>tom</gword>
                             <gloss>DYAD</gloss>
-                            <graid>ln</graid>
+                            <graid>np.h:p</graid>
+                            <refind>2020</refind>
                         </segment>
                         <segment>
                             <gword>sina-na</gword>
                             <gloss>mother-DEREL</gloss>
-                            <graid>pl_np.h:p</graid>
-                            <refind>2020</refind>
+                            <graid>rn_np.h</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -7332,14 +7352,19 @@
                             <refind>2015</refind>
                         </segment>
                         <segment>
-                            <gword>kakaku</gword>
-                            <gloss>NC</gloss>
+                            <gword>ka-kaku</gword>
+                            <gloss>RED-butcher</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>mao</gword>
-                            <gloss>NC</gloss>
+                            <gword>maa</gword>
+                            <gloss>hither</gloss>
                             <graid>rv</graid>
+                        </segment>
+                        <segment>
+                            <gword>=o</gword>
+                            <gloss>=ART2.PL</gloss>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>guu</gword>
@@ -7373,23 +7398,18 @@
                         </segment>
                         <segment>
                             <gword>a</gword>
-                            <gloss>ART2</gloss>
+                            <gloss>ART2.SG</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
-                            <gword>maa</gword>
-                            <gloss>PL</gloss>
-                            <graid>ln</graid>
-                        </segment>
-                        <segment>
-                            <gword>mihu</gword>
-                            <gloss>kind</gloss>
+                            <gword>maamihu</gword>
+                            <gloss>every.kind</gloss>
                             <graid>np:p</graid>
                         </segment>
                         <segment>
                             <gword>tabaan</gword>
                             <gloss>food</gloss>
-                            <graid>rv</graid>
+                            <graid>rn_np</graid>
                             <refind>2040</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -7406,8 +7426,8 @@
                             <graid>#ds</graid>
                         </segment>
                         <segment>
-                            <gword>Eara</gword>
-                            <gloss>1PL.IN-PRON</gloss>
+                            <gword>E-ara</gword>
+                            <gloss>H-1PL.IN-PRON</gloss>
                             <graid>pl_pro.1:a</graid>
                             <refind>2030</refind>
                         </segment>
@@ -7423,7 +7443,7 @@
                         </segment>
                         <segment>
                             <gword>rara</gword>
-                            <gloss>{1PL.IN.IPFV}</gloss>
+                            <gloss>1PL.IN.IPFV</gloss>
                             <graid>rv-pl_pro_1_a</graid>
                         </segment>
                         <segment>
@@ -7476,7 +7496,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>a</gword>
@@ -7518,7 +7538,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -7561,7 +7581,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -7581,8 +7601,8 @@
                         </segment>
                         <segment>
                             <gword>me=</gword>
-                            <gloss>and=</gloss>
-                            <graid>=other</graid>
+                            <gloss>and4=</gloss>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -7603,7 +7623,7 @@
                         <segment>
                             <gword>me=</gword>
                             <gloss>and4=</gloss>
-                            <graid>=other</graid>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -7623,19 +7643,19 @@
                         </segment>
                         <segment>
                             <gword>bua</gword>
-                            <gloss>two</gloss>
-                            <graid>ln</graid>
+                            <gloss>two2.SG</gloss>
+                            <graid>ln_num</graid>
                         </segment>
                         <segment>
                             <gword>tom</gword>
                             <gloss>DYAD</gloss>
-                            <graid>ln</graid>
+                            <graid>np.h:p</graid>
+                            <refind>2020</refind>
                         </segment>
                         <segment>
                             <gword>sina-na</gword>
                             <gloss>mother-DEREL</gloss>
-                            <graid>pl_np.h:p</graid>
-                            <refind>2020</refind>
+                            <graid>rn_np.h</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -7673,8 +7693,8 @@
                         </segment>
                         <segment>
                             <gword>me=</gword>
-                            <gloss>and=</gloss>
-                            <graid>=other</graid>
+                            <gloss>and4=</gloss>
+                            <graid>=conj_other</graid>
                         </segment>
                         <segment>
                             <gword>ori</gword>
@@ -7699,19 +7719,19 @@
                         </segment>
                         <segment>
                             <gword>bua</gword>
-                            <gloss>two</gloss>
-                            <graid>ln</graid>
+                            <gloss>two2.SG</gloss>
+                            <graid>ln_num</graid>
                         </segment>
                         <segment>
                             <gword>tom</gword>
                             <gloss>DYAD</gloss>
-                            <graid>ln</graid>
+                            <graid>np.h:p</graid>
+                            <refind>2020</refind>
                         </segment>
                         <segment>
                             <gword>sina-na</gword>
                             <gloss>mother-DEREL</gloss>
-                            <graid>pl_np.h:p</graid>
-                            <refind>2020</refind>
+                            <graid>rn_np.h</graid>
                         </segment>
                         <segment>
                             <gword>te=</gword>
