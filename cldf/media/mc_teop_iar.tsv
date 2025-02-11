@@ -1,36 +1,37 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 teop	iar	0001	#	#	##	##				
 teop	iar	0001	Bara	alright	other	other				
 teop	iar	0002	#	#	##	##				
 teop	iar	0002	Enaa	1SG.PRON	pro.1:dt_poss	pro	1	dt_poss		
 teop	iar	0002	a	ART2.SG	ln	ln				
-teop	iar	0002	hena	name-	np:s  	np		s  		
-teop	iar	0002	-naa	-1SG.PRON	-pro.1:poss	-pro	1	poss		
+teop	iar	0002	hena	name	np:s	np		s		
+teop	iar	0002	-naa	-1SG.PRON	-rn_pro.1:poss	-rn_pro	1	poss		
 teop	iar	0002	e	ART1	ln	ln				
-teop	iar	0002	Ruth Iarabee	Ruth Iarabee	np:pred	np		pred		
+teop	iar	0002	Ruth Iarabee	Ruth.Iarabee	np:pred	np		pred		
 teop	iar	0003	#	#	##	##				
 teop	iar	0003	Enaa	1SG.PRON	pro.1:a	pro	1	a		
 teop	iar	0003	kahi	TAM1	lv	lv				
 teop	iar	0003	vahutate	tell	v:pred	v		pred		
-teop	iar	0003	nom	1SG.IPFV	rv-pro.1:a	rv-pro	1	a		
+teop	iar	0003	nom	1SG.IPFV	rv-pro_1_a	rv-pro_1_a				
 teop	iar	0004	o	ART3.SG	ln	ln				
 teop	iar	0004	vahutate	story	np:p	np		p		
-teop	iar	0004	te	PREP	rn_adp=	rn_adp=				
-teop	iar	0004	=a	ART2.SG	=rn	=rn				
+teop	iar	0004	te	PREP	=rn_adp	=rn_adp				
+teop	iar	0004	=a	=ART2.SG	=rn	=rn				
 teop	iar	0004	moon	girl	rn_np.h	rn_np	h			
 teop	iar	0004	#	#	##	##				
 teop	iar	0004	a	ART2.SG	ln	ln				
-teop	iar	0004	hena-na	name-3SG.POSS=	np:s-pro.h:poss	np		s-pro.h:poss		
-teop	iar	0004	=e	3SG.PRON	=pro.h:poss	=pro	h	poss		
+teop	iar	0004	hena	name	np:s	np		s		
+teop	iar	0004	-na	-3SG.POSS	-rn_pro.h:poss	-rn_pro	h	poss		
+teop	iar	0004	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss		
 teop	iar	0004	Taguone	Taguone	np:pred	np		pred		
 teop	iar	0005	#	#	##	##				
 teop	iar	0005	a	ART2.SG	ln	ln				
-teop	iar	0005	hena	name	np:s	np		s		
-teop	iar	0005	n=	3SG.POSS=	rn_pro.h:poss=	rn_pro	h	poss=		
+teop	iar	0005	hena	name	np:s	np		s	1005	bridging
+teop	iar	0005	n=	3SG.POSS=	=rn_pro.h:poss	=rn_pro	h	poss		
 teop	iar	0005	a	ART2.SG	rn	rn				
-teop	iar	0005	moon	girl	rn_np.h:poss	rn_np	h	poss		
+teop	iar	0005	moon	girl	rn_np.h:poss	rn_np	h	poss	1004	new
 teop	iar	0005	vai	DEM6	rn	rn				
-teop	iar	0005	te	PREP	rn_adp=	rn_adp=				
+teop	iar	0005	te	PREP	=rn_adp	=rn_adp				
 teop	iar	0005	=o	=ART3.SG	=rn	=rn				
 teop	iar	0005	vahutate	story	rn_np	rn_np				
 teop	iar	0005	vai	DEM6	rn	rn				
@@ -40,19 +41,19 @@ teop	iar	0006	#	#	##	##
 teop	iar	0006	Erau	so	other	other				
 teop	iar	0006	bara	alright	other	other				
 teop	iar	0007	e	ART1	ln	ln				
-teop	iar	0007	Taguone	Taguone	np.h:s	np	h	s		
+teop	iar	0007	Taguone	Taguone	np.h:s	np	h	s	1004	
 teop	iar	0007	na	TAM2	lv	lv				
 teop	iar	0007	aba	person	v:pred	v		pred		
 teop	iar	0007	roho	before	other	other				
 teop	iar	0008	#	#	##	##				
 teop	iar	0008	evehee	but	other	other				
-teop	iar	0008	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0008	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0008	o	ART3.SG	ln	ln				
 teop	iar	0008	si	DIM	ln	ln				
 teop	iar	0008	taba	thing	np:pred	np		pred		
 teop	iar	0008	koa	only	other	other				
 teop	iar	0009	#	#	##	##				
-teop	iar	0009	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0009	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0009	o	ART3.SG	ln	ln				
 teop	iar	0009	si	DIM	ln	ln				
 teop	iar	0009	ta	piece	np:pred	np		pred		
@@ -62,16 +63,16 @@ teop	iar	0010	enam	1PL.EX.PRON	pl_pro.1:a	pl_pro	1	a
 teop	iar	0010	na	TAM2	lv	lv				
 teop	iar	0010	ius	use	v:pred	v		pred		
 teop	iar	0010	ni	APPL	rv	rv				
-teop	iar	0010	nom	1PL.EX.IPFV	rv_-pl_pro.1:a	rv_-pl_pro	1	a		
+teop	iar	0010	nom	1PL.EX.IPFV	rv-pl_pro_1_a	rv-pl_pro_1_a				
 teop	iar	0010	ee	3SG.PRON	pro:p	pro		p		
-teop	iar	0011	#cc	#cc	#cc	#cc				
+teop	iar	0011	#	#	#cc	#cc				
 teop	iar	0011	tea	COMP1	other	other				
 teop	iar	0011	paku	make	vother:pred	vother		pred		
 teop	iar	0011	a	ART2.SG	ln	ln				
-teop	iar	0011	kaho-	head-	np:p 	np		p 		
-teop	iar	0011	nam	1PL.EX	-pl_pro.1:poss	-pl_pro	1	poss		
+teop	iar	0011	kaho	head	np:p	np		p		
+teop	iar	0011	-nam	-1PL.EX	-rn_pl_pro.1:poss	-rn_pl_pro	1	poss		
 teop	iar	0011	#	#	##	##				
-teop	iar	0011	o-re	3PRON-CONSEC	pro:s-other	pro		s-other		
+teop	iar	0011	o-re=	3PRON-CONSEC=	=pro:s	=pro		s		
 teop	iar	0011	paa	TAM3	lv	lv				
 teop	iar	0011	gogoravi	red	v:pred	v		pred		
 teop	iar	0012	#	#	##	##				
@@ -80,23 +81,23 @@ teop	iar	0012	o	ART3.SG	ln	ln
 teop	iar	0012	uhu	dye	np:pred	np		pred		
 teop	iar	0013	#	#	##	##				
 teop	iar	0013	Erau	then	other	other				
-teop	iar	0013	me=	and4=	other=	other=				
+teop	iar	0013	me=	and4=	=other	=other				
 teop	iar	0013	a	ART2.SG	ln	ln				
-teop	iar	0013	moon	woman	np.h:a	np	h	a		
+teop	iar	0013	moon	woman	np.h:a	np	h	a	1010	new
 teop	iar	0013	vai	DEM6	rn	rn				
 teop	iar	0013	te	PREP	rn_adp	rn_adp				
 teop	iar	0013	=a	=ART2.SG	=rn	=rn				
 teop	iar	0013	peha	one.A	rn	rn				
-teop	iar	0013	inu	house	rn_np	rn_np				
+teop	iar	0013	inu	house	rn_np	rn_np			1011	bridging
 teop	iar	0013	vai	DEM6	rn	rn				
 teop	iar	0014	paa	TAM3	lv	lv				
 teop	iar	0014	vaa-tii	CAUS-be	v:pred	v		pred		
 teop	iar	0014	roho	before	other	other				
 teop	iar	0014	bono	OBJ.ART3.SG	ln	ln				
-teop	iar	0014	tagu	lump	np:p	np		p		
+teop	iar	0014	tagu	lump	np:p	np		p	1006	new
 teop	iar	0014	o	ART3.SG	ln	ln				
 teop	iar	0014	si	DIM	ln	ln				
-teop	iar	0014	kepo	piece	np:dt_p	np		dt_p		
+teop	iar	0014	kepo	piece	np:dt_p	np		dt_p	1006	
 teop	iar	0014	vasu	stone	rn	rn				
 teop	iar	0015	vai	DEM6	rn	rn				
 teop	iar	0016	#	#	##	##				
@@ -104,10 +105,10 @@ teop	iar	0016	tea tabae	because	other	other
 teop	iar	0016	ZERO	3SG.ZERO	0:p	0		p		
 teop	iar	0016	na	TAM2	lv	lv				
 teop	iar	0016	sik-siki	RED-crush	v:pred	v		pred		
-teop	iar	0016	nom	1PL.EX.IPFV	rv-pl_pro.1:a	rv-pl_pro	1	a		
+teop	iar	0016	nom	1PL.EX.IPFV	rv-pl_pro_1_a	rv-pl_pro_1_a				
 teop	iar	0016	nam	1PL.EX.PRON	pl_pro.1:a	pl_pro	1	a		
 teop	iar	0016	#	#	##	##				
-teop	iar	0016	o-re=	3PRON-CONSEC=	pro:s-other=	pro		s-other=		
+teop	iar	0016	o-re=	3PRON-CONSEC=	=pro:s	=pro		s		
 teop	iar	0016	paa	TAM3	lv	lv				
 teop	iar	0016	muraka	soft	v:pred	v		pred		
 teop	iar	0017	#	#	##	##				
@@ -119,9 +120,10 @@ teop	iar	0017	oil	oil	np:p	np		p
 teop	iar	0018	me	with	adp	adp				
 teop	iar	0018	bona	4SG.PRON	pro:obl	pro		obl		
 teop	iar	0018	ei	DEM2	other	other				
-teop	iar	0018	koma-n=	inside-3SG.POSS=	np:appos_obl	np		appos_obl		
+teop	iar	0018	koma	inside	np:appos	np		appos		
+teop	iar	0018	-n=	-3SG.POSS=	-rn	-rn				
 teop	iar	0018	a	ART2.SG	rn	rn				
-teop	iar	0018	tope	coconut shell	rn_np	rn_np				
+teop	iar	0018	tope	coconut.shell	rn_np	rn_np				
 teop	iar	0018	ae	and1	ln	ln				
 teop	iar	0018	o	ART3.SG	ln	ln				
 teop	iar	0018	one	clay	np:dt_p	np		dt_p		
@@ -131,10 +133,10 @@ teop	iar	0019	enam	1PL.EX.PRON	pl_pro.1:a	pl_pro	1	a
 teop	iar	0019	paa	TAM3	lv	lv				
 teop	iar	0019	uhu	colour	v:pred	v		pred		
 teop	iar	0019	a	ART2.SG	ln	ln				
-teop	iar	0019	kaho	head	np:p 	np		p 		
-teop	iar	0019	-nam	-1PL.EX.PRON	-pl_pro.1:poss	-pl_pro	1	poss		
+teop	iar	0019	kaho	head	np:p	np		p		
+teop	iar	0019	-nam	-1PL.EX.PRON	-rn_pl_pro.1:poss	-rn_pl_pro	1	poss		
 teop	iar	0020	#	#	##	##				
-teop	iar	0020	o-re=	3PRON-CONSEC=	pro:s-other=	pro		s-other=		
+teop	iar	0020	o-re=	3PRON-CONSEC=	=pro:s	=pro		s		
 teop	iar	0020	paa	TAM3	lv	lv				
 teop	iar	0020	gogooravi	red	v:pred	v		pred		
 teop	iar	0021	#	#	##	##				
@@ -143,31 +145,31 @@ teop	iar	0021	=a	=ART2.SG	=ln	=ln
 teop	iar	0021	maa	PLM	ln	ln				
 teop	iar	0021	bon	night	pl_np:other	pl_np		other		
 teop	iar	0021	beera	big	rn	rn				
-teop	iar	0021	te=	PREP=	rn=	rn=				
+teop	iar	0021	te=	PREP=	=rn	=rn				
 teop	iar	0021	nam	1PL.EX.PRON	rn_pl_pro.1:poss	rn_pl_pro	1	poss		
 teop	iar	0021	a	ART2.SG	ln	ln				
 teop	iar	0021	vaan	village	np.h:appos	np	h	appos		
 teop	iar	0021	te	PREP	adp	adp				
 teop	iar	0021	=a	=ART2.SG	=ln	=ln				
 teop	iar	0021	maa	PLM	ln	ln				
-teop	iar	0021	piuvu	piuvu.dance	pl_np:other	pl_np		other		
+teop	iar	0021	piuvu	piuvu.dance	pl_np:other	pl_np		other	1017	new
 teop	iar	0022	a	ART2.SG	ln	ln				
-teop	iar	0022	hagi	dance	np:appos	np		appos		
-teop	iar	0022	a=	ART2.SG=	ln=	ln=				
+teop	iar	0022	hagi	dance	np:appos	np		appos	1017	
+teop	iar	0022	a=	ART2.SG=	=ln	=ln				
 teop	iar	0022	maa	PLM	ln	ln				
 teop	iar	0022	vahara	little.PL	ln	ln				
 teop	iar	0022	beiko	child	pl_np.h:s	pl_np	h	s		
 teop	iar	0022	mee	too	other	other				
 teop	iar	0022	kahi	TAM1	lv	lv				
 teop	iar	0022	va-taviri	MULT-go.around	v:pred	v		pred		
-teop	iar	0022	rori	3PL.IPFV	rv-pl_pro.h:s	rv-pl_pro	h	s		
+teop	iar	0022	rori	3PL.IPFV	rv-pl_pro_h_s	rv-pl_pro_h_s				
 teop	iar	0022	te	PREP	adp	adp				
 teop	iar	0022	=o	=ART3.SG	=ln	=ln				
-teop	iar	0022	piuvu	piuvu.dance	np:other	np		other		
+teop	iar	0022	piuvu	piuvu.dance	np:other	np		other	1017	
 teop	iar	0023	#	#	##	##				
 teop	iar	0023	bon	night	np:dt	np		dt		
 teop	iar	0023	beera	big	rn	rn				
-teop	iar	0023	te=	PREP=	rn_adp=	rn_adp=				
+teop	iar	0023	te=	PREP=	=rn_adp	=rn_adp				
 teop	iar	0023	nam	1PL.EX.PRON	rn_pl_pro.1:poss	rn_pl_pro	1	poss		
 teop	iar	0023	enam	1PL.EX.PRON	pl_pro.1:a	pl_pro	1	a		
 teop	iar	0023	paa	TAM3	lv	lv				
@@ -175,50 +177,52 @@ teop	iar	0023	uhu	colour	v:pred	v		pred
 teop	iar	0023	ee	3SG.PRON	pro:p	pro		p		
 teop	iar	0024	#	#	##	##				
 teop	iar	0024	Erau	then	other	other				
-teop	iar	0024	me=	and4=	other=	other=				
-teop	iar	0024	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0024	me=	and4=	=other	=other				
+teop	iar	0024	ZERO	3SG.ZERO	0.h:s	0	h	s	1006	
 teop	iar	0024	paa	TAM3	lv	lv				
 teop	iar	0024	tii-tii	RED-be	v:pred	v		pred		
 teop	iar	0025	#	#	##	##				
-teop	iar	0025	me=	and4=	other=	other=				
+teop	iar	0025	me=	and4=	=other	=other				
 teop	iar	0025	a	ART2.SG	ln	ln				
 teop	iar	0025	peha	INDEF.A	ln	ln				
-teop	iar	0025	moon	woman	np.h:a	np	h	a		
+teop	iar	0025	moon	woman	np.h:a	np	h	a	1010	
 teop	iar	0025	paa	TAM3	lv	lv				
 teop	iar	0025	uhu	colour	v:pred	v		pred		
 teop	iar	0025	ni	APPL	rv	rv				
 teop	iar	0025	bono	OBJ.ART3.SG	ln	ln				
 teop	iar	0025	si	DIM	ln	ln				
-teop	iar	0025	hum	bit	np:p	np		p		
+teop	iar	0025	hum	bit	np:p	np		p	1006	
 teop	iar	0025	one	clay	rn	rn				
 teop	iar	0025	o	ART3.SG	ln	ln				
-teop	iar	0025	tagu	lump	np:appos	np		appos		
+teop	iar	0025	tagu	lump	np:appos	np		appos	1006	
 teop	iar	0026	#	#	##	##				
 teop	iar	0026	me	and4	other	other				
-teop	iar	0026	ZERO	3SG.ZERO	0.h:a	0	h	a		
+teop	iar	0026	ZERO	3SG.ZERO	0.h:a	0	h	a	1010	
 teop	iar	0026	paa	TAM3	lv	lv				
 teop	iar	0026	vaa-tii	CAUS-be	v:pred	v		pred		
 teop	iar	0026	roho	before	other	other				
-teop	iar	0026	ZERO	4SG.ZERO	0:p	0		p		
-teop	iar	0026	te	PREP	adp=	adp=				
+teop	iar	0026	ZERO	4SG.ZERO	0:p	0		p	1006	
+teop	iar	0026	te	PREP	=adp	=adp				
 teop	iar	0026	=o	=ART3.SG	=ln	=ln				
-teop	iar	0026	poa	shelf	np:g	np		g		
-teop	iar	0026	teve	PREP.3SG.PRON	rn_adp=pro.h:poss	rn_adp=pro	h	poss		
+teop	iar	0026	poa	shelf	np:g	np		g	1020	new
+teop	iar	0026	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0026	eve	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1010	
 teop	iar	0027	o	ART3.SG	ln	ln				
-teop	iar	0027	hum	place	np:appos	np		appos		
-teop	iar	0027	#rc		rn_#rc	rn_#rc				
+teop	iar	0027	hum	place	np:appos	np		appos	1020	
+teop	iar	0027	#	#	#rc_rn	#rc_rn				
 teop	iar	0027	va-vaa-tii	RED-CAUS-be	vother:pred	vother		pred		
-teop	iar	0027	nahu	pot	np:p	np		p		
-teop	iar	0027	teve	PREP.3SG.PRON	rn_adp=pro.h:poss	rn_adp=pro	h	poss		
+teop	iar	0027	nahu	pot	np:p	np		p	1021	new
+teop	iar	0027	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0027	eve	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1010	
 teop	iar	0028	#	#	##	##				
 teop	iar	0028	erau	then	other	other				
-teop	iar	0028	me=	and4=	other=	other=				
-teop	iar	0028	ZERO	3SG.ZERO	0.h:a	0	h	a		
+teop	iar	0028	me=	and4=	=other	=other				
+teop	iar	0028	ZERO	3SG.ZERO	0.h:a	0	h	a	1010	
 teop	iar	0028	paa	TAM3	lv	lv				
 teop	iar	0028	kokopo	cover	v:pred	v		pred		
-teop	iar	0028	bona	4SG.PRON	pro:p	pro		p		
+teop	iar	0028	bona	4SG.PRON	pro:p	pro		p	1006	
 teop	iar	0028	bona	OBJ.ART2.SG	ln	ln				
-teop	iar	0028	nahu	pot	np:p2	np		p2		
+teop	iar	0028	nahu	pot	np:p2	np		p2	1022	new
 teop	iar	0028	kasuana	earth	rn	rn				
 teop	iar	0029	#	#	##	##				
 teop	iar	0029	Ei	here	other	other				
@@ -252,244 +256,247 @@ teop	iar	0032	a	ART2.SG	rn	rn
 teop	iar	0032	nahu	pot	rn_np	rn_np				
 teop	iar	0032	a	ART2.SG	rn	rn				
 teop	iar	0032	beera	big	rn	rn				
-teop	iar	0033	a=	ART2.SG=	ln=	ln=				
+teop	iar	0033	a=	ART2.SG=	=ln	=ln				
 teop	iar	0033	maa	PLM	ln	ln				
 teop	iar	0033	meha	other	ln	ln				
 teop	iar	0033	nahu	pot	pl_np:s	pl_np		s		
 teop	iar	0033	na	TAM2	lv	lv				
 teop	iar	0033	bebeahu	tall	v:pred	v		pred		
 teop	iar	0033	vo-en	like-DEM3	other	other				
-teop	iar	0033	##		##	##				
-teop	iar	0033	a=	ART2.SG=	ln=	ln=				
+teop	iar	0033	#	#	##	##				
+teop	iar	0033	a=	ART2.SG=	=ln	=ln				
 teop	iar	0033	maa	PLM	ln	ln				
 teop	iar	0033	meha	other	pl_np:s	pl_np		s		
-teop	iar	0033	a=	ART2.SG=	ln	ln				
+teop	iar	0033	a=	ART2.SG=	=ln	=ln				
 teop	iar	0033	maa	PLM	ln	ln				
 teop	iar	0033	rutaa	small	np:pred	np		pred		
 teop	iar	0034	#	#	##	##				
-teop	iar	0034	me=	and4=	other=	other=				
+teop	iar	0034	me=	and4=	=other	=other				
 teop	iar	0034	a	ART2.SG	ln	ln				
-teop	iar	0034	moon	woman	np.h:a	np	h	a		
+teop	iar	0034	moon	woman	np.h:a	np	h	a	1010	
 teop	iar	0034	paa	TAM3	lv	lv				
 teop	iar	0034	vaa-kopo	CAUS-cover	v:pred	v		pred		
 teop	iar	0034	bono	OBJ.ART3.SG	ln	ln				
-teop	iar	0035	tagu	lump	np:p	np		p		
+teop	iar	0035	tagu	lump	np:p	np		p	1006	
 teop	iar	0035	one	clay	rn	rn				
 teop	iar	0035	vai	DEM6	rn	rn				
 teop	iar	0035	si	DIM	ln	ln				
-teop	iar	0035	ta	piece	np:appos	np		appos		
+teop	iar	0035	ta	piece	np:appos	np		appos	1006	
 teop	iar	0035	vasu	stone	rn	rn				
 teop	iar	0035	one	clay	rn	rn				
 teop	iar	0035	vai	DEM6	rn	rn				
 teop	iar	0035	ii	DEM1	rn	rn				
-teop	iar	0036	paa-n=	under-3SG.POSS=	np:g-pro:poss	np		g-pro:poss		
+teop	iar	0036	paa-	under-	-np:g	-np		g		
+teop	iar	0036	n=	3SG.POSS=	=rn_pro:poss	=rn_pro		poss		
 teop	iar	0036	a	ART2.SG	rn	rn				
-teop	iar	0036	nahu	pot	rn_np:poss	rn_np		poss		
+teop	iar	0036	nahu	pot	rn_np:poss	rn_np		poss	1022	
 teop	iar	0037	#	#	##	##				
-teop	iar	0037	Me=	and4=	other=	other=				
-teop	iar	0037	ZERO	3SG.ZERO	0.h:a	0	h	a		
+teop	iar	0037	Me=	and4=	=other	=other				
+teop	iar	0037	ZERO	3SG.ZERO	0.h:a	0	h	a	1010	
 teop	iar	0037	paa	TAM3	lv	lv				
 teop	iar	0037	umee	forget	v:pred	v		pred		
-teop	iar	0037	bona	4SG.PRON	pro:p	pro		p		
+teop	iar	0037	bona	4SG.PRON	pro:p	pro		p	1006	
 teop	iar	0038	#	#	##	##				
 teop	iar	0038	tea tabae	because	other	other				
-teop	iar	0038	a=	ART2.SG=	ln=	ln=				
+teop	iar	0038	a=	ART2.SG=	=ln	=ln				
 teop	iar	0038	maa	PLM	ln	ln				
-teop	iar	0038	moon	woman	pl_np.h:a	pl_np	h	a		
+teop	iar	0038	moon	woman	pl_np.h:a	pl_np	h	a	1024	new
 teop	iar	0038	na	TAM2	lv	lv				
 teop	iar	0038	vaa-tii	CAUS-be	v:pred	v		pred		
 teop	iar	0038	mi	with	rv	rv				
-teop	iar	0038	=ri	=3PL.IPFV	=rv-pro:p	=rv-pro		p		
+teop	iar	0038	=ri	=3PL.IPFV	=rv-pl_pro_p	=rv-pl_pro_p				
 teop	iar	0038	bona	OBJ.ART2.SG	ln	ln				
 teop	iar	0038	maa	PLM	ln	ln				
-teop	iar	0038	nahu	pot	pl_np:p	pl_np		p		
-teop	iar	0038	a=	ART2.SG=	rn=	rn=				
+teop	iar	0038	nahu	pot	pl_np:p	pl_np		p	1025	bridging
+teop	iar	0038	a=	ART2.SG=	=rn	=rn				
 teop	iar	0038	maa	PLM	rn	rn				
 teop	iar	0038	bero-bero	RED-many	rn	rn				
 teop	iar	0039	a	ART2.SG	ln	ln				
 teop	iar	0039	maa	PLM	ln	ln				
 teop	iar	0039	be-beera	RED-big	np:appos	np		appos		
-teop	iar	0039	a=	ART2.SG=	ln	ln				
+teop	iar	0039	a=	ART2.SG=	=ln	=ln				
 teop	iar	0039	maa	PLM	ln	ln				
-teop	iar	0039	nahu-nahu	RED-pot	pl_np:appos	pl_np		appos		
+teop	iar	0039	nahu-nahu	RED-pot	pl_np:appos	pl_np		appos	1026	bridging
 teop	iar	0039	guu	pork	rn	rn				
-teop	iar	0039	a=	ART2.SG=	ln=	ln=				
+teop	iar	0039	a=	ART2.SG=	=ln	=ln				
 teop	iar	0039	maa	PLM	ln	ln				
 teop	iar	0039	meha	other	ln	ln				
-teop	iar	0039	nahu	pot	pl_np:appos	pl_np		appos		
+teop	iar	0039	nahu	pot	pl_np:appos	pl_np		appos	1027	bridging
 teop	iar	0039	muu	taro	rn	rn				
-teop	iar	0040	a=	ART2.SG=	ln=	ln=				
+teop	iar	0040	a=	ART2.SG=	=ln	=ln				
 teop	iar	0040	maa	PLM	ln	ln				
 teop	iar	0040	meha	other	ln	ln				
-teop	iar	0040	nahu	pot	pl_np:appos	pl_np		appos		
+teop	iar	0040	nahu	pot	pl_np:appos	pl_np		appos	1028	bridging
 teop	iar	0040	iana	fish	rn	rn				
-teop	iar	0040	a=	ART2.SG=	rn	rn				
+teop	iar	0040	a=	ART2.SG=	=rn	=rn				
 teop	iar	0040	maa	PLM	rn	rn				
 teop	iar	0040	rutaa	little	rn	rn				
 teop	iar	0041	#	#	##neg	##neg				
 teop	iar	0041	Erau	then	other	other				
 teop	iar	0041	me	and4	other	other				
-teop	iar	0041	ZERO	3SG.ZERO	0.h:a	0	h	a		
+teop	iar	0041	ZERO	3SG.ZERO	0.h:a	0	h	a	1010	
 teop	iar	0041	sa	NEG	lv	lv				
 teop	iar	0041	kapa-kapa	RED-open	v:pred	v		pred		
 teop	iar	0041	haa	NEG	rv	rv				
 teop	iar	0041	bona	OBJ.ART2.SG	ln	ln				
 teop	iar	0041	meha	other	ln	ln				
-teop	iar	0041	nahu	pot	np:p	np		p		
+teop	iar	0041	nahu	pot	np:p	np		p	1022	
 teop	iar	0041	a	ART2.SG	rn	rn				
-teop	iar	0041	beera	big	rn	rn				
-teop	iar	0041	##		##	##				
-teop	iar	0041	ZERO		0:s	0		s		
+teop	iar	0041	beera	big	rn	rn			1022	
+teop	iar	0041	#	#	##	##				
+teop	iar	0041	ZERO	ZERO	0:s	0		s		
 teop	iar	0041	na	TAM2	lv	lv				
 teop	iar	0041	tii-tii	RED-be	v:pred	v		pred		
 teop	iar	0041	koa	just	rv	rv				
 teop	iar	0042	#	#	##	##				
 teop	iar	0042	o	ART3	ln	ln				
-teop	iar	0042	tagu	lump	np:s	np		s		
+teop	iar	0042	tagu	lump	np:s	np		s	1006	
 teop	iar	0042	one	clay	rn	rn				
 teop	iar	0042	he	CONSEC	other	other				
-teop	iar	0042	tea	COMP1	?	?				
+teop	iar	0042	tea	COMP1	nc	nc				
 teop	iar	0042	tii	be	v:pred	v		pred		
 teop	iar	0042	paana	underneath	np:l	np		l		
 teop	iar	0042	e	ART1	ln	ln				
 teop	iar	0042	ta	piece	np:dt_s	np		dt_s		
-teop	iar	0042	vasu	stone	rn	rn				
+teop	iar	0042	vasu	stone	rn	rn			1006	
 teop	iar	0042	one	clay	rn	rn				
 teop	iar	0043	#	#	##	##				
 teop	iar	0043	Me	and4	other	other				
-teop	iar	0043	ZERO	3SG.ZERO	0:s	0		s		
+teop	iar	0043	ZERO	3SG.ZERO	0:s	0		s	1006	
 teop	iar	0043	tei	be	v:pred	v		pred		
 teop	iar	0043	#	#	##	##				
 teop	iar	0043	me	and4	other	other				
-teop	iar	0043	ZERO	3SG.ZERO	0:s	0		s		
+teop	iar	0043	ZERO	3SG.ZERO	0:s	0		s	1006	
 teop	iar	0043	tei	be	v:pred	v		pred		
 teop	iar	0043	#	#	##	##				
 teop	iar	0043	me	and4	other	other				
-teop	iar	0043	ZERO	3SG.ZERO	0:s	0		s		
+teop	iar	0043	ZERO	3SG.ZERO	0:s	0		s	1006	
 teop	iar	0043	tei	be	v:pred	v		pred		
 teop	iar	0043	#	#	#	#				
 teop	iar	0043	me	and4	other	other				
-teop	iar	0043	ZERO	3SG.ZERO	0:s	0		s		
+teop	iar	0043	ZERO	3SG.ZERO	0:s	0		s	1006	
 teop	iar	0043	tei	be	v:pred	v		pred		
+teop	iar	0044	NC	NC	nc	nc				
 teop	iar	0045	#	#	##	##				
 teop	iar	0045	peho	one	ln	ln				
 teop	iar	0045	vuri	time	np:other	np		other		
-teop	iar	0045	me=	and4=	other=	other=				
-teop	iar	0045	ZERO	3SG.ZERO	0.h:s_ds	0	h	s_ds		
+teop	iar	0045	me=	and4=	=other	=other				
+teop	iar	0045	ZERO	3SG.ZERO	0.h:s_ds	0	h	s_ds	1010	
 teop	iar	0045	paa	TAM3	lv	lv				
 teop	iar	0045	sue	say	v:pred	v		pred		
-teop	iar	0045	#ds:p	#ds:p	##ds	##ds				
+teop	iar	0045	#	#	##ds	##ds				
 teop	iar	0045	A	ART2.SG	ln	ln				
-teop	iar	0045	tabae	what	int_np:pred	int_np		pred		
+teop	iar	0045	tabae	what	intrg_np:pred	intrg_np		pred		
 teop	iar	0045	bene	DEM4	rn	rn				
-teop	iar	0045	#rc	#rc	#rc:s	#rc		s		
+teop	iar	0045	#	#	#rc:s	#rc		s		
 teop	iar	0045	to	REL	rel_pro:s	rel_pro		s		
 teop	iar	0045	karakaras	rustle	v:pred	v		pred		
 teop	iar	0046	#	#	##	##				
-teop	iar	0046	ZERO	3SG.ZERO	0.h:a	0	h	a		
+teop	iar	0046	ZERO	3SG.ZERO	0.h:a	0	h	a	1010	
 teop	iar	0046	na	TAM2	lv	lv				
 teop	iar	0046	baitono	hear	v:pred	v		pred		
-teop	iar	0046	bona	4SG.PRON	pro:p	pro		p		
+teop	iar	0046	bona	4SG.PRON	pro:p	pro		p	1006	
 teop	iar	0047	#	#	##	##				
 teop	iar	0047	a	ART2	ln	ln				
-teop	iar	0047	taba	thing	np:s	np		s		
+teop	iar	0047	taba	thing	np:s	np		s	1006	
 teop	iar	0047	na	TAM2	lv	lv				
 teop	iar	0047	karakaras	rustle	v:pred	v		pred		
-teop	iar	0047	nana	3SG.IPFV	rv-pro:s	rv-pro		s		
-teop	iar	0048	#rc	#rc	#rc:dt_s	#rc		dt_s		
-teop	iar	0048	to	REL	rel_pro:s	rel_pro		s		
+teop	iar	0047	nana	3SG.IPFV	rv-pro_s	rv-pro_s				
+teop	iar	0048	#	#	#rc:dt_s	#rc		dt_s		
+teop	iar	0048	to	REL	rel_pro:s	rel_pro		s	1006	
 teop	iar	0048	kokopo	cover	v:pred	v		pred		
-teop	iar	0048	nana	3SG.IPFV	rv-pro:s	rv-pro		s		
-teop	iar	0048	nahu	pot	np:l	np		l		
+teop	iar	0048	nana	3SG.IPFV	rv-pro_s	rv-pro_s				
+teop	iar	0048	nahu	pot	np:l	np		l	1022	
 teop	iar	0049	#	#	##	##				
-teop	iar	0049	me=	and4=	other=	other=				
-teop	iar	0049	ZERO	3SG.ZERO	0.h:s_ds	0	h	s_ds		
+teop	iar	0049	me=	and4=	=other	=other				
+teop	iar	0049	ZERO	3SG.ZERO	0.h:s_ds	0	h	s_ds	1010	
 teop	iar	0049	paa	TAM3	lv	lv				
 teop	iar	0049	hivi	ask	v:pred	v		pred		
-teop	iar	0050	#	#ds	##ds	##ds				
+teop	iar	0050	#	#	##ds	##ds				
 teop	iar	0050	Eh	eh	other	other				
 teop	iar	0050	o	oh	other	other				
-teop	iar	0050	muta-naa	spouse-1SG.PRON	np.h:voc-pro.1:poss	np	h	voc-pro.1:poss		
+teop	iar	0050	muta	spouse	np.h:voc	np	h	voc	1041	new
+teop	iar	0050	-naa	-1SG.PRON	-rn_pro.1:poss	-rn_pro	1	poss		
 teop	iar	0050	a	ART2.SG	ln	ln				
-teop	iar	0050	tabae	what	int_np:pred	int_np		pred		
-teop	iar	0050	#ds.rc	#ds.rc	#ds_rc:s	#ds_rc		s		
+teop	iar	0050	tabae	what	intrg_np:pred	intrg_np		pred		
+teop	iar	0050	#	#	#ds_rc:s	#ds_rc		s		
 teop	iar	0050	to	REL	rel_pro:s	rel_pro		s		
 teop	iar	0050	karakaras	rustle	v:pred	v		pred		
-teop	iar	0050	nana	3SG.IPFV	rv-pro:s	rv-pro		s		
+teop	iar	0050	nana	3SG.IPFV	rv-pro_s	rv-pro_s				
 teop	iar	0051	paana	underneath	np:l	np		l		
-teop	iar	0051	nahu	pot	rn_np:poss	rn_np		poss		
-teop	iar	0051	#rc	#rc	#ds_rc:appos	#ds_rc		appos		
+teop	iar	0051	nahu	pot	rn_np:poss	rn_np		poss	1022	
+teop	iar	0051	#	#	#ds_rc:appos	#ds_rc		appos		
 teop	iar	0051	to	REL	rel_pro:s	rel_pro		s		
 teop	iar	0051	kokopo	cover	v:pred	v		pred		
-teop	iar	0051	nana	3SG.IPFV	rv-pro:s	rv-pro		s		
-teop	iar	0051	nahu	pot	np:l	np		l		
+teop	iar	0051	nana	3SG.IPFV	rv-pro_s	rv-pro_s				
+teop	iar	0051	nahu	pot	np:l	np		l	1022	
 teop	iar	0052	#	#	##	##				
 teop	iar	0052	Erau	then	other	other				
-teop	iar	0052	me=	and4=	other=	other=				
-teop	iar	0052	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
-teop	iar	0052	paa	TAM3	lv'	lv'				
+teop	iar	0052	me=	and4=	=other	=other				
+teop	iar	0052	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	bridging
+teop	iar	0052	paa	TAM3	lv	lv				
 teop	iar	0052	kapa	open	v:pred	v		pred		
-teop	iar	0052	bari	4PL.PRON	pro:p	pro		p		
+teop	iar	0052	bari	4PL.PRON	pro:p	pro		p	1022	
 teop	iar	0053	#	#	##	##				
 teop	iar	0053	evehee	but	other	other				
-teop	iar	0053	ZERO	3SG.ZERO	0:a	0		a		
+teop	iar	0053	ZERO	3SG.ZERO	0:a	0		a	1006	
 teop	iar	0053	na	TAM2	nc	nc				
 teop	iar	0053	kahi	TAM1	lv	lv				
 teop	iar	0053	potee	like	v:pred	v		pred		
 teop	iar	0053	maa	hither	rv	rv				
-teop	iar	0053	=na	=3SG.IPFV	rv-pro:a	rv-pro		a		
+teop	iar	0053	=na	=3SG.IPFV	=rv-pro_a	=rv-pro_a				
 teop	iar	0053	bono	OBJ.ART3.SG	ln	ln				
 teop	iar	0053	tagu	lump	np:p	np		p		
 teop	iar	0053	koa	just	other	other				
 teop	iar	0054	#	#	##	##				
-teop	iar	0054	ZERO	3SG.ZERO	0:a	0		a		
+teop	iar	0054	ZERO	3SG.ZERO	0:a	0		a	1006	
 teop	iar	0054	na	TAM2	lv	lv				
 teop	iar	0054	potee	like	v:pred	v		pred		
-teop	iar	0054	nana	3SG.IPFV	rv-pro:a	rv-pro		a		
+teop	iar	0054	nana	3SG.IPFV	rv-pro_a	rv-pro_a				
 teop	iar	0054	bono	OBJ.ART3.SG	ln	ln				
 teop	iar	0054	rupi	egg	np:p	np		p		
 teop	iar	0054	toa	chicken	rn	rn				
 teop	iar	0055	#	#	##	##				
-teop	iar	0055	ZERO	3SG.ZERO	0:s	0		s		
+teop	iar	0055	ZERO	3SG.ZERO	0:s	0		s	1006	
 teop	iar	0055	Kahi	TAM1	lv	lv				
 teop	iar	0055	ta-kopaa	ACAUS-cut.open	v:pred	v		pred		
-teop	iar	0055	nana	3SG.IPFV	rv-pro:s	rv-pro		s		
+teop	iar	0055	nana	3SG.IPFV	rv-pro_s	rv-pro_s				
 teop	iar	0056	#	#	##	##				
-teop	iar	0056	ZERO	3SG.ZERO	0:s	0		s		
+teop	iar	0056	ZERO	3SG.ZERO	0:s	0		s	1006	
 teop	iar	0056	Na	TAM2	lv	lv				
 teop	iar	0056	ta-kopaa	ACAUS-split	v:pred	v		pred		
 teop	iar	0056	bata	along	rv	rv				
 teop	iar	0056	maa	hither	rv	rv				
-teop	iar	0056	=na	=3SG.IPFV	=rv-pro:s	=rv-pro		s		
+teop	iar	0056	=na	=3SG.IPFV	=rv-pro_s	=rv-pro_s				
 teop	iar	0057	#	#	##	##				
 teop	iar	0057	evehee	while	other	other				
-teop	iar	0057	ZERO	3SG.ZERO	0:s	0		s		
+teop	iar	0057	ZERO	3SG.ZERO	0:s	0		s	1006	
 teop	iar	0057	na	TAM2	lv	lv				
 teop	iar	0057	karakaras	rustle	v:pred	v		pred		
-teop	iar	0057	nana	3SG.IPFV	rv-pro:s	rv-pro		s		
+teop	iar	0057	nana	3SG.IPFV	rv-pro_s	rv-pro_s				
 teop	iar	0058	#	#	##	##				
 teop	iar	0058	Eikou	however	other	other				
-teop	iar	0058	te	PREP	adp=	adp=				
+teop	iar	0058	te	PREP	=adp	=adp				
 teop	iar	0058	o	ART3.SG	ln	ln				
 teop	iar	0058	vamurinae	later.on	np:other	np		other		
-teop	iar	0058	o-re=	3PRON-CONSEC=	pro:s-other=	pro		s-other=		
+teop	iar	0058	o-re=	3PRON-CONSEC=	=pro:s	=pro		s	1006	
 teop	iar	0058	paa	TAM3	lv	lv				
 teop	iar	0058	aba	human.being	v:pred	v		pred		
 teop	iar	0059	#	#	##	##				
-teop	iar	0059	ZERO	3SG.ZERO	0:s	0		s		
+teop	iar	0059	ZERO	3SG.ZERO	0:s	0		s	1006	
 teop	iar	0059	a	ART2.SG	ln	ln				
 teop	iar	0059	si	DIM	ln	ln				
 teop	iar	0059	aba	human.being	np.h:pred	np	h	pred		
 teop	iar	0059	#	#	##	##				
-teop	iar	0059	me=	and4=	other=	other=				
-teop	iar	0059	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0059	me=	and4=	=other	=other				
+teop	iar	0059	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0059	paa	TAM3	lv	lv				
 teop	iar	0059	kokopo	cover	v:pred	v		pred		
 teop	iar	0059	vaha	again	rv	rv				
-teop	iar	0059	bari	4PL.PRON	pro:p	pro		p		
+teop	iar	0059	bari	4PL.PRON	pro:p	pro		p	1006	
 teop	iar	0060	#	#	##	##				
-teop	iar	0060	me=	and4=	other=	other=				
-teop	iar	0060	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0060	me=	and4=	=other	=other				
+teop	iar	0060	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1042	
 teop	iar	0060	paa	TAM3	lv	lv				
 teop	iar	0060	tii	be	v:pred	v		pred		
 teop	iar	0060	bata	along	rv	rv				
@@ -498,167 +505,167 @@ teop	iar	0061	bata	along	nc	nc
 teop	iar	0061	tii	be	nc	nc				
 teop	iar	0061	bata	along	nc	nc				
 teop	iar	0061	#	#	##	##				
-teop	iar	0061	eori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0061	eori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1042	
 teop	iar	0061	he	but	other	other				
-teop	iar	0061	#cc:pred	#cc:pred	#cc:pred	#cc		pred		
+teop	iar	0061	#	#	#cc:pred	#cc		pred		
 teop	iar	0061	tea	COMP1	other	other				
 teop	iar	0061	kona	know	vother:pred	vother		pred		
 teop	iar	0061	bata	along	rv	rv				
 teop	iar	0062	#	#	##ds	##ds				
-teop	iar	0062	Eara	1PL.IN.PRON	pl_pro.1:a	pl_pro	1	a		
+teop	iar	0062	Eara	1PL.IN.PRON	pl_pro.1:a	pl_pro	1	a	1042	
 teop	iar	0062	toro	must	lv	lv				
 teop	iar	0062	kapa	open	v:pred	v		pred		
 teop	iar	0062	vahaa	again	rv	rv				
 teop	iar	0062	roho	before	other	other				
 teop	iar	0062	a	ART2.SG	ln	ln				
-teop	iar	0062	nahu	pot	np:p	np		p		
-teop	iar	0063	#ds	#ds	##ds	##ds				
-teop	iar	0063	a-re	1PL.IN-CONSEC	pl_pro.1:a-other	pl_pro	1	a-other		
+teop	iar	0062	nahu	pot	np:p	np		p	1022	
+teop	iar	0063	#	#	##ds	##ds				
+teop	iar	0063	a-re	1PL.IN-CONSEC	pl_pro.1:a	pl_pro	1	a	1042	
 teop	iar	0063	paa	TAM3	lv	lv				
 teop	iar	0063	kapa	open	v:pred	v		pred		
 teop	iar	0063	vahaa	again	rv	rv				
 teop	iar	0063	a	ART2.SG	ln	ln				
-teop	iar	0063	nahu	pot	np:p	np		p		
-teop	iar	0064	#	#ds	##ds	##ds				
-teop	iar	0064	a-re	1PL.IN-CONSEC	pl_pro.1:a-other	pl_pro	1	a-other		
+teop	iar	0063	nahu	pot	np:p	np		p	1022	
+teop	iar	0064	#	#	##ds	##ds				
+teop	iar	0064	a-re	1PL.IN-CONSEC	pl_pro.1:a	pl_pro	1	a	1042	
 teop	iar	0064	tara	see	v:pred	v		pred		
 teop	iar	0064	a	ART2.SG	ln	ln				
 teop	iar	0064	tabae	what	np:p	np		p		
 teop	iar	0065	#	#	##	##				
 teop	iar	0065	Merau	and4.so	other	other				
-teop	iar	0065	me=	and4=	other=	other=				
-teop	iar	0065	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0065	me=	and4=	=other	=other				
+teop	iar	0065	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0065	paa	TAM3	lv	lv				
 teop	iar	0065	kapa	open	v:pred	v		pred		
 teop	iar	0065	vaha	again	rv	rv				
 teop	iar	0065	bona	OBJ.ART2.SG	ln	ln				
-teop	iar	0065	nahu	pot	np:p	np		p		
-teop	iar	0066	te	PREP	adp=	adp=				
-teop	iar	0066	=o	=ART3.SG	ln	ln				
+teop	iar	0065	nahu	pot	np:p	np		p	1022	
+teop	iar	0066	te	PREP	=adp	=adp				
+teop	iar	0066	=o	=ART3.SG	=ln	=ln				
 teop	iar	0066	meho	other	ln	ln				
 teop	iar	0066	vuri	time	np:other	np		other		
 teop	iar	0066	#	#	##	##				
-teop	iar	0066	me=	and4=	other	other				
-teop	iar	0066	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0066	me=	and4=	=other	=other				
+teop	iar	0066	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0066	paa	TAM3	lv	lv				
 teop	iar	0066	tara	see	v:pred	v		pred		
 teop	iar	0066	bona	OBJ.ART2.SG	ln	ln				
 teop	iar	0066	si	DIM	ln	ln				
-teop	iar	0066	aba	person	np.h:p	np	h	p		
-teop	iar	0067			##	##				
-teop	iar	0067	ZERO	3SG.ZERO	0:s	0		s		
+teop	iar	0066	aba	person	np.h:p	np	h	p	1004	
+teop	iar	0067	#	#	##	##				
+teop	iar	0067	ZERO	3SG.ZERO	0:s	0		s	1006	
 teop	iar	0067	na	TAM2	lv	lv				
 teop	iar	0067	taba	thing	v:pred	v		pred		
 teop	iar	0067	bata	along	rv	rv				
 teop	iar	0067	maa	hither	rv	rv				
-teop	iar	0067	=na	=3SG.IPFV	=rv-pro:s	=rv-pro		s		
+teop	iar	0067	=na	=3SG.IPFV	=rv-pro_s	=rv-pro_s				
 teop	iar	0068	#	#	##	##				
-teop	iar	0068	ZERO	3SG.ZERO	0:s	0		s		
+teop	iar	0068	ZERO	3SG.ZERO	0:s	0		s	1006	
 teop	iar	0068	na	TAM2	lv	lv				
 teop	iar	0068	aba-aba	RED-person	v:pred	v		pred		
 teop	iar	0068	bata	along	rv	rv				
 teop	iar	0068	maa	hither	rv	rv				
-teop	iar	0068	=na	=3SG.IPFV	=rv-pro:s	=rv-pro		s		
+teop	iar	0068	=na	=3SG.IPFV	=rv-pro_s	=rv-pro_s				
 teop	iar	0069	#	#	##	##				
 teop	iar	0069	o	ART3.SG	ln	ln				
-teop	iar	0069	tagu	lump	np:s	np		s		
+teop	iar	0069	tagu	lump	np:s	np		s	1006	
 teop	iar	0069	one	clay	rn	rn				
 teop	iar	0069	na	TAM2	lv	lv				
 teop	iar	0069	aba-aba	RED-person	v:pred	v		pred		
 teop	iar	0069	bata	along	rv	rv				
 teop	iar	0069	maa	hither	rv	rv				
-teop	iar	0069	=na	=3SG.IPFV	=rv-pro:s	=rv-pro		s		
+teop	iar	0069	=na	=3SG.IPFV	=rv-pro_s	=rv-pro_s				
 teop	iar	0070	#	#	##	##				
-teop	iar	0070	ZERO	3SG.ZERO	0:a	0		a		
+teop	iar	0070	ZERO	3SG.ZERO	0:a	0		a	1006	
 teop	iar	0070	Na	TAM2	lv	lv				
 teop	iar	0070	potee	be.like	v:pred	v		pred		
 teop	iar	0070	bata	along	rv	rv				
-teop	iar	0070	maa=	hither=	rv=	rv=				
-teop	iar	0070	na	3SG.IPFV	rv-pro:a	rv-pro		a		
+teop	iar	0070	maa=	hither=	=rv	=rv				
+teop	iar	0070	na	3SG.IPFV	rv-pro_a	rv-pro_a				
 teop	iar	0070	bono	OBJ.ART3.SG	ln	ln				
 teop	iar	0070	rupi	egg	np:p	np		p		
 teop	iar	0070	toa	chicken	rn	rn				
 teop	iar	0071	#	#	##	##				
-teop	iar	0071	me=	and4=	other=	other=				
-teop	iar	0071	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0071	me=	and4=	=other	=other				
+teop	iar	0071	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0071	paa	TAM3	lv	lv				
 teop	iar	0071	vaakopo	cover	v:pred	v		pred		
 teop	iar	0071	vahabana	again	rv	rv				
-teop	iar	0071	bari	4PL.PRON	pro:p	pro		p		
+teop	iar	0071	bari	4PL.PRON	pro:p	pro		p	1006	
 teop	iar	0072	#	#	##	##				
-teop	iar	0072	ZERO	3PL.ZERO	pl_0.h:a	pl_0	h	a		
+teop	iar	0072	ZERO	3PL.ZERO	pl_0.h:a	pl_0	h	a	1042	
 teop	iar	0072	vaakopo	cover	v:pred	v		pred		
 teop	iar	0072	vahabana	again	rv	rv				
-teop	iar	0072	bari	4PL.PRON	np:p	np		p		
+teop	iar	0072	bari	4PL.PRON	np:p	np		p	1006	
 teop	iar	0072	#	#	##	##				
 teop	iar	0072	me	and4	other	other				
-teop	iar	0072	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s		
+teop	iar	0072	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s	1042	
 teop	iar	0072	tii	be	v:pred	v		pred		
 teop	iar	0072	tii	be	rv	rv				
 teop	iar	0072	tii	be	rv	rv				
 teop	iar	0072	tii	be	rv	rv				
 teop	iar	0072	tii	be	rv	rv				
 teop	iar	0073	#	#	##	##				
-teop	iar	0073	me=	and4=	other=	other=				
-teop	iar	0073	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0073	me=	and4=	=other	=other				
+teop	iar	0073	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1042	
 teop	iar	0073	paa	TAM3	lv	lv				
 teop	iar	0073	nanaoana	long.time	v:pred	v		pred		
 teop	iar	0073	vareko	PTCL4	rv	rv				
 teop	iar	0073	bata	along	rv	rv				
 teop	iar	0074	#	#	##	##				
-teop	iar	0074	me=	and4=	other=	other=				
-teop	iar	0074	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0074	me=	and4=	=other	=other				
+teop	iar	0074	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0074	paa	TAM3	lv	lv				
 teop	iar	0074	kapa	open	v:pred	v		pred		
 teop	iar	0074	haabana	again	rv	rv				
-teop	iar	0074	bari	4PL.PRON	pro:p	pro		p		
+teop	iar	0074	bari	4PL.PRON	pro:p	pro		p	1022	
 teop	iar	0074	#	#	##	##				
-teop	iar	0074	me=	and4=	other=	other=				
-teop	iar	0074	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0074	me=	and4=	=other	=other				
+teop	iar	0074	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0074	paa	TAM3	lv	lv				
 teop	iar	0074	tara	see	v:pred	v		pred		
 teop	iar	0074	bona	OBJ.ART2.SG	ln	ln				
 teop	iar	0074	si	DIM	ln	ln				
-teop	iar	0074	aba	person	np.h:p	np	h	p		
+teop	iar	0074	aba	person	np.h:p	np	h	p	1004	
 teop	iar	0075	a	ART2.SG	ln	ln				
 teop	iar	0075	si	DIM	ln	ln				
-teop	iar	0075	beiko	child	np.h:appos	np	h	appos		
+teop	iar	0075	beiko	child	np.h:appos	np	h	appos	1004	
 teop	iar	0075	aba	person	rn	rn				
 teop	iar	0076	#	#	##	##				
 teop	iar	0076	Ei	DEM2	dem_pro:s	dem_pro		s		
 teop	iar	0076	kasi	perhaps	other	other				
-teop	iar	0076	#rc:pred	#rc:pred	#rc:pred	#rc		pred		
+teop	iar	0076	#	#	#rc:pred	#rc		pred		
 teop	iar	0076	to	REL	rel_pro:other	rel_pro		other		
 teop	iar	0076	tara	look	v:pred	v		pred		
 teop	iar	0076	vo	GOAL	rv	rv				
-teop	iar	0076	ra=	1PL.IN.IPFV=	rv-pl_pro.1:s=	rv-pl_pro	1	s=		
+teop	iar	0076	ra=	1PL.IN.IPFV=	=rv-pl_pro_1_s	=rv-pl_pro_1_s				
 teop	iar	0076	ara	1PL:IN.PRON	pl_pro.1:s	pl_pro	1	s		
 teop	iar	0077	te	PREP	adp	adp				
 teop	iar	0077	=o	=ART3.SG	=ln	=ln				
-teop	iar	0077	paepa	paper	np:obl	np		obl		
+teop	iar	0077	paepa	paper	np:obl	np		obl	1046	new
 teop	iar	0077	vahuhu	birth	rn	rn				
 teop	iar	0077	vaa	LNK	rn	rn				
-teop	iar	0077	inu	house	rn_np	rn_np				
+teop	iar	0077	inu	house	rn_np	rn_np			1047	new
 teop	iar	0077	vahuhu	birth	rn	rn				
 teop	iar	0078	#	#	##	##				
 teop	iar	0078	te	PREP	adp	adp				
 teop	iar	0078	=o	=ART3	=ln	=ln				
-teop	iar	0078	buku	book	np:other	np		other		
+teop	iar	0078	buku	book	np:other	np		other	1048	new
 teop	iar	0078	bona	ANA	rn	rn				
 teop	iar	0079	na	TAM2	lv	lv				
 teop	iar	0079	tii	be	v:pred	v		pred		
-teop	iar	0079	nana	3SG.IPFV	rv-pro.h:s	rv-pro	h	s		
-teop	iar	0079	a=	ART2.SG=	ln=	ln=				
+teop	iar	0079	nana	3SG.IPFV	rv-pro_h_s	rv-pro_h_s				
+teop	iar	0079	a=	ART2.SG=	=ln	=ln				
 teop	iar	0079	maa	PLM	ln	ln				
 teop	iar	0079	si	DIM	ln	ln				
-teop	iar	0079	beiko	child	pl_np.h:s	pl_np	h	s		
+teop	iar	0079	beiko	child	pl_np.h:s	pl_np	h	s	1049	bridging
 teop	iar	0079	#	#	##	##				
 teop	iar	0079	ZERO	3SG.ZERO	0:obl	0		obl		
 teop	iar	0079	paku	be	v:pred	v		pred		
 teop	iar	0079	bau	perhaps	rv	rv				
-teop	iar	0079	vo=	like=	rv=	rv=				
-teop	iar	0079	na=	3SG.IPFV=	rv-pro.h:s=	rv-pro	h	s=		
-teop	iar	0079	e	3SG.PRO	pro.h:s	pro	h	s		
+teop	iar	0079	vo=	like=	=rv	=rv				
+teop	iar	0079	na=	3SG.IPFV=	=rv-pro_h_s	=rv-pro_h_s				
+teop	iar	0079	e	3SG.PRON	pro.h:s	pro	h	s	1004	
 teop	iar	0080	#	#	##	##				
 teop	iar	0080	ZERO	3SG.ZERO	0:obl	0		obl		
 teop	iar	0080	paku	be	v:pred	v		pred		
@@ -666,73 +673,73 @@ teop	iar	0080	kasi	perhaps	rv	rv
 teop	iar	0080	roho	before	other	other				
 teop	iar	0080	a	ART2.SG	ln	ln				
 teop	iar	0080	si	DIM	ln	ln				
-teop	iar	0080	beiko	child	np.h:s	np	h	s		
+teop	iar	0080	beiko	child	np.h:s	np	h	s	1004	
 teop	iar	0080	vai	DEM6	rn	rn				
 teop	iar	0081	#	#	##ds	##ds				
 teop	iar	0081	Erau	then	other	other				
 teop	iar	0081	He	he	other	other				
 teop	iar	0081	he	he	other	other				
 teop	iar	0081	hei	hey	other	other				
-teop	iar	0081	otei	man	np.h:voc	np	h	voc		
-teop	iar	0081	te=	PREP=	rn_adp=	rn_adp=				
-teop	iar	0081	naa	1SG.PRON	rn_pro.1:poss	rn_pro	1	poss		
-teop	iar	0081	ZERO	3SG.ZERO	0:s	0		s		
+teop	iar	0081	otei	man	np.h:voc	np	h	voc	1041	
+teop	iar	0081	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0081	naa	1SG.PRON	rn_pro.1:poss	rn_pro	1	poss	1010	
+teop	iar	0081	ZERO	3SG.ZERO	0:s	0		s	1006	
 teop	iar	0081	a	ART2.SG	ln	ln				
-teop	iar	0081	beiko	child	np.h.:pred	np	h.	pred		
-teop	iar	0081	te=	PREP=	rn_adp=	rn_adp=				
+teop	iar	0081	beiko	child	np.h:pred	np	h	pred	1004	
+teop	iar	0081	te=	PREP=	=rn_adp	=rn_adp				
 teop	iar	0081	ara	1PL.IN.PRON	rn_pl_pro.1:poss	rn_pl_pro	1	poss		
 teop	iar	0082	#	#	##ds	##ds				
 teop	iar	0082	a	ART2.SG	ln	ln				
-teop	iar	0082	beiko	child	np.h:s	np	h	s		
-teop	iar	0082	te=	PREP=	rn_adp=	rn_adp=				
-teop	iar	0082	ara	1PL.IN.PRON	rn_pl_pro.1:poss	rn_pl_pro	1	poss		
+teop	iar	0082	beiko	child	np.h:s	np	h	s	1004	
+teop	iar	0082	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0082	ara	1PL.IN.PRON	rn_pl_pro.1:poss	rn_pl_pro	1	poss	1042	
 teop	iar	0082	na	TAM2	lv	lv				
 teop	iar	0082	ta-paku	ACAUS-make	v:pred	v		pred		
 teop	iar	0083	#	#	##ds	##ds				
 teop	iar	0083	O	ART3.SG	ln	ln				
-teop	iar	0083	tagu-one	lump-clay	np:a	np		a		
+teop	iar	0083	tagu-one	lump-clay	np:a	np		a	1006	
 teop	iar	0083	na	TAM2	lv	lv				
 teop	iar	0083	paku	make	v:pred	v		pred		
 teop	iar	0083	bona	OBJ.ART2.SG	ln	ln				
-teop	iar	0083	beiko	child	np.h:p	np	h	p		
-teop	iar	0084	#	#ds	##ds	##ds				
+teop	iar	0083	beiko	child	np.h:p	np	h	p	1004	
+teop	iar	0084	#	#	##ds	##ds				
 teop	iar	0084	E	ART1	ln	ln				
-teop	iar	0084	ta	piece	np:a	np		a		
+teop	iar	0084	ta	piece	np:a	np		a	1006	
 teop	iar	0084	one	clay	rn	rn				
 teop	iar	0084	na	TAM2	lv	lv				
 teop	iar	0084	paku	make	v:pred	v		pred		
 teop	iar	0084	bona	OBJ.ART2.SG	ln	ln				
-teop	iar	0084	beiko	child	np.h:p	np	h	p		
+teop	iar	0084	beiko	child	np.h:p	np	h	p	1004	
 teop	iar	0085	#	#	##	##				
 teop	iar	0085	Erau	then	other	other				
-teop	iar	0085	me=	and4=	other=	other=				
-teop	iar	0085	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0085	me=	and4=	=other	=other				
+teop	iar	0085	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0085	paa	TAM3	lv	lv				
 teop	iar	0085	kokopo	cover	v:pred	v		pred		
 teop	iar	0085	vaha	again	rv	rv				
-teop	iar	0085	bari	4PL.PRON	pro.h:p	pro	h	p		
+teop	iar	0085	bari	4PL.PRON	pro.h:p	pro	h	p	1006	
 teop	iar	0086	#	#	##	##				
 teop	iar	0086	Ahiki	not.exist	other:pred	other		pred		
-teop	iar	0086	#cc:s		#cc:s	#cc		s		
-teop	iar	0086	be=	COMP2=	other=	other=				
-teop	iar	0086	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0086	#	#	#cc:s	#cc		s		
+teop	iar	0086	be=	COMP2=	=other	=other				
+teop	iar	0086	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1042	
 teop	iar	0086	sue-sue	RED-tell	v:pred	v		pred		
 teop	iar	0087	te	PREP	adp	adp				
 teop	iar	0087	=a	=ART2.SG	=ln	=ln				
-teop	iar	0087	tavaan	people	np.h:obl	np	h	obl		
-teop	iar	0087	te=	PREP=	rn_adp=	rn_adp=				
-teop	iar	0087	ori	3PL.PRON	rn_pl_pro.h:poss	rn_pl_pro	h	poss		
+teop	iar	0087	tavaan	people	np.h:obl	np	h	obl	1051	bridging
+teop	iar	0087	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0087	ori	3PL.PRON	rn_pl_pro.h:poss	rn_pl_pro	h	poss	1042	
 teop	iar	0087	ahiki	no	other	other				
 teop	iar	0088	#	#	##	##				
-teop	iar	0088	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s		
+teop	iar	0088	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s	1042	
 teop	iar	0088	tii	be	v:pred	v		pred		
 teop	iar	0088	varomi	silent	rv	rv				
 teop	iar	0088	koa	just	rv	rv				
-teop	iar	0088	=ri	=3PL.IPFV	=rv-pl_pro.h:s	=rv-pl_pro	h	s		
+teop	iar	0088	=ri	=3PL.IPFV	=rv-pl_pro_h_s	=rv-pl_pro_h_s				
 teop	iar	0089	#	#	##	##				
-teop	iar	0089	me=	and4=	other=	other=				
+teop	iar	0089	me=	and4=	=other	=other				
 teop	iar	0089	a	ART2.SG	ln	ln				
-teop	iar	0089	beiko	child	np.h:s	np	h	s		
+teop	iar	0089	beiko	child	np.h:s	np	h	s	1004	
 teop	iar	0089	paa	TAM3	lv	lv				
 teop	iar	0089	beera	big	v:pred	v		pred		
 teop	iar	0089	maa	hither	rv	rv				
@@ -741,155 +748,155 @@ teop	iar	0089	ZERO	3SG.ZERO	0.h:s	0	h	s
 teop	iar	0089	beera	big	v:pred	v		pred		
 teop	iar	0089	maa	hither	rv	rv				
 teop	iar	0090	#	#	##	##				
-teop	iar	0090	me	and4	other=	other=				
-teop	iar	0090	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0090	me	and4	=other	=other				
+teop	iar	0090	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0090	beera	big	v:pred	v		pred		
 teop	iar	0090	maa	hither	rv	rv				
 teop	iar	0091	#	#	##	##				
-teop	iar	0091	me=	and4=	other=	other=				
-teop	iar	0091	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0091	me=	and4=	=other	=other				
+teop	iar	0091	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0091	paa	TAM3	lv	lv				
 teop	iar	0091	gono	get	v:pred	v		pred		
-teop	iar	0091	bari	4PL.PRON	pro.h:p	pro	h	p		
+teop	iar	0091	bari	4PL.PRON	pro.h:p	pro	h	p	1004	
 teop	iar	0092	#	#	##	##				
-teop	iar	0092	ZERO	3SG.ZERO	0.h:p	0	h	p		
+teop	iar	0092	ZERO	3SG.ZERO	0.h:p	0	h	p	1004	
 teop	iar	0092	gono	get	v:pred	v		pred		
 teop	iar	0092	vai	now	other	other				
-teop	iar	0092	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0092	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0092	a	ART2.SG	ln	ln				
-teop	iar	0092	beiko	child	np.h:dt_p	np	h	dt_p		
+teop	iar	0092	beiko	child	np.h:dt_p	np	h	dt_p	1004	
 teop	iar	0093	#	#	##	##				
-teop	iar	0093	me=	and4=	other=	other=				
-teop	iar	0093	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0093	me=	and4=	=other	=other				
+teop	iar	0093	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0093	paa	TAM3	lv	lv				
 teop	iar	0093	kikira	look.after	v:pred	v		pred		
 teop	iar	0093	ni	APPL	rv	rv				
-teop	iar	0093	bari	4PL.PRON	pro.h:p	pro	h	p		
-teop	iar	0093	inu	house	np:l	np		l		
+teop	iar	0093	bari	4PL.PRON	pro.h:p	pro	h	p	1004	
+teop	iar	0093	inu	house	np:l	np		l	1011	
 teop	iar	0094	#	#	##	##				
-teop	iar	0094	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0094	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0094	a	ART2.SG	ln	ln				
 teop	iar	0094	varavihi	hidden	ap_other:pred	ap_other		pred		
 teop	iar	0095	#	#	##	##				
 teop	iar	0095	Ahiki	not.exist	other:pred	other		pred		
-teop	iar	0096	#cc	#cc	#cc:s	#cc		s		
-teop	iar	0096	be=	COMP2=	other=	other=				
-teop	iar	0096	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0096	#	#	#cc:s	#cc		s		
+teop	iar	0096	be=	COMP2=	=other	=other				
+teop	iar	0096	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0096	mee	lead	v:pred	v		pred		
 teop	iar	0096	tavusu	come.out	rv	rv				
-teop	iar	0096	bari	4PL.PRON	pro.h:p	pro	h	p		
+teop	iar	0096	bari	4PL.PRON	pro.h:p	pro	h	p	1004	
 teop	iar	0097	#	#	##	##				
 teop	iar	0097	ta	NSPEC1.SG	ln	ln				
-teop	iar	0097	tavaan	people	pl_np.h:a	pl_np	h	a		
+teop	iar	0097	tavaan	people	pl_np.h:a	pl_np	h	a	1051	
 teop	iar	0097	re	CONSEC	other	other				
 teop	iar	0097	tara	see	v:pred	v		pred		
-teop	iar	0097	bari	4PL.PRON	pro.h:p	pro	h	p		
+teop	iar	0097	bari	4PL.PRON	pro.h:p	pro	h	p	1004	
 teop	iar	0097	#	#	##	##				
 teop	iar	0097	ahiki	not.exist	other	other				
-teop	iar	0097	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0097	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0097	na	TAM2	lv	lv				
 teop	iar	0097	tii	be	v:pred	v		pred		
 teop	iar	0097	koa	just	rv	rv				
 teop	iar	0098	#	#	##	##				
-teop	iar	0098	ZERO	3SG.ZERO	0.h:p	0	h	p		
+teop	iar	0098	ZERO	3SG.ZERO	0.h:p	0	h	p	1004	
 teop	iar	0098	tii	be	v:pred	v		pred		
 teop	iar	0098	koa	just	rv	rv				
 teop	iar	0098	mi	with	rv	rv				
-teop	iar	0098	ri=	3PL.IPFV=	rv-pl_pro.h:a=	rv-pl_pro	h	a=		
-teop	iar	0098	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0098	ri=	3PL.IPFV=	=rv-pl_pro_h_a	=rv-pl_pro_h_a				
+teop	iar	0098	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0099	#	#	##	##				
-teop	iar	0099	ZERO	3SG.ZERO	0.h:p	0	h	p		
+teop	iar	0099	ZERO	3SG.ZERO	0.h:p	0	h	p	1004	
 teop	iar	0099	kikira	look.after	v:pred	v		pred		
 teop	iar	0099	vanenees	diligently	rv	rv				
 teop	iar	0099	rakaha	very	rv	rv				
 teop	iar	0099	ni	APPL	rv	rv				
-teop	iar	0099	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0099	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0100	#	#	##	##				
-teop	iar	0100	me=	and4=	other=	other=				
-teop	iar	0100	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0100	me=	and4=	=other	=other				
+teop	iar	0100	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0100	antee	can	v:pred	v		pred		
 teop	iar	0100	komana	PTCL2	rv	rv				
-teop	iar	0100	#cc	#cc	#cc:p	#cc		p		
+teop	iar	0100	#	#	#cc:p	#cc		p		
 teop	iar	0100	tea	COMP1	other	other				
 teop	iar	0100	an	eat	vother:pred	vother		pred		
 teop	iar	0101	#	#	##	##				
-teop	iar	0101	me=	and4=	other=	other=				
-teop	iar	0101	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0101	me=	and4=	=other	=other				
+teop	iar	0101	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0101	vaa-'an	CAUS-eat	v:pred	v		pred		
-teop	iar	0101	bari	4PL.PRON	pro.h:p	pro	h	p		
+teop	iar	0101	bari	4PL.PRON	pro.h:p	pro	h	p	1004	
 teop	iar	0102	#	#	##	##				
-teop	iar	0102	me=	and4=	other=	other=				
-teop	iar	0102	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0102	me=	and4=	=other	=other				
+teop	iar	0102	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0102	paa	TAM3	lv	lv				
 teop	iar	0102	beera	big	v:pred	v		pred		
 teop	iar	0102	#	#	##	##				
-teop	iar	0102	me	and4	other=	other=				
-teop	iar	0102	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0102	me	and4	=other	=other				
+teop	iar	0102	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0102	beera	big	v:pred	v		pred		
 teop	iar	0102	#	#	##	##				
 teop	iar	0102	me	and4	other	other				
-teop	iar	0102	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0102	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0102	beera	big	v:pred	v		pred		
 teop	iar	0103	#	#	##	##				
 teop	iar	0103	Rerau	then	other	other				
-teop	iar	0103	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0103	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0103	pita	walk	v:pred	v		pred		
 teop	iar	0103	vai	now	other	other				
 teop	iar	0104	#	#	##	##				
-teop	iar	0104	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0104	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0104	Pita	walk	v:pred	v		pred		
 teop	iar	0104	koa	only	other	other				
-teop	iar	0104	koma-n=	inside-3SG.POSS=	np:l	np		l		
+teop	iar	0104	koma-n=	inside-3SG.POSS=	=np:l	=np		l		
 teop	iar	0104	a	ART2.SG	rn	rn				
-teop	iar	0104	inu	house	rn_np:poss	rn_np		poss		
+teop	iar	0104	inu	house	rn_np:poss	rn_np		poss	1011	
 teop	iar	0105	#	#	##	##				
-teop	iar	0105	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0105	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0105	tei	be	v:pred	v		pred		
 teop	iar	0105	vakis	still	rv	rv				
-teop	iar	0105	koma-n=	inside-3SG.POSS=	np:l	np		l		
+teop	iar	0105	koma-n=	inside-3SG.POSS=	=np:l	=np		l		
 teop	iar	0105	a	ART2.SG	rn	rn				
-teop	iar	0105	inu	house	rn_np:poss	rn_np		poss		
+teop	iar	0105	inu	house	rn_np:poss	rn_np		poss	1011	
 teop	iar	0106	#	#	##	##				
 teop	iar	0106	Evehee	but	other	other				
-teop	iar	0106	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0106	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0106	beera	big	v:pred	v		pred		
 teop	iar	0106	hiava	up	rv	rv				
 teop	iar	0106	bata	along	rv	rv				
 teop	iar	0107	#	#	##	##				
-teop	iar	0107	me=	and4=	other=	other=				
-teop	iar	0107	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0107	me=	and4=	=other	=other				
+teop	iar	0107	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0107	paa	TAM3	lv	lv				
 teop	iar	0107	paku	make	v:pred	v		pred		
 teop	iar	0107	bono	OBJ.ART3.SG	ln	ln				
 teop	iar	0107	peho	INDEF.O	ln	ln				
-teop	iar	0107	paku	feast	np:p	np		p		
+teop	iar	0107	paku	feast	np:p	np		p	1053	new
 teop	iar	0108	a	ART2.SG	ln	ln				
-teop	iar	0108	kan	lots	np:appos	np		appos		
+teop	iar	0108	kan	lots	np:appos	np		appos	1054	bridging
 teop	iar	0108	a	ART2.SG	rn	rn				
 teop	iar	0108	taba-an	thing-eat	rn	rn				
 teop	iar	0109	#	#	##	##				
-teop	iar	0109	ZERO	3SG.ZERO	0.h:p	0	h	p		
+teop	iar	0109	ZERO	3SG.ZERO	0.h:p	0	h	p	1004	
 teop	iar	0109	kahi	TAM1	lv	lv				
 teop	iar	0109	vaa-tavusu	CAUS-come.out	v:pred	v		pred		
-teop	iar	0109	ri=	3PL.IPFV=	rv-pl_pro.h:a=	rv-pl_pro	h	a=		
-teop	iar	0109	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0109	ri=	3PL.IPFV=	=rv-pl_pro_h_a	=rv-pl_pro_h_a				
+teop	iar	0109	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0110	#	#	##	##				
-teop	iar	0110	tavaan	people	pl_np.h:a	pl_np	h	a		
+teop	iar	0110	tavaan	people	pl_np.h:a	pl_np	h	a	1051	
 teop	iar	0110	re	CONSEC	lv	lv				
 teop	iar	0110	tara	see	v:pred	v		pred		
-teop	iar	0110	bari	4PL.PRON	pro.h:p	pro	h	p		
+teop	iar	0110	bari	4PL.PRON	pro.h:p	pro	h	p	1004	
 teop	iar	0111	#	#	##	##				
-teop	iar	0111	me=	and4=	other=	other=				
-teop	iar	0111	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0111	me=	and4=	=other	=other				
+teop	iar	0111	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0111	paa	TAM3	lv	lv				
 teop	iar	0111	neba	plant	v:pred	v		pred		
 teop	iar	0111	bona	OBJ.ART2.SG	ln	ln				
-teop	iar	0111	mohina	garden	np:p	np		p		
+teop	iar	0111	mohina	garden	np:p	np		p	1055	new
 teop	iar	0112	a	ART2.SG	ln	ln				
-teop	iar	0112	muu	taro	np:appos	np		appos		
-teop	iar	0112	pauna	banana	rn_np	rn_np				
+teop	iar	0112	muu	taro	np:appos	np		appos	1056	new
+teop	iar	0112	pauna	banana	rn_np	rn_np			1057	new
 teop	iar	0112	a	ART2.SG	rn	rn				
-teop	iar	0112	voi	yam	rn_np	rn_np				
+teop	iar	0112	voi	yam	rn_np	rn_np			1058	new
 teop	iar	0113	#	#	##neg	##neg				
 teop	iar	0113	nabunuu	in.former.times	other	other				
 teop	iar	0113	ahiki	not.exist	other:pred	other		pred		
@@ -915,107 +922,107 @@ teop	iar	0115	ae	and1	rn	rn
 teop	iar	0115	a	ART2.SG	rn	rn				
 teop	iar	0115	pauna	banana	rn_np	rn_np				
 teop	iar	0116	#	#	##	##				
-teop	iar	0116	me=	and4=	other=	other=				
-teop	iar	0116	ori	3PL.PRON	pl_pro.h:s_ds	pl_pro	h	s_ds		
+teop	iar	0116	me=	and4=	=other	=other				
+teop	iar	0116	ori	3PL.PRON	pl_pro.h:s_ds	pl_pro	h	s_ds	1051	
 teop	iar	0116	paa	TAM3	lv	lv				
 teop	iar	0116	hivi	ask	v:pred	v		pred		
 teop	iar	0116	a	ART2.SG	ln	ln				
-teop	iar	0116	tavaan	people	pl_np.h:dt_s	pl_np	h	dt_s		
+teop	iar	0116	tavaan	people	pl_np.h:dt_s	pl_np	h	dt_s	1051	
 teop	iar	0116	vai	LNK	rn	rn				
-teop	iar	0116	vaan	village	rn_np	rn_np				
-teop	iar	0117	#ds	#ds	##ds	##ds				
+teop	iar	0116	vaan	village	rn_np	rn_np			1061	bridging
+teop	iar	0117	#	#	##ds	##ds				
 teop	iar	0117	A	ART2.SG	ln	ln				
-teop	iar	0117	tabae	what	int_np:pred	int_np		pred		
-teop	iar	0117	#	#rc	#rc:s	#rc		s		
+teop	iar	0117	tabae	what	intrg_np:pred	intrg_np		pred		
+teop	iar	0117	#	#	#rc:s	#rc		s		
 teop	iar	0117	to	REL	rel_pro:p	rel_pro		p		
 teop	iar	0117	neba	plant	v:pred	v		pred		
 teop	iar	0117	mi	for	rv	rv				
-teop	iar	0117	nom	2PL.IPFV	rv-pl_pro.2:a	rv-pl_pro	2	a		
-teop	iar	0117	eam	2PL.ZERO	pl_pro.2:a	pl_pro	2	a		
-teop	iar	0118	#ds	#ds	##ds	##ds				
-teop	iar	0118	ZERO	3SG.ZERO	0:s	0		s		
+teop	iar	0117	nom	2PL.IPFV	rv-pl_pro_2_a	rv-pl_pro_2_a				
+teop	iar	0117	eam	2PL.ZERO	pl_pro.2:a	pl_pro	2	a	1042	
+teop	iar	0118	#	#	##ds	##ds				
+teop	iar	0118	ZERO	3SG.ZERO	0:s	0		s	1055	
 teop	iar	0118	A	ART2.SG	ln	ln				
 teop	iar	0118	mohina	garden	np:pred	np		pred		
 teop	iar	0118	vai	DEM6	rn	rn				
 teop	iar	0118	a	ART2.SG	rn	rn				
 teop	iar	0118	beera	big	rn	rn				
-teop	iar	0119	#ds	#ds	##ds	##ds				
+teop	iar	0119	#	#	##ds	##ds				
 teop	iar	0119	Ah	ah	other	other				
 teop	iar	0119	ZERO	3SG.ZERO	0:p	0		p		
 teop	iar	0119	pasi	TAM4	lv	lv				
 teop	iar	0119	tara	see	v:pred	v		pred		
 teop	iar	0119	komana	PTCL2	rv	rv				
-teop	iar	0119	vu=	IMM=	rv=	rv=				
-teop	iar	0119	am	2PL.PRON	pl_pro.2:a	pl_pro	2	a		
+teop	iar	0119	vu=	IMM=	=rv	=rv				
+teop	iar	0119	am	2PL.PRON	pl_pro.2:a	pl_pro	2	a	1051	
 teop	iar	0120	te	PREP	adp	adp				
 teop	iar	0120	=o	=ART3.SG	=ln	=ln				
-teop	iar	0120	bon	day	np:other	np		other		
+teop	iar	0120	bon	day	np:other	np		other	1063	new
 teop	iar	0120	vai	DEM6	rn	rn				
-teop	iar	0120	#ds.ac	#ds.ac	rn_#ds_rc	rn_#ds_rc				
-teop	iar	0120	be=	when-	other=	other=				
+teop	iar	0120	#	#	#ds_rc_rn	#ds_rc_rn				
+teop	iar	0120	be=	when=	=other	=other				
 teop	iar	0120	a	ART2.SG	ln	ln				
-teop	iar	0120	mohina	garden	np:s	np		s		
+teop	iar	0120	mohina	garden	np:s	np		s	1055	
 teop	iar	0120	manoto	ripe	v:pred	v		pred		
-teop	iar	0121	#ds	#ds	##ds	##ds				
-teop	iar	0121	a-re	1PL.IN-CONSEC	pl_pro.1:a-other	pl_pro	1	a-other		
+teop	iar	0121	#	#	##ds	##ds				
+teop	iar	0121	a-re	1PL.IN-CONSEC	pl_pro.1:a	pl_pro	1	a	1064	bridging
 teop	iar	0121	paa	TAM3	lv	lv				
 teop	iar	0121	paku	make	v:pred	v		pred		
 teop	iar	0121	a	ART2.SG	ln	ln				
-teop	iar	0121	tabaan	food	np:p	np		p		
+teop	iar	0121	tabaan	food	np:p	np		p	1054	
 teop	iar	0121	a	ART2.SG	rn	rn				
 teop	iar	0121	beera	big	rn	rn				
-teop	iar	0122	#ds	#ds	##ds	##ds				
-teop	iar	0122	a-re	1PL.IN-CONSEC	pl_pro.1:s-other	pl_pro	1	s-other		
+teop	iar	0122	#	#	##ds	##ds				
+teop	iar	0122	a-re	1PL.IN-CONSEC	pl_pro.1:s	pl_pro	1	s	1064	
 teop	iar	0122	paa	TAM3	lv	lv				
 teop	iar	0122	vagana	fish	v:pred	v		pred		
-teop	iar	0122	iana	fish	rv_n	rv_n				
-teop	iar	0123	#ds	#ds	##ds	##ds				
-teop	iar	0123	a-re	1PL.IN-CONSEC	pl_pro.1:s-other	pl_pro	1	s-other		
+teop	iar	0122	iana	fish	rv_np	rv_np				
+teop	iar	0123	#	#	##ds	##ds				
+teop	iar	0123	a-re	1PL.IN-CONSEC	pl_pro.1:s	pl_pro	1	s	1064	
 teop	iar	0123	paa	TAM3	lv	lv				
 teop	iar	0123	asunu	kill	v:pred	v		pred		
-teop	iar	0123	guu	pig	rv_n	rv_n				
-teop	iar	0124	#ds	#ds	##ds	##ds				
-teop	iar	0124	ZERO	2PL.ZERO	pl_0.2:s	pl_0	2	s		
+teop	iar	0123	guu	pig	rv_np	rv_np			1065	new
+teop	iar	0124	#	#	##ds	##ds				
+teop	iar	0124	ZERO	2PL.ZERO	pl_0.2:s	pl_0	2	s	1064	
 teop	iar	0124	paku	do	v:pred	v		pred		
-teop	iar	0124	guu	pig	rv_n	rv_n				
-teop	iar	0124	##ds		##ds	##ds				
+teop	iar	0124	guu	pig	rv_np	rv_np			1065	
+teop	iar	0124	#	#	##ds	##ds				
 teop	iar	0124	ae	and1	other	other				
-teop	iar	0124	ZERO	2PL.ZERO	pl_0.2:s	pl_0	2	s		
+teop	iar	0124	ZERO	2PL.ZERO	pl_0.2:s	pl_0	2	s	1064	
 teop	iar	0124	paku	do	v:pred	v		pred		
-teop	iar	0124	iana	fish	rv_n	rv_n				
-teop	iar	0125	tabaan	food	rv_n	rv_n				
+teop	iar	0124	iana	fish	rv_np	rv_np			1066	bridging
+teop	iar	0125	tabaan	food	rv_np	rv_np			1067	bridging
 teop	iar	0125	vaa	LNK	rn	rn				
-teop	iar	0125	mohina	garden	rn_np	rn_np				
-teop	iar	0125	#ds	#ds	##ds	##ds				
-teop	iar	0125	eam	2PL.ZERO	pl_pro.2:a	pl_pro	2	a		
+teop	iar	0125	mohina	garden	rn_np	rn_np			1055	
+teop	iar	0125	#	#	##ds	##ds				
+teop	iar	0125	eam	2PL.ZERO	pl_pro.2:a	pl_pro	2	a	1051	
 teop	iar	0125	paa	TAM3	lv	lv				
 teop	iar	0125	tara	see	v:pred	v		pred		
 teop	iar	0125	a	ART2.SG	ln	ln				
 teop	iar	0125	peha	INDEF.A	ln	ln				
-teop	iar	0125	taba	thing	np:p	np		p		
-teop	iar	0126	#ds	#ds	##ds	##ds				
-teop	iar	0126	ZERO	3SG.ZERO	0.h:p	0	h	p		
+teop	iar	0125	taba	thing	np:p	np		p	1004	
+teop	iar	0126	#	#	##ds	##ds				
+teop	iar	0126	ZERO	3SG.ZERO	0.h:p	0	h	p	1004	
 teop	iar	0126	kahi	TAM1	lv	lv				
 teop	iar	0126	vaa-taviri	CAUS-go.around	v:pred	v		pred		
-teop	iar	0126	ra=	1PL.IN.IPFV=	rv-pl_pro.1:a=	rv-pl_pro	1	a=		
-teop	iar	0126	ara	1PL.IN.PRON	pl_pro.1:a	pl_pro	1	a		
+teop	iar	0126	ra=	1PL.IN.IPFV=	=rv-pl_pro_1_a	=rv-pl_pro_1_a				
+teop	iar	0126	ara	1PL.IN.PRON	pl_pro.1:a	pl_pro	1	a	1042	
 teop	iar	0126	te	PREP	adp	adp				
 teop	iar	0126	=o	=ART3.SG	=ln	=ln				
-teop	iar	0126	piuvu	piuvu.dance	np:other	np		other		
+teop	iar	0126	piuvu	piuvu.dance	np:other	np		other	1068	new
 teop	iar	0127	te	PREP	adp	adp				
 teop	iar	0127	=a	=ART2.SG	=ln	=ln				
-teop	iar	0127	koomaa	chant	np:other	np		other		
-teop	iar	0128	#		##	##				
-teop	iar	0128	#ds.ac	#ds.ac	#ds_ac	#ds_ac				
+teop	iar	0127	koomaa	chant	np:other	np		other	1069	bridging
+teop	iar	0128	#	#	##	##				
+teop	iar	0128	#	#	#ds_ac	#ds_ac				
 teop	iar	0128	be	when	other	other				
 teop	iar	0128	=a	=ART2.SG	=ln	=ln				
-teop	iar	0128	tavaan	people	np.h:s	np	h	s		
+teop	iar	0128	tavaan	people	np.h:s	np	h	s	1051	
 teop	iar	0128	hagi	dance	v:pred	v		pred		
 teop	iar	0128	bata	along	rv	rv				
-teop	iar	0128	=ri	=3PL.IPFV	=rv-pl_pro.h:s	=rv-pl_pro	h	s		
-teop	iar	0129	#	#	%	%				
+teop	iar	0128	=ri	=3PL.IPFV	=rv-pl_pro_h_s	=rv-pl_pro_h_s			1051	
+teop	iar	0129	%	%	%	%				
 teop	iar	0129	Erau	then	other	other				
-teop	iar	0129	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s		
+teop	iar	0129	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s	1051	
 teop	iar	0129	tii	be	v:pred	v		pred		
 teop	iar	0129	tii	be	rv	rv				
 teop	iar	0129	tii	be	rv	rv				
@@ -1028,380 +1035,381 @@ teop	iar	0129	taem	time	np:other	np		other
 teop	iar	0129	sana	PTCL3	rn	rn				
 teop	iar	0130	#	#	##	##				
 teop	iar	0130	a	ART2.SG	ln	ln				
-teop	iar	0130	beiko	child	np.h:s	np	h	s		
+teop	iar	0130	beiko	child	np.h:s	np	h	s	1004	
 teop	iar	0130	bona	ANA	rn	rn				
 teop	iar	0130	a	ART2.SG	ln	ln				
 teop	iar	0130	moon	girl	np.h:pred	np	h	pred		
 teop	iar	0131	#	#	##	##				
-teop	iar	0131	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0131	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0131	Paa	TAM3	lv	lv				
 teop	iar	0131	moon	woman	v:pred	v		pred		
 teop	iar	0131	#	#	##	##				
-teop	iar	0131	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0131	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0131	paa	TAM3	lv	lv				
 teop	iar	0131	mahura	mature	v:pred	v		pred		
 teop	iar	0131	=u	=IMM	=rv	=rv				
 teop	iar	0132	#	#	#	#				
-teop	iar	0132	o-re	3PRON-CONSEC	pl_pro.h:s_ds-other	pl_pro	h	s_ds-other		
+teop	iar	0132	o-re	3PRON-CONSEC	pl_pro.h:s_ds	pl_pro	h	s_ds	1042	
 teop	iar	0132	paa	TAM3	lv	lv				
 teop	iar	0132	sue	say	v:pred	v		pred		
-teop	iar	0132	#ds	#ds	##ds	##ds				
+teop	iar	0132	#	#	##ds	##ds				
 teop	iar	0132	Bara	alright	other	other				
-teop	iar	0132	eara	1PL.IN.PRON	pl_pro.1:a	pl_pro	1	a		
+teop	iar	0132	eara	1PL.IN.PRON	pl_pro.1:a	pl_pro	1	a	1064	
 teop	iar	0132	antee	can	v:pred	v		pred		
 teop	iar	0132	vai	now	other	other				
-teop	iar	0132	#cc	#cc	#cc:p	#cc		p		
+teop	iar	0132	#	#	#cc:p	#cc		p		
 teop	iar	0132	tea	COMP1	other	other				
 teop	iar	0132	paku	make	vother:pred	vother		pred		
 teop	iar	0132	a	ART2.SG	ln	ln				
-teop	iar	0132	tabaan	food	np:p	np		p		
-teop	iar	0133	#ds	#ds	##ds	##ds				
+teop	iar	0132	tabaan	food	np:p	np		p	1054	
+teop	iar	0133	#	#	##ds	##ds				
 teop	iar	0133	a	ART2.SG	ln	ln				
-teop	iar	0133	beiko	child	np.h:s	np	h	s		
+teop	iar	0133	beiko	child	np.h:s	np	h	s	1004	
 teop	iar	0133	paa	TAM3	lv	lv				
 teop	iar	0133	mahura	mature	v:pred	v		pred		
 teop	iar	0133	vaevuru	already	other	other				
-teop	iar	0134	#ds	#ds	##ds	##ds				
-teop	iar	0134	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0134	#	#	##ds	##ds				
+teop	iar	0134	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0134	a	ART2.SG	ln	ln				
 teop	iar	0134	moon	woman	np.h:pred	np	h	pred		
 teop	iar	0134	a	ART2.SG	rn	rn				
 teop	iar	0134	beera	big	rn	rn				
 teop	iar	0134	vaevuru	already	other	other				
-teop	iar	0135	#ds	#ds	##ds	##ds				
-teop	iar	0135	eam	2PL.PRON	pl_pro.2:s	pl_pro	2	s		
+teop	iar	0135	#	#	##ds	##ds				
+teop	iar	0135	eam	2PL.PRON	pl_pro.2:s	pl_pro	2	s	1051	
 teop	iar	0135	toro	must	lv	lv				
 teop	iar	0135	vagana	fish	v:pred	v		pred		
 teop	iar	0135	maa	hither	rv	rv				
 teop	iar	0136	#	#	##	##				
 teop	iar	0136	e	ART1.SG	ln	ln				
-teop	iar	0136	beera	chief	np.h:dt	np	h	dt		
+teop	iar	0136	beera	chief	np.h:dt	np	h	dt	1070	bridging
 teop	iar	0136	e	ART1.SG	ln	ln				
 teop	iar	0136	beera	chief	np.h:a	np	h	a		
 teop	iar	0136	vai	DEM6	rn	rn				
-teop	iar	0136	koma-n=	inside-3SG.POSS=	rn_np	rn_np				
+teop	iar	0136	koma	inside	rn_np	rn_np				
+teop	iar	0136	-n=	-3SG.POSS=	-rn	-rn				
 teop	iar	0136	a	ART2.SG	rn	rn				
-teop	iar	0136	vaan	village	rn_np:poss	rn_np		poss		
+teop	iar	0136	vaan	village	rn_np:poss	rn_np		poss	1061	
 teop	iar	0137	na	TAM2	lv	lv				
 teop	iar	0137	susu	beat	v:pred	v		pred		
 teop	iar	0137	bono	OBJ.ART3.SG	ln	ln				
-teop	iar	0137	karavus	garamut.drum	np:p	np		p		
-teop	iar	0138	#ds	#ds	##ds	##ds				
-teop	iar	0138	ZERO	2PL.ZERO	pl_0.h:s	pl_0	h	s		
+teop	iar	0137	karavus	garamut.drum	np:p	np		p	1072	new
+teop	iar	0138	#	#	##ds	##ds				
+teop	iar	0138	ZERO	2PL.ZERO	pl_0.h:s	pl_0	h	s	1051	
 teop	iar	0138	Vatataonun	come.together	v:pred	v		pred		
 teop	iar	0138	maa	hither	rv	rv				
 teop	iar	0138	#	#	##ds	##ds				
-teop	iar	0138	ZERO	2PL.ZERO	pl_0.h:s	pl_0	h	s		
+teop	iar	0138	ZERO	2PL.ZERO	pl_0.h:s	pl_0	h	s	1051	
 teop	iar	0138	vatataonun	come.together	v:pred	v		pred		
 teop	iar	0138	maa	hither	rv	rv				
 teop	iar	0138	#	#	##ds	##ds				
-teop	iar	0138	ZERO	2PL.ZERO	pl_0.h:s	pl_0	h	s		
+teop	iar	0138	ZERO	2PL.ZERO	pl_0.h:s	pl_0	h	s	1051	
 teop	iar	0138	ma	come	v:pred	v		pred		
 teop	iar	0138	baitono	listen	rv	rv				
 teop	iar	0139	#	#	##	##				
 teop	iar	0139	A	ART2.SG	ln	ln				
-teop	iar	0139	tavaan	people	pl_np.h:s	pl_np	h	s		
+teop	iar	0139	tavaan	people	pl_np.h:s	pl_np	h	s	1051	
 teop	iar	0139	maa	PLM	ln	ln				
-teop	iar	0139	moon	woman	pl_np.h:appos	pl_np	h	appos		
+teop	iar	0139	moon	woman	pl_np.h:appos	pl_np	h	appos	1073	bridging
 teop	iar	0139	a	ART2.SG	ln	ln				
-teop	iar	0139	abana	man	pl_np.h:appos	pl_np	h	appos		
+teop	iar	0139	abana	man	pl_np.h:appos	pl_np	h	appos	1074	bridging
 teop	iar	0139	beiko	child	rn	rn				
 teop	iar	0139	paa	TAM3	lv	lv				
 teop	iar	0139	nomaa	come	v:pred	v		pred		
 teop	iar	0140	te	PREP	adp	adp				
 teop	iar	0140	=a	=ART2.SG	=ln	=ln				
-teop	iar	0140	inu	house	np:g	np		g		
+teop	iar	0140	inu	house	np:g	np		g	1075	new
 teop	iar	0140	te	PREP.ART1.SG	rn	rn				
-teop	iar	0140	chief	chief	rn_np.h:poss	rn_np	h	poss		
+teop	iar	0140	chief	chief	rn_np.h:poss	rn_np	h	poss	1070	
 teop	iar	0141	#	#	##	##				
-teop	iar	0141	me=	and4=	other=	other=				
-teop	iar	0141	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0141	me=	and4=	=other	=other				
+teop	iar	0141	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1051	
 teop	iar	0141	paa	TAM3	lv	lv				
 teop	iar	0141	baitono	listen	v:pred	v		pred		
 teop	iar	0141	bono	OBJ.ART3.SG	ln	ln				
-teop	iar	0141	moroko	speech	np:p	np		p		
-teop	iar	0142	#ds	#ds	##ds	##ds				
-teop	iar	0142	Eam	2PL.ZERO	pl_pro.2:s	pl_pro	2	s		
+teop	iar	0141	moroko	speech	np:p	np		p	1076	new
+teop	iar	0142	#	#	##ds	##ds				
+teop	iar	0142	Eam	2PL.ZERO	pl_pro.2:s	pl_pro	2	s	1074	
 teop	iar	0142	a	ART2.SG	ln	ln				
-teop	iar	0142	abana	men	pl_np.h:appos	pl_np	h	appos		
+teop	iar	0142	abana	men	pl_np.h:appos	pl_np	h	appos	1074	
 teop	iar	0142	nao	go	v:pred	v		pred		
-teop	iar	0142	nom	2PL.IPFV	rv-pl_pro.2:s	rv-pl_pro	2	s		
-teop	iar	0142	#cc	#cc	#cc:g	#cc		g		
+teop	iar	0142	nom	2PL.IPFV	rv-pl_pro_2_s	rv-pl_pro_2_s				
+teop	iar	0142	#	#	#cc:g	#cc		g		
 teop	iar	0142	tea	COMP1	other	other				
 teop	iar	0142	vagana	fish	vother:pred	vother		pred		
-teop	iar	0143	#ds	#ds	##ds	##ds				
-teop	iar	0143	eam	2PL.ZERO	pl_pro.2:s	pl_pro	2	s		
-teop	iar	0143	a=	ART2.SG=	ln=	ln=				
+teop	iar	0143	#	#	##ds	##ds				
+teop	iar	0143	eam	2PL.ZERO	pl_pro.2:s	pl_pro	2	s	1073	
+teop	iar	0143	a=	ART2.SG=	=ln	=ln				
 teop	iar	0143	maa	PLM	ln	ln				
-teop	iar	0143	moon	woman	pl_np.h:appos	pl_np	h	appos		
+teop	iar	0143	moon	woman	pl_np.h:appos	pl_np	h	appos	1073	
 teop	iar	0143	nao	go	v:pred	v		pred		
-teop	iar	0143	#cc	#cc	#cc:g	#cc		g		
+teop	iar	0143	#	#	#cc:g	#cc		g		
 teop	iar	0143	tea	COMP1	other	other				
 teop	iar	0143	kabuu	prepare.the.feast	vother:pred	vother		pred		
-teop	iar	0144	#ds	#ds	##ds	##ds				
-teop	iar	0144	ZERO	2PL.ZERO	pl_0.2:s	pl_0	2	s		
+teop	iar	0144	#	#	##ds	##ds				
+teop	iar	0144	ZERO	2PL.ZERO	pl_0.2:s	pl_0	2	s	1073	
 teop	iar	0144	kabuu	harvest	v:pred	v		pred		
-teop	iar	0144	muu	taro	rv_n	rv_n				
-teop	iar	0144	#ds	#ds	##ds	##ds				
-teop	iar	0144	ZERO	2PL.ZERO	pl_0.2:a	pl_0	2	a		
+teop	iar	0144	muu	taro	rv_np	rv_np			1056	
+teop	iar	0144	#	#	##ds	##ds				
+teop	iar	0144	ZERO	2PL.ZERO	pl_0.2:a	pl_0	2	a	1073	
 teop	iar	0144	vate-vateen	RED-carry.in.knapsack	v:pred	v		pred		
 teop	iar	0144	voosu	home	rv	rv				
 teop	iar	0144	maa	hither	rv	rv				
 teop	iar	0144	a	ART2.SG	ln	ln				
-teop	iar	0144	muu	taro	np:p	np		p		
-teop	iar	0145	#ds	#ds	##ds	##ds				
-teop	iar	0145	ZERO	2PL.ZERO	pl_0.2:a	pl_0	2	a		
+teop	iar	0144	muu	taro	np:p	np		p	1056	
+teop	iar	0145	#	#	##ds	##ds				
+teop	iar	0145	ZERO	2PL.ZERO	pl_0.2:a	pl_0	2	a	1073	
 teop	iar	0145	Kara-kara	RED-hither	v:pred	v		pred		
 teop	iar	0145	maa	hither	rv	rv				
 teop	iar	0145	a	ART2.SG	ln	ln				
-teop	iar	0145	muu	taro	np:p	np		p		
-teop	iar	0145	#ds	#ds	##ds	##ds				
+teop	iar	0145	muu	taro	np:p	np		p	1056	
+teop	iar	0145	#	#	##ds	##ds				
 teop	iar	0145	ae	and1	other	other				
 teop	iar	0145	a	ART2.SG	ln	ln				
-teop	iar	0145	pauna	banana	np:dt	np		dt		
-teop	iar	0145	ZERO	2PL.ZERO	pl_0.2:a	pl_0	2	a		
+teop	iar	0145	pauna	banana	np:dt	np		dt	1057	
+teop	iar	0145	ZERO	2PL.ZERO	pl_0.2:a	pl_0	2	a	1073	
 teop	iar	0145	kuru-kurusu	RED-cut	v:pred	v		pred		
-teop	iar	0145	mai	hither.3SG	rv_pro:p	rv_pro		p		
-teop	iar	0146	#ds	#ds	##ds	##ds				
+teop	iar	0145	mai	hither.3SG	rv_pro_p	rv_pro_p				
+teop	iar	0146	#	#	##ds	##ds				
 teop	iar	0146	a	ART2.SG	ln	ln				
-teop	iar	0146	voi	yam	np:dt_p	np		dt_p		
-teop	iar	0146	ZERO	2PL.ZERO	pl_0.2:a	pl_0	2	a		
+teop	iar	0146	voi	yam	np:dt_p	np		dt_p	1058	
+teop	iar	0146	ZERO	2PL.ZERO	pl_0.2:a	pl_0	2	a	1073	
 teop	iar	0146	kasi	dig	v:pred	v		pred		
 teop	iar	0146	maa	hither	rv	rv				
 teop	iar	0146	a	ART2.SG	ln	ln				
-teop	iar	0146	voi	yam	np:p	np		p		
-teop	iar	0147	#ds	#ds	##ds	##ds				
-teop	iar	0147	eam	2PL.ZERO	pl_pro.2:a	pl_pro	2	a		
+teop	iar	0146	voi	yam	np:p	np		p	1058	
+teop	iar	0147	#	#	##ds	##ds				
+teop	iar	0147	eam	2PL.ZERO	pl_pro.2:a	pl_pro	2	a	1073	
 teop	iar	0147	paa	TAM3	lv	lv				
 teop	iar	0147	dee	carry	v:pred	v		pred		
 teop	iar	0147	voosu	home	rv	rv				
-teop	iar	0147	ma=	hither=	rv=	rv=				
-teop	iar	0147	i	3SG.PRON	pro:p	pro		p		
-teop	iar	0147	#ds	#ds	##ds	##ds				
+teop	iar	0147	ma=	hither=	=rv	=rv				
+teop	iar	0147	i	3SG.PRON	pro:p	pro		p	1058	
+teop	iar	0147	#	#	##ds	##ds				
 teop	iar	0147	me	and4	other	other				
-teop	iar	0147	ZERO	2PL.ZERO	pl_0.2:a	pl_0	2	a		
+teop	iar	0147	ZERO	2PL.ZERO	pl_0.2:a	pl_0	2	a	1073	
 teop	iar	0147	vaa-tii	CAUS-be	v:pred	v		pred		
-teop	iar	0147	ZERO	3SG.ZERO	0:p	0		p		
+teop	iar	0147	ZERO	3SG.ZERO	0:p	0		p	1058	
 teop	iar	0147	te	PREP	adp	adp				
-teop	iar	0147	=a	=ART	=ln	=ln				
-teop	iar	0147	inu	house	np:l	np		l		
-teop	iar	0147	te=	PREP=	rn=	rn=				
-teop	iar	0147	naa	1SG.PRON	rn_pro.1:poss	rn_pro	1	poss		
-teop	iar	0148	#ds	#ds	##ds	##ds				
-teop	iar	0148	Eam	2PL.PRON	pl_pro.2:a	pl_pro	2	a		
+teop	iar	0147	=a	=ART2.SG	=ln	=ln				
+teop	iar	0147	inu	house	np:l	np		l	1075	
+teop	iar	0147	te=	PREP=	=rn	=rn				
+teop	iar	0147	naa	1SG.PRON	rn_pro.1:poss	rn_pro	1	poss	1070	
+teop	iar	0148	#	#	##ds	##ds				
+teop	iar	0148	Eam	2PL.PRON	pl_pro.2:a	pl_pro	2	a	1074	
 teop	iar	0148	a	ART2.SG	ln	ln				
-teop	iar	0148	abana	men	pl_np.h:appos	pl_np	h	appos		
+teop	iar	0148	abana	men	pl_np.h:appos	pl_np	h	appos	1074	
 teop	iar	0148	dee	carry	v:pred	v		pred		
 teop	iar	0148	maa	hither	rv	rv				
 teop	iar	0148	a	ART2.SG	ln	ln				
-teop	iar	0148	iana	fish	np:p	np		p		
-teop	iar	0149	#ds	#ds	##ds	##ds				
+teop	iar	0148	iana	fish	np:p	np		p	1066	
+teop	iar	0149	#	#	##ds	##ds				
 teop	iar	0149	a	ART2.SG	ln	ln				
-teop	iar	0149	moon	woman	np.h:a	np	h	a		
-teop	iar	0149	te=	PREP=	rn=	rn=				
-teop	iar	0149	am	2PL.ZERO	rn_pl_pro.2:poss	rn_pl_pro	2	poss		
+teop	iar	0149	moon	woman	np.h:a	np	h	a	1073	
+teop	iar	0149	te=	PREP=	=rn	=rn				
+teop	iar	0149	am	2PL.ZERO	rn_pl_pro.2:poss	rn_pl_pro	2	poss	1074	
 teop	iar	0149	paa	TAM3	lv	lv				
 teop	iar	0149	tao	bake	v:pred	v		pred		
 teop	iar	0149	maa	hither	rv	rv				
-teop	iar	0149	ZERO	4SG.ZERO	0:p	0		p		
-teop	iar	0150	#ds	#ds	##ds	##ds				
-teop	iar	0150	a=	ART2.SG=	ln=	ln=				
+teop	iar	0149	ZERO	4SG.ZERO	0:p	0		p	1066	
+teop	iar	0150	#	#	##ds	##ds				
+teop	iar	0150	a=	ART2.SG=	=ln	=ln				
 teop	iar	0150	maa	PLM	ln	ln				
-teop	iar	0150	moon	woman	pl_np.h:s	pl_np	h	s		
-teop	iar	0150	te=	PREP=	rn=	rn=				
-teop	iar	0150	am	2PL.PRON	rn_pl_pro.2:poss	rn_pl_pro	2	poss		
+teop	iar	0150	moon	woman	pl_np.h:s	pl_np	h	s	1073	
+teop	iar	0150	te=	PREP=	=rn	=rn				
+teop	iar	0150	am	2PL.PRON	rn_pl_pro.2:poss	rn_pl_pro	2	poss	1074	
 teop	iar	0150	mee	too	other	other				
 teop	iar	0150	pasi	TAM4	lv	lv				
 teop	iar	0150	nomaa	come	v:pred	v		pred		
-teop	iar	0150	#cc	#cc	#cc:g	#cc		g		
+teop	iar	0150	#	#	#cc:g	#cc		g		
 teop	iar	0150	tea	COMP1	other	other				
 teop	iar	0150	tao	bake	vother:pred	vother		pred		
 teop	iar	0150	bona	OBJ.ART2.SG	ln	ln				
 teop	iar	0150	maa	PLM	ln	ln				
-teop	iar	0150	muu	taro	np:p	np		p		
-teop	iar	0151	#ds	#ds	##ds	##ds				
-teop	iar	0151	eara	1PL.IN.PRON	pl_pro.1:a	pl_pro	1	a		
+teop	iar	0150	muu	taro	np:p	np		p	1056	
+teop	iar	0151	#	#	##ds	##ds				
+teop	iar	0151	eara	1PL.IN.PRON	pl_pro.1:a	pl_pro	1	a	1077	bridging
 teop	iar	0151	kahi	TAM1	lv	lv				
 teop	iar	0151	paku	do	v:pred	v		pred		
-teop	iar	0151	rara	1PL.IN.IPFV	rv-pl_pro.1:a	rv-pl_pro	1	a		
+teop	iar	0151	rara	1PL.IN.IPFV	rv-pl_pro_1_a	rv-pl_pro_1_a				
 teop	iar	0152	o	ART3.SG	ln	ln				
-teop	iar	0152	hagi	dance	np:p	np		p		
-teop	iar	0152	te=	PREP=	rn=	rn=				
-teop	iar	0152	ara	1PL.IN.PRON	rn_pl_pro.1:poss	rn_pl_pro	1	poss		
+teop	iar	0152	hagi	dance	np:p	np		p	1078	bridging
+teop	iar	0152	te=	PREP=	=rn	=rn				
+teop	iar	0152	ara	1PL.IN.PRON	rn_pl_pro.1:poss	rn_pl_pro	1	poss	1077	
 teop	iar	0153	#	#	##	##				
-teop	iar	0153	me=	and4=	other=	other=				
-teop	iar	0153	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0153	me=	and4=	=other	=other				
+teop	iar	0153	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1074	
 teop	iar	0153	paa	TAM3	lv	lv				
 teop	iar	0153	vagana	fish	v:pred	v		pred		
 teop	iar	0154	#	#	##	##				
-teop	iar	0154	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s		
+teop	iar	0154	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s	1074	
 teop	iar	0154	vagana	fish	v:pred	v		pred		
 teop	iar	0154	kasi	perhaps	other	other				
 teop	iar	0154	bono	OBJ.ART2.SG	ln	ln				
 teop	iar	0154	peho	one.O	ln	ln				
-teop	iar	0154	tookiu	week	np:other	np		other		
-teop	iar	0155	##		##	##				
+teop	iar	0154	tookiu	week	np:other	np		other	1079	new
+teop	iar	0155	#	#	##	##				
 teop	iar	0155	otei	man	np.h:dt_s	np	h	dt_s		
-teop	iar	0155	#ac	#ac	#ac	#ac				
-teop	iar	0155	eori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0155	#	#	#ac	#ac				
+teop	iar	0155	eori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1074	
 teop	iar	0155	he	but	other	other				
-teop	iar	0155	#cc	#cc	#cc:pred	#cc		pred		
+teop	iar	0155	#	#	#cc:pred	#cc		pred		
 teop	iar	0155	tea	COMP1	other	other				
 teop	iar	0155	matatopo	prepare	vother:pred	vother		pred		
-teop	iar	0156			%	%				
-teop	iar	0156	eori	3PL.PRON	pl_pro.h:s_ds	pl_pro	h	s_ds		
+teop	iar	0156	%	%	%	%				
+teop	iar	0156	eori	3PL.PRON	pl_pro.h:s_ds	pl_pro	h	s_ds	1042	
 teop	iar	0156	paa	TAM3	lv	lv				
 teop	iar	0156	sue	say	v:pred	v		pred		
-teop	iar	0156	#ds	#ds	##ds	##ds				
+teop	iar	0156	#	#	##ds	##ds				
 teop	iar	0156	te	PREP	adp	adp				
 teop	iar	0156	=o	=ART3.SG	=ln	=ln				
-teop	iar	0156	tookiu	week	np:other	np		other		
+teop	iar	0156	tookiu	week	np:other	np		other	1080	bridging
 teop	iar	0156	hiava	next	rn	rn				
-teop	iar	0157	eara	1PL.IN.PRON	pl_pro.1:a	pl_pro	1	a		
-teop	iar	0157	re=	CONSEC=	other=	other=				
+teop	iar	0157	eara	1PL.IN.PRON	pl_pro.1:a	pl_pro	1	a	1077	
+teop	iar	0157	re=	CONSEC=	=other	=other				
 teop	iar	0157	paa	TAM3	lv	lv				
 teop	iar	0157	paku	make	v:pred	v		pred		
 teop	iar	0157	o	ART3.SG	ln	ln				
-teop	iar	0157	paku	feast	np:p	np		p		
-teop	iar	0158	#ds	#ds	##ds	##ds				
-teop	iar	0158	eve	3SG.PRON	pro:s	pro		s		
+teop	iar	0157	paku	feast	np:p	np		p	1053	
+teop	iar	0158	#	#	##ds	##ds				
+teop	iar	0158	eve	3SG.PRON	pro:s	pro		s	1053	
 teop	iar	0158	te	PREP	adp	adp				
 teop	iar	0158	=o	=ART3.SG	=ln	=ln				
-teop	iar	0158	Monday	Monday	np:pred	np		pred		
-teop	iar	0158	kiu	week	np:other	np		other		
+teop	iar	0158	Monday	Monday	np:pred	np		pred	1081	new
+teop	iar	0158	kiu	week	np:other	np		other	1080	
 teop	iar	0158	hiava	next	rn	rn				
-teop	iar	0159	#ds	#ds	##ds	##ds				
-teop	iar	0159	a-re	1PL.IN-CONSEC	pl_pro.1:a	pl_pro	1	a		
+teop	iar	0159	#	#	##ds	##ds				
+teop	iar	0159	a-re	1PL.IN-CONSEC	pl_pro.1:a	pl_pro	1	a	1077	
 teop	iar	0159	paa	TAM3	lv	lv				
 teop	iar	0159	paku	make	v:pred	v		pred		
 teop	iar	0159	o	ART3.SG	ln	ln				
-teop	iar	0159	paku	feast	np:p	np		p		
-teop	iar	0160	#ds	#ds	##ds	##ds				
-teop	iar	0160	a-re	1PL.IN-CONSEC	pl_pro.1:s	pl_pro	1	s		
+teop	iar	0159	paku	feast	np:p	np		p	1053	
+teop	iar	0160	#	#	##ds	##ds				
+teop	iar	0160	a-re	1PL.IN-CONSEC	pl_pro.1:s	pl_pro	1	s	1077	
 teop	iar	0160	paa	TAM3	lv	lv				
 teop	iar	0160	kiu	work	v:pred	v		pred		
 teop	iar	0160	te	PREP	adp	adp				
 teop	iar	0160	=a	=ART2.SG	=ln	=ln				
-teop	iar	0160	bon	night	np:other	np		other		
-teop	iar	0161	#ds	#ds.ac	#ds_ac	#ds_ac				
-teop	iar	0161	be=	when=	other=	other=				
-teop	iar	0161	ara	1PL.IN.PRON	pl_pro.1:a	pl_pro	1	a		
+teop	iar	0160	bon	night	np:other	np		other	1082	new
+teop	iar	0161	#	#	#ds_ac	#ds_ac				
+teop	iar	0161	be=	when=	=other	=other				
+teop	iar	0161	ara	1PL.IN.PRON	pl_pro.1:a	pl_pro	1	a	1042	
 teop	iar	0161	vaa-tavusu	CAUS-come.out	v:pred	v		pred		
 teop	iar	0161	bata	along	rv	rv				
-teop	iar	0161	rara	1PL.IN.IPFV	rv-pl_pro.1:a	rv-pl_pro	1	a		
+teop	iar	0161	rara	1PL.IN.IPFV	rv-pl_pro_1_a	rv-pl_pro_1_a				
 teop	iar	0161	a	ART2.SG	ln	ln				
-teop	iar	0161	beiko	child	np.h:p	np	h	p		
-teop	iar	0161	te=	PREP=	rn=	rn=				
-teop	iar	0161	nam	1PL.EX.PRON	rn_pl_pro.1:poss	rn_pl_pro	1	poss		
+teop	iar	0161	beiko	child	np.h:p	np	h	p	1004	
+teop	iar	0161	te=	PREP=	=rn	=rn				
+teop	iar	0161	nam	1PL.EX.PRON	rn_pl_pro.1:poss	rn_pl_pro	1	poss	1042	
 teop	iar	0161	a	ART2.SG	rn	rn				
 teop	iar	0161	varavihi	hidden	rn	rn				
-teop	iar	0162	#ds	#ds	##ds	##ds				
+teop	iar	0162	#	#	##ds	##ds				
 teop	iar	0162	Hah	hah	other	other				
-teop	iar	0162	havee	where	int.adv_other:pred	int	adv_other	pred		
-teop	iar	0162	#ds.rc	#ds.rc	#ds_rc:s	#ds_rc		s		
+teop	iar	0162	havee	where	intrg_other:pred	intrg_other		pred		
+teop	iar	0162	#	#	#ds_rc:s	#ds_rc		s		
 teop	iar	0162	to	REL	rel_pro:l	rel_pro		l		
 teop	iar	0162	gono	get	v:pred	v		pred		
-teop	iar	0162	nom	2PL.IPFV	rv-pl_pro.2:a	rv-pl_pro	2	a		
-teop	iar	0162	am	2PL.ZERO	pl_pro.2:a	pl_pro	2	a		
+teop	iar	0162	nom	2PL.IPFV	rv-pl_pro_2_a	rv-pl_pro_2_a				
+teop	iar	0162	am	2PL.ZERO	pl_pro.2:a	pl_pro	2	a	1042	
 teop	iar	0162	a	ART2.SG	ln	ln				
-teop	iar	0162	beiko	child	np.h:p	np	h	p		
+teop	iar	0162	beiko	child	np.h:p	np	h	p	1004	
 teop	iar	0162	bona	ANA	rn	rn				
-teop	iar	0163	##		##	##				
-teop	iar	0163	#ds	#ds	#ds:pred	#ds		pred		
+teop	iar	0163	#	#	##	##				
+teop	iar	0163	#	#	#ds:pred	#ds		pred		
 teop	iar	0163	Ae	eh	other	other				
-teop	iar	0163	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0163	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0163	a	ART2.SG	ln	ln				
-teop	iar	0163	beiko	child	np.h:pred	np	h	pred		
-teop	iar	0163	te=	PREP=	rn=	rn=				
-teop	iar	0163	nam	1PL.EX.PRON	rn_pl_pro.1:poss	rn_pl_pro	1	poss		
+teop	iar	0163	beiko	child	np.h:pred	np	h	pred	1004	
+teop	iar	0163	te=	PREP=	=rn	=rn				
+teop	iar	0163	nam	1PL.EX.PRON	rn_pl_pro.1:poss	rn_pl_pro	1	poss	1042	
 teop	iar	0163	komana	PTCL2	rn	rn				
-teop	iar	0164	#rc	#rc	#rc:s	#rc		s		
+teop	iar	0164	#	#	#rc:s	#rc		s		
 teop	iar	0164	to	REL	rel_pro:obl	rel_pro		obl		
 teop	iar	0164	boha	say	v:pred	v		pred		
 teop	iar	0164	vo	like	rv	rv				
 teop	iar	0164	=a	=ART2.SG	=ln	=ln				
-teop	iar	0164	otei	man	np.h:s	np	h	s		
-teop	iar	0165	#ds	#ds	##ds	##ds				
+teop	iar	0164	otei	man	np.h:s	np	h	s	1041	
+teop	iar	0165	#	#	##ds	##ds				
 teop	iar	0165	ZERO	3SG.ZERO	0.h:s	0	h	s		
 teop	iar	0165	a	ART2.SG	ln	ln				
-teop	iar	0165	beiko	child	np.h:pred	np	h	pred		
-teop	iar	0165	te=	PREP=	rn=	rn=				
-teop	iar	0165	nam	1PL.EX.PRON	rn_pl_pro.1:poss	rn_pl_pro	1	poss		
+teop	iar	0165	beiko	child	np.h:pred	np	h	pred	1004	
+teop	iar	0165	te=	PREP=	=rn	=rn				
+teop	iar	0165	nam	1PL.EX.PRON	rn_pl_pro.1:poss	rn_pl_pro	1	poss	1042	
 teop	iar	0165	komana	PTCL2	rn	rn				
 teop	iar	0166	#	#	##ds	##ds				
-teop	iar	0166	ZERO	3SG.ZERO	0.h:p	0	h	p		
+teop	iar	0166	ZERO	3SG.ZERO	0.h:p	0	h	p	1004	
 teop	iar	0166	na	TAM2	nc	nc				
 teop	iar	0166	kahi	TAM1	lv	lv				
 teop	iar	0166	vaa-tavusu	CAUS-come.out	v:pred	v		pred		
-teop	iar	0166	ra=	1PL.IN.IPFV=	rv-pl_pro.1:a=	rv-pl_pro	1	a=		
-teop	iar	0166	ara	1PL.IN.PRON	pl_pro.1:a	pl_pro	1	a		
-teop	iar	0167	#ds	#ds	##ds	##ds				
+teop	iar	0166	ra=	1PL.IN.IPFV=	=rv-pl_pro_1_a	=rv-pl_pro_1_a				
+teop	iar	0166	ara	1PL.IN.PRON	pl_pro.1:a	pl_pro	1	a	1042	
+teop	iar	0167	#	#	##ds	##ds				
 teop	iar	0167	a	ART2.SG	ln	ln				
-teop	iar	0167	beiko	child	np.h:p	np	h	p		
+teop	iar	0167	beiko	child	np.h:p	np	h	p	1004	
 teop	iar	0167	vai	DEM6	rn	rn				
 teop	iar	0167	pasi	TAM4	lv	lv				
 teop	iar	0167	tara	see	v:pred	v		pred		
-teop	iar	0167	vu=	IMM=	rv=	rv=				
-teop	iar	0167	am	2PL.PRON	pl_pro.2:a	pl_pro	2	a		
-teop	iar	0167	#ds	#ds	##ds	##ds				
-teop	iar	0167	eam	2PL.PRON	pl_pro.2:a	pl_pro	2	a		
+teop	iar	0167	vu=	IMM=	=rv	=rv				
+teop	iar	0167	am	2PL.PRON	pl_pro.2:a	pl_pro	2	a	1051	
+teop	iar	0167	#	#	##ds	##ds				
+teop	iar	0167	eam	2PL.PRON	pl_pro.2:a	pl_pro	2	a	1051	
 teop	iar	0167	paa	TAM3	lv	lv				
 teop	iar	0167	tara	see	v:pred	v		pred		
-teop	iar	0167	=e	=3SG.PRON	pro.h:p	pro	h	p		
-teop	iar	0167	#		#ds_cc	#ds_cc				
+teop	iar	0167	=e	=3SG.PRON	=pro.h:p	=pro	h	p	1004	
+teop	iar	0167	#	#	#ds_cc	#ds_cc				
 teop	iar	0167	=a	=ART2.SG	=ln	=ln				
 teop	iar	0167	moon	girl	np.h:pred	np	h	pred		
 teop	iar	0168	#	#	##	##				
 teop	iar	0168	Erau	then	other	other				
-teop	iar	0168	me=	and4=	other=	other=				
-teop	iar	0168	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0168	me=	and4=	=other	=other				
+teop	iar	0168	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1073	
 teop	iar	0168	paa	TAM3	lv	lv				
 teop	iar	0168	tao-tao	RED-bake	v:pred	v		pred		
 teop	iar	0168	#	#	##	##				
-teop	iar	0168	me=	and4=	other=	other=				
-teop	iar	0168	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0168	me=	and4=	=other	=other				
+teop	iar	0168	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1073	
 teop	iar	0169	tao-tao	RED-bake	v:pred	v		pred		
 teop	iar	0169	bona	OBJ.ART2.SG	ln	ln				
-teop	iar	0169	iana	fish	np:p	np		p		
+teop	iar	0169	iana	fish	np:p	np		p	1066	
 teop	iar	0170	#	#	##	##				
-teop	iar	0170	me=	and4=	other=	other=				
-teop	iar	0170	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0170	me=	and4=	=other	=other				
+teop	iar	0170	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1073	
 teop	iar	0170	tao-tao	RED-bake	v:pred	v		pred		
-teop	iar	0170	guu	pig	rv_n	rv_n				
+teop	iar	0170	guu	pig	rv_np	rv_np			1065	
 teop	iar	0171	#	#	##	##				
-teop	iar	0171	me=	and4=	other=	other=				
-teop	iar	0171	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0171	me=	and4=	=other	=other				
+teop	iar	0171	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1073	
 teop	iar	0171	tao-tao	RED-bake	v:pred	v		pred		
 teop	iar	0171	bono	ART2.PL	ln	ln				
-teop	iar	0171	muu	taro	pl_np:p	pl_np		p		
-teop	iar	0171	voi	yam	rn_n	rn_n				
-teop	iar	0172	pauna	banana	rn_n	rn_n				
+teop	iar	0171	muu	taro	pl_np:p	pl_np		p	1056	
+teop	iar	0171	voi	yam	rn_np	rn_np			1058	
+teop	iar	0172	pauna	banana	rn_np	rn_np			1057	
 teop	iar	0172	#	#	##	##				
-teop	iar	0172	me=	and4=	other=	other=				
-teop	iar	0172	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0172	me=	and4=	=other	=other				
+teop	iar	0172	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1073	
 teop	iar	0172	paa	TAM3	lv	lv				
 teop	iar	0172	sue	say	v:pred	v		pred		
-teop	iar	0172	vo=	like	rv=	rv=				
+teop	iar	0172	vo=	like=	=rv	=rv				
 teop	iar	0172	enei	this.way	other	other				
-teop	iar	0173	#ds	#ds	##ds	##ds				
-teop	iar	0173	Subunubu	tomorrow	adv_other	adv_other				
-teop	iar	0173	a-re	1PL.IN-CONSEC	pl_pro.1:a	pl_pro	1	a		
+teop	iar	0173	#	#	##ds	##ds				
+teop	iar	0173	Subunubu	tomorrow	adv_other	adv_other			1083	new
+teop	iar	0173	a-re	1PL.IN-CONSEC	pl_pro.1:a	pl_pro	1	a	1077	
 teop	iar	0173	paa	TAM3	lv	lv				
 teop	iar	0173	paku	do	v:pred	v		pred		
-teop	iar	0173	piuvu	piuvu.dance	np:p	np		p		
+teop	iar	0173	piuvu	piuvu.dance	np:p	np		p	1078	
 teop	iar	0173	te	PREP	adp	adp				
 teop	iar	0173	=a	=ART2.SG	=ln	=ln				
 teop	iar	0173	bon	night	np:other	np		other		
 teop	iar	0174	#	#	##	##				
-teop	iar	0174	me=	and4=	other=	other=				
-teop	iar	0174	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0174	me=	and4=	=other	=other				
+teop	iar	0174	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1077	
 teop	iar	0174	paa	TAM3	lv	lv				
 teop	iar	0174	paku	do	v:pred	v		pred		
-teop	iar	0174	paku	feast	rv_n	rv_n				
+teop	iar	0174	paku	feast	rv_np	rv_np			1053	
 teop	iar	0174	vo	like	rv	rv				
 teop	iar	0174	teebona	this.way	adv_other	adv_other				
 teop	iar	0175	#	#	##	##				
-teop	iar	0175	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s		
+teop	iar	0175	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s	1073	
 teop	iar	0175	tao-tao	RED-bake	v:pred	v		pred		
 teop	iar	0175	te	PREP	adp	adp				
 teop	iar	0175	=a	=ART2.SG	=ln	=ln				
@@ -1410,129 +1418,132 @@ teop	iar	0175	#	#	##	##
 teop	iar	0175	te	PREP	adp	adp				
 teop	iar	0175	=a	=ART2.SG	=ln	=ln				
 teop	iar	0175	bon	night	np:other	np		other		
-teop	iar	0175	me=	and4=	other=	other=				
-teop	iar	0175	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0175	me=	and4=	=other	=other				
+teop	iar	0175	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1077	
 teop	iar	0175	paa	TAM3	lv	lv				
 teop	iar	0176	vatataonun	come.together	v:pred	v		pred		
 teop	iar	0176	te	PREP	adp	adp				
 teop	iar	0176	=a	=ART2.SG	=ln	=ln				
-teop	iar	0176	inu	house	np:l	np		l		
+teop	iar	0176	inu	house	np:l	np		l	1075	
 teop	iar	0176	te	PREP.ART1	rn	rn				
-teop	iar	0176	beera	chief	rn_np.h:poss	rn_np	h	poss		
-teop	iar	0177	##		##	##				
-teop	iar	0177	rapa-n=	side-3SG.POSS=	np:pred	np		pred		
+teop	iar	0176	beera	chief	rn_np.h:poss	rn_np	h	poss	1070	
+teop	iar	0177	#	#	##	##				
+teop	iar	0177	rapa-n=	side-3SG.POSS=	=np:pred	=np		pred	1085	bridging
 teop	iar	0177	a	ART2.SG	rn	rn				
-teop	iar	0177	inu	house	rn_np:poss	rn_np		poss		
+teop	iar	0177	inu	house	rn_np:poss	rn_np		poss	1075	
 teop	iar	0177	te	PREP.ART	rn	rn				
-teop	iar	0177	beera	chief	rn_np.h:poss	rn_np	h	poss		
+teop	iar	0177	beera	chief	rn_np.h:poss	rn_np	h	poss	1070	
 teop	iar	0177	ei	DEM2	dem_pro:s	dem_pro		s		
 teop	iar	0177	#	#	##	##				
-teop	iar	0177	ZERO	3SG.ZERO	0:a	0		a		
+teop	iar	0177	ZERO	3SG.ZERO	0:a	0		a	1085	
 teop	iar	0177	paku	make	v:pred	v		pred		
 teop	iar	0177	vo	like	rv	rv				
-teop	iar	0177	=na=	=3SG.IPFV=	=rv-pro:s=	=rv-pro		s=		
+teop	iar	0177	=na=	=3SG.IPFV=	=rv-pro_s	=rv-pro_s				
 teop	iar	0177	en	DEM3	dem_pro:p	dem_pro		p		
 teop	iar	0177	te	PREP	adp	adp				
 teop	iar	0177	=a	=ART2.SG	=ln	=ln				
 teop	iar	0177	mahan	open.space	np:other	np		other		
 teop	iar	0177	vai	DEM6	rn	rn				
 teop	iar	0178	#	#	##	##				
-teop	iar	0178	me=	and4=	other=	other=				
-teop	iar	0178	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0178	me=	and4=	=other	=other				
+teop	iar	0178	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1077	
 teop	iar	0178	paa	TAM3	lv	lv				
 teop	iar	0178	sun	stand	v:pred	v		pred		
 teop	iar	0178	va-taviri	ADVR-circle	other	other				
 teop	iar	0178	#	#	##	##				
-teop	iar	0178	me=	and4=	other=	other=				
-teop	iar	0178	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0178	me=	and4=	=other	=other				
+teop	iar	0178	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1077	
 teop	iar	0178	paa	TAM3	lv	lv				
 teop	iar	0179	taneo	start	v:pred	v		pred		
 teop	iar	0179	bono	OBJ.ART3.SG	ln	ln				
-teop	iar	0179	hagi	dance	np:p	np		p		
+teop	iar	0179	hagi	dance	np:p	np		p	1078	
 teop	iar	0180	#	#	##	##				
 teop	iar	0180	Evehee	but	other	other				
 teop	iar	0180	a	ART2.SG	ln	ln				
-teop	iar	0180	moon	woman	np.h:p	np	h	p		
+teop	iar	0180	moon	woman	np.h:p	np	h	p	1004	
 teop	iar	0180	vai	DEM6	rn	rn				
 teop	iar	0180	na	TAM2	lv	lv				
 teop	iar	0180	dao	call	v:pred	v		pred		
 teop	iar	0180	roho	before	rv	rv				
-teop	iar	0180	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0180	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0180	bene	OBJ.ART1	ln	ln				
 teop	iar	0180	Taguone	Taguone	np:p2	np		p2		
 teop	iar	0181	#	#	##	##				
-teop	iar	0181	ZERO	3SG.ZERO	0.h:a	0	h	a		
+teop	iar	0181	ZERO	3SG.ZERO	0.h:a	0	h	a	1004	
 teop	iar	0181	paa	TAM3	lv	lv				
 teop	iar	0181	matatopo	prepare	v:pred	v		pred		
 teop	iar	0181	bona	OBJ.ART2.SG	ln	ln				
-teop	iar	0181	mahan	open.space	np:p	np		p		
+teop	iar	0181	mahan	open.space	np:p	np		p	1085	
 teop	iar	0182	#	#	##	##				
 teop	iar	0182	E	ART1	ln	ln				
-teop	iar	0182	sina-na	mother-3SG.POSS	np.h:a	np	h	a		
-teop	iar	0182	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss		
+teop	iar	0182	sina-na	mother-3SG.POSS	np.h:a	np	h	a	1010	
+teop	iar	0182	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	1004	
 teop	iar	0182	paa	TAM3	lv	lv				
 teop	iar	0182	matatopo	prepare	v:pred	v		pred		
 teop	iar	0182	bona	OBJ.ART2.SG	ln	ln				
 teop	iar	0182	maa	PLM	ln	ln				
-teop	iar	0182	vohu	belt	pl_np:p	pl_np		p		
-teop	iar	0182	teve	PREP.3SG.PRON	rn_adp=pro.h:poss	rn_adp=pro	h	poss		
+teop	iar	0182	vohu	belt	pl_np:p	pl_np		p	1087	new
+teop	iar	0182	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0182	eve	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1004	
 teop	iar	0183	ae	and1	rn	rn				
-teop	iar	0183	a=	ART2.SG=	rn=	rn=				
+teop	iar	0183	a=	ART2.SG=	=rn	=rn				
 teop	iar	0183	maa	PLM	rn	rn				
-teop	iar	0183	kara	string	rn_pl_np	rn_pl_np				
+teop	iar	0183	kara	string	rn_pl_np	rn_pl_np			1088	new
 teop	iar	0183	kuriri	shell.money	rn	rn				
-teop	iar	0183	teve	PREP.3SG.PRON	rn_adp=pro.h:poss	rn_adp=pro	h	poss		
+teop	iar	0183	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0183	eve	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1004	
 teop	iar	0184	ae	and1	rn	rn				
-teop	iar	0184	a=	ART2.SG=	rn=	rn=				
+teop	iar	0184	a=	ART2.SG=	=rn	=rn				
 teop	iar	0184	maa	PLM	rn	rn				
-teop	iar	0184	taba	thing	rn_pl_np	rn_pl_np				
-teop	iar	0184	teve	PREP.3SG.PRON	rn_adp=np.h:poss	rn_adp=np	h	poss		
+teop	iar	0184	taba	thing	rn_pl_np	rn_pl_np			1089	new
+teop	iar	0184	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0184	eve	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1004	
 teop	iar	0184	vaa	LNK	rn	rn				
-teop	iar	0184	rasuu	bush	rn_n	rn_n				
+teop	iar	0184	rasuu	bush	rn_np	rn_np			1090	new
 teop	iar	0185	#	#	##	##				
-teop	iar	0185	me=	and4=	other=	other=				
-teop	iar	0185	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0185	me=	and4=	=other	=other				
+teop	iar	0185	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1091	bridging
 teop	iar	0185	kis-kisi	REF-tie.around	v:pred	v		pred		
 teop	iar	0185	bata	along	rv	rv				
 teop	iar	0185	ni	APPL	rv	rv				
-teop	iar	0185	bari	4PL.PRON	pl_pro:p	pl_pro		p		
+teop	iar	0185	bari	4PL.PRON	pl_pro:p	pl_pro		p	1092	bridging
 teop	iar	0185	en	here	other	other				
-teop	iar	0185	moo-na	leg-3SG.POSS	np:l	np		l		
-teop	iar	0185	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss		
+teop	iar	0185	moo-na	leg-3SG.POSS	np:l	np		l	1093	bridging
+teop	iar	0185	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	1004	
 teop	iar	0186	#	#	##	##				
-teop	iar	0186	me=	and4=	other=	other=				
-teop	iar	0186	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0186	me=	and4=	=other	=other				
+teop	iar	0186	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1091	
 teop	iar	0186	matatopo	prepare	v:pred	v		pred		
 teop	iar	0186	vaneneesi	nicely	rv	rv				
 teop	iar	0186	rakaha	very	rv	rv				
-teop	iar	0186	bari	4PL.PRON	pro.h:p	pro	h	p		
+teop	iar	0186	bari	4PL.PRON	pro.h:p	pro	h	p	1004	
 teop	iar	0187	#	#	##	##				
 teop	iar	0187	Me	and4	other	other				
 teop	iar	0187	te	PREP	adp	adp				
 teop	iar	0187	=a	=ART2.SG	=ln	=ln				
-teop	iar	0187	bon	night	np:other	np		other		
-teop	iar	0187	me=	and4=	other=	other=				
-teop	iar	0187	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0187	bon	night	np:other	np		other	1082	
+teop	iar	0187	me=	and4=	=other	=other				
+teop	iar	0187	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1091	
 teop	iar	0187	paa	TAM3	lv	lv				
 teop	iar	0187	va-tavusu	CAUS-come.out	v:pred	v		pred		
-teop	iar	0187	bari	4PL.PRON	pro.h:p	pro	h	p		
+teop	iar	0187	bari	4PL.PRON	pro.h:p	pro	h	p	1004	
 teop	iar	0188	#	#	##	##				
-teop	iar	0188	me=	and4=	other=	other=				
-teop	iar	0188	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0188	me=	and4=	=other	=other				
+teop	iar	0188	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1091	
 teop	iar	0188	va-taviri	MULT-go.around	v:pred	v		pred		
 teop	iar	0188	mi	with	rv	rv				
-teop	iar	0188	bari	4PL.PRON	pro.h:p	pro	h	p		
-teop	iar	0189	#ac	#ac	#ac	#ac				
-teop	iar	0189	eori	3PL.PRON	pl_pro.h:s_ds	pl_pro	h	s_ds		
+teop	iar	0188	bari	4PL.PRON	pro.h:p	pro	h	p	1004	
+teop	iar	0189	#	#	#ac	#ac				
+teop	iar	0189	eori	3PL.PRON	pl_pro.h:s_ds	pl_pro	h	s_ds	1042	
 teop	iar	0189	he	but	other	other				
 teop	iar	0189	sue	say	v:pred	v		pred		
 teop	iar	0189	vaevuru	already	rv	rv				
-teop	iar	0189	vo=	like=	rv=	rv=				
+teop	iar	0189	vo=	like=	=rv	=rv				
 teop	iar	0189	en	DEM3	other	other				
-teop	iar	0189	#ds	#ds	##ds	##ds				
+teop	iar	0189	#	#	##ds	##ds				
 teop	iar	0189	A	ART2.SG	ln	ln				
-teop	iar	0189	hena-na	name-3SG.POSS	np:s	np		s		
-teop	iar	0189	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss		
+teop	iar	0189	hena-na	name-3SG.POSS	np:s	np		s	1094	bridging
+teop	iar	0189	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	1004	
 teop	iar	0189	e	ART1	ln	ln				
 teop	iar	0189	Taguone	Taguone	np:pred	np		pred		
 teop	iar	0190	#	#	##	##				
@@ -1540,247 +1551,249 @@ teop	iar	0190	Paa	TAM3	lv	lv
 teop	iar	0190	sue	say	v:pred	v		pred		
 teop	iar	0190	vaevuru	already	rv	rv				
 teop	iar	0190	e	ART1	ln	ln				
-teop	iar	0190	tama-na	father-3SG.POSS	np.h:s_ds	np	h	s_ds		
-teop	iar	0190	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss		
-teop	iar	0190	#ds	#ds	##ds	##ds				
+teop	iar	0190	tama-na	father-3SG.POSS	np.h:s_ds	np	h	s_ds	1041	
+teop	iar	0190	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	1004	
+teop	iar	0190	#	#	##ds	##ds				
 teop	iar	0190	A	ART2.SG	ln	ln				
-teop	iar	0190	hena-na=	name-3SG.POSS=	np:s	np		s		
-teop	iar	0190	e	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss		
+teop	iar	0190	hena-	name-	-np:s	-np		s	1094	
+teop	iar	0190	na=	3SG.POSS=	=rn_pro.h:poss	=rn_pro	h	poss		
+teop	iar	0190	e	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1004	
 teop	iar	0190	e	ART1	ln	ln				
 teop	iar	0190	Taguone	Taguone	np:pred	np		pred		
 teop	iar	0191	#	#	##	##				
 teop	iar	0191	E	ART1	ln	ln				
-teop	iar	0191	Taguone	Taguone	np.h:pred	np	h	pred		
-teop	iar	0191	#rc	#rc	#rc:s	#rc		s		
+teop	iar	0191	Taguone	Taguone	np.h:pred	np	h	pred	1004	
+teop	iar	0191	#	#	#rc:s	#rc		s		
 teop	iar	0191	to	REL	rel_pro:s	rel_pro		s		
 teop	iar	0191	taviri	go.around	v:pred	v		pred		
 teop	iar	0191	vai	now	other	other				
-teop	iar	0192	#ds	#ds	##ds	##ds				
+teop	iar	0192	#	#	##ds	##ds				
 teop	iar	0192	Eh	eh	other	other				
 teop	iar	0192	Vahara	little.PL	ln	ln				
-teop	iar	0192	beiko	child	pl_np.h:voc	pl_np	h	voc		
-teop	iar	0193	???	***	nc	nc				
-teop	iar	0193	eam	2PL.ZERO	pl_pro.2:s	pl_pro	2	s		
+teop	iar	0192	beiko	child	pl_np.h:voc	pl_np	h	voc	1095	new
+teop	iar	0193	eam	2PL.ZERO	pl_pro.2:s	pl_pro	2	s	1095	
 teop	iar	0193	toro	must	lv	lv				
 teop	iar	0193	nao	go	v:pred	v		pred		
 teop	iar	0193	#	#	##ds	##ds				
-teop	iar	0193	eam	2PL.ZERO	pl_pro.2:s	pl_pro	2	s		
+teop	iar	0193	eam	2PL.ZERO	pl_pro.2:s	pl_pro	2	s	1095	
 teop	iar	0193	ma	come	v:pred	v		pred		
 teop	iar	0193	tara	look	rv	rv				
 teop	iar	0194	te	PREP.ART1	adp	adp				
-teop	iar	0194	Taguone	Taguone	np.h:obl	np	h	obl		
-teop	iar	0195	#ds.rc	#ds.rc	#ds_rc	#ds_rc				
-teop	iar	0195	to	REL	rel.h:p	rel	h	p		
+teop	iar	0194	Taguone	Taguone	np.h:obl	np	h	obl	1004	
+teop	iar	0195	#	#	#ds_rc	#ds_rc				
+teop	iar	0195	to	REL	rel_pro.h:p	rel_pro	h	p		
 teop	iar	0195	taviri	go.around	v:pred	v		pred		
-teop	iar	0195	mi=	with=	rv=	rv=				
-teop	iar	0195	ri=	3PL.IPFV=	rv-pl_pro.h:a=	rv-pl_pro	h	a=		
-teop	iar	0195	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0195	mi=	with=	=rv	=rv				
+teop	iar	0195	ri=	3PL.IPFV=	=rv-pl_pro_h_a	=rv-pl_pro_h_a				
+teop	iar	0195	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1073	
 teop	iar	0195	te	PREP	adp	adp				
 teop	iar	0195	=o	=ART3.SG	=ln	=ln				
-teop	iar	0195	piuvu	piuvu.dance	np:other	np		other		
-teop	iar	0196	#ds	#ds	##ds	##ds				
+teop	iar	0195	piuvu	piuvu.dance	np:other	np		other	1078	
+teop	iar	0196	#	#	##ds	##ds				
 teop	iar	0196	Ae	and1	other	other				
-teop	iar	0196	poomae	from.where	int_np:pred	int_np		pred		
-teop	iar	0196	ZERO		0.h:s	0	h	s		
-teop	iar	0196	#		##ds	##ds				
-teop	iar	0196	poomae	from.where	int_np:pred	int_np		pred		
+teop	iar	0196	poomae	from.where	intrg_np:pred	intrg_np		pred		
+teop	iar	0196	ZERO	ZERO	0.h:s	0	h	s		
+teop	iar	0196	#	#	##ds	##ds				
+teop	iar	0196	poomae	from.where	intrg_np:pred	intrg_np		pred		
 teop	iar	0196	a	ART2.SG	ln	ln				
-teop	iar	0196	aba	person	np.h:s	np	h	s		
+teop	iar	0196	aba	person	np.h:s	np	h	s	1004	
 teop	iar	0196	bona	ANA	rn	rn				
-teop	iar	0197	#ds	#ds	##ds	##ds				
+teop	iar	0197	#	#	##ds	##ds				
 teop	iar	0197	A	ART2.SG	ln	ln				
-teop	iar	0197	aba	person	np.h:s	np	h	s		
+teop	iar	0197	aba	person	np.h:s	np	h	s	1004	
 teop	iar	0197	a	ART2.SG	ln	ln				
-teop	iar	0197	beiko	child	np.h:pred	np	h	pred		
-teop	iar	0197	te=	PREP=	rn=	rn=				
-teop	iar	0197	ori	3PL.PRON	rn_pl_pro.h:poss	rn_pl_pro	h	poss		
+teop	iar	0197	beiko	child	np.h:pred	np	h	pred	1004	
+teop	iar	0197	te=	PREP=	=rn	=rn				
+teop	iar	0197	ori	3PL.PRON	rn_pl_pro.h:poss	rn_pl_pro	h	poss	1042	
 teop	iar	0197	roho	before	other	other				
 teop	iar	0198	a	ART2.SG	ln	ln				
-teop	iar	0198	beiko	child	np.h:appos	np	h	appos		
-teop	iar	0198	te=	PREP=	rn=	rn=				
-teop	iar	0198	ori	3PL.PRON	rn_pl_pro.h:poss	rn_pl_pro	h	poss		
+teop	iar	0198	beiko	child	np.h:appos	np	h	appos	1004	
+teop	iar	0198	te=	PREP=	=rn	=rn				
+teop	iar	0198	ori	3PL.PRON	rn_pl_pro.h:poss	rn_pl_pro	h	poss	1042	
 teop	iar	0198	komana	PTCL2	rn	rn				
 teop	iar	0198	roho	before	rn	rn				
 teop	iar	0198	a	ART2.SG	rn	rn				
 teop	iar	0198	varavihi	hidden	rn	rn				
-teop	iar	0199	#ds	#ds	#ds	#ds				
-teop	iar	0199	ZERO		0.h:p	0	h	p		
+teop	iar	0199	#	#	#ds	#ds				
+teop	iar	0199	ZERO	ZERO	0.h:p	0	h	p		
 teop	iar	0199	paa	TAM3	lv	lv				
 teop	iar	0199	vaa-tavusu	CAUS-come.out	v:pred	v		pred		
-teop	iar	0199	vori	GOAL.3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0199	vori	GOAL.3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0199	te	PREP	adp	adp				
 teop	iar	0199	=o	=ART3.SG	=ln	=ln				
-teop	iar	0199	piuvu	piuvu.dance	np:g	np		g		
+teop	iar	0199	piuvu	piuvu.dance	np:g	np		g	1078	
+teop	iar	0200	NC	NC	nc	nc				
 teop	iar	0201	#	#	##	##				
-teop	iar	0201	me=	and4=	other=	other=				
-teop	iar	0201	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0201	me=	and4=	=other	=other				
+teop	iar	0201	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1073	
 teop	iar	0201	ato-ato	RED-hold	v:pred	v		pred		
 teop	iar	0201	bata	along	rv	rv				
 teop	iar	0201	bona	OBJ.ART2.SG	ln	ln				
 teop	iar	0201	maa	PLM	ln	ln				
-teop	iar	0201	vohu	belt	pl_np:p	pl_np		p		
+teop	iar	0201	vohu	belt	pl_np:p	pl_np		p	1087	
 teop	iar	0201	te	PREP.ART1	rn	rn				
-teop	iar	0201	Taguone	Taguone	rn_np.h:poss	rn_np	h	poss		
+teop	iar	0201	Taguone	Taguone	rn_np.h:poss	rn_np	h	poss	1004	
 teop	iar	0202	ae	and1	rn	rn				
 teop	iar	0202	maa	PLM	rn	rn				
 teop	iar	0202	vahavero	crosswise	rn	rn				
-teop	iar	0202	kara	string	rn_pl_np:p	rn_pl_np		p		
+teop	iar	0202	kara	string	rn_pl_np:p	rn_pl_np		p	1088	
 teop	iar	0202	kuriri	shell.money	rn	rn				
 teop	iar	0202	te	PREP.ART1	rn	rn				
-teop	iar	0202	Taguone	Taguone	rn_np.h:poss	rn_np	h	poss		
+teop	iar	0202	Taguone	Taguone	rn_np.h:poss	rn_np	h	poss	1004	
 teop	iar	0203	#	#	##	##				
-teop	iar	0203	Eori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0203	Eori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1074	
 teop	iar	0203	he	but	other	other				
 teop	iar	0203	mararae	happy	v:pred	v		pred		
 teop	iar	0203	bata	along	rv	rv				
 teop	iar	0203	#	#	##	##				
-teop	iar	0203	eori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0203	eori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1074	
 teop	iar	0203	he	but	other	other				
-teop	iar	0203	#		#cc:pred	#cc		pred		
+teop	iar	0203	#	#	#cc:pred	#cc		pred		
 teop	iar	0203	tea	COMP1	other	other				
 teop	iar	0203	karavi	amazed	vother:pred	vother		pred		
 teop	iar	0203	bata	along	rv	rv				
-teop	iar	0203	#ds	#ds	##ds	##ds				
+teop	iar	0203	#	#	##ds	##ds				
 teop	iar	0203	Eh	eh	other	other				
 teop	iar	0204	a	ART2.SG	ln	ln				
-teop	iar	0204	moon	woman	np.h:pred	np	h	pred		
+teop	iar	0204	moon	woman	np.h:pred	np	h	pred	1004	
 teop	iar	0204	vai	DEM6	rn	rn				
 teop	iar	0204	mataa	good	rn	rn				
 teop	iar	0204	ta	EMPH	rn	rn				
-teop	iar	0205	#ds	#ds	##ds	##ds				
+teop	iar	0205	#	#	##ds	##ds				
 teop	iar	0205	a	ART2.SG	ln	ln				
-teop	iar	0205	moon	woman	np:pred	np		pred		
+teop	iar	0205	moon	woman	np:pred	np		pred	1004	
 teop	iar	0205	vai	DEM6	rn	rn				
 teop	iar	0205	mataa	good	rn	rn				
 teop	iar	0205	ta	EMPH	rn	rn				
 teop	iar	0206	#	#	##	##				
 teop	iar	0206	Erau	then	other	other				
-teop	iar	0206	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0206	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0206	tei	be	v:pred	v		pred		
 teop	iar	0206	va-si-hum	ADVR-DIM-bit	rv	rv				
 teop	iar	0206	koa	only	rv	rv				
 teop	iar	0206	#	#	##	##				
-teop	iar	0206	me=	and4=	other=	other=				
+teop	iar	0206	me=	and4=	=other	=other				
 teop	iar	0206	a	ART2.SG	ln	ln				
 teop	iar	0206	peha	INDEF.A	ln	ln				
-teop	iar	0206	otei	man	np.h:a	np	h	a		
+teop	iar	0206	otei	man	np.h:a	np	h	a	1096	new
 teop	iar	0206	paa	TAM3	lv	lv				
 teop	iar	0207	rake	want	v:pred	v		pred		
-teop	iar	0207	bona	4SG	pro.h:p	pro	h	p		
-teop	iar	0207	#ac	#ac	#ac	#ac				
+teop	iar	0207	bona	4SG	pro.h:p	pro	h	p	1004	
+teop	iar	0207	#	#	#ac	#ac				
 teop	iar	0207	ta	COMP1	nc	nc				
 teop	iar	0207	tabae	what	nc	nc				
 teop	iar	0207	ta	COMP1	other	other				
 teop	iar	0207	vahio	marry	v:pred	v		pred		
 teop	iar	0207	ZERO	4SG.ZERO	0.h:p	0	h	p		
 teop	iar	0208	#	#	##	##				
-teop	iar	0208	ZERO	4SG	0.h:p	0	h	p		
+teop	iar	0208	ZERO	4SG	0.h:p	0	h	p	1004	
 teop	iar	0208	paa	TAM3	lv	lv				
 teop	iar	0208	rake	want	v:pred	v		pred		
 teop	iar	0208	=u	=IMM	=rv	=rv				
 teop	iar	0208	a	ART2.SG	ln	ln				
 teop	iar	0208	peha	INDEF.A	ln	ln				
-teop	iar	0208	otei	man	np.h:a	np	h	a		
+teop	iar	0208	otei	man	np.h:a	np	h	a	1096	
 teop	iar	0209	#	#	##	##				
 teop	iar	0209	me	and4.ART1.SG	other	other				
-teop	iar	0209	sina-na	mother-3SG.POSS	np.h:s	np	h	s		
-teop	iar	0209	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss		
-teop	iar	0209	paa	TAM3	;v	;v				
+teop	iar	0209	sina-na	mother-3SG.POSS	np.h:s	np	h	s	1010	
+teop	iar	0209	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	1004	
+teop	iar	0209	paa	TAM3	lv	lv				
 teop	iar	0209	sue	say	v:pred	v		pred		
 teop	iar	0209	va-manaata	ADVR-agree	rv	rv				
 teop	iar	0209	bo	and3	ln	ln				
-teop	iar	0209	tama-na	father-3SG.POSS	np.h:dt_s	np	h	dt_s		
-teop	iar	0209	=e	=3SG.PRON	rn_pro.h:poss	rn_pro	h	poss		
+teop	iar	0209	tama-na	father-3SG.POSS	np.h:dt_s	np	h	dt_s	1041	
+teop	iar	0209	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	1004	
 teop	iar	0210	#	#	##	##				
-teop	iar	0210	me=	and4=	other=	other=				
-teop	iar	0210	ori	3PL.PRON	pl_pro.h:s_ds	pl_pro	h	s_ds		
+teop	iar	0210	me=	and4=	=other	=other				
+teop	iar	0210	ori	3PL.PRON	pl_pro.h:s_ds	pl_pro	h	s_ds	1042	
 teop	iar	0210	paa	TAM3	lv	lv				
 teop	iar	0210	sue	say	v:pred	v		pred		
-teop	iar	0211	#ds	#ds	##ds	##ds				
-teop	iar	0211	enam	1PL.EX.PRON	pl_pro.1:a	pl_pro	1	a		
+teop	iar	0211	#	#	##ds	##ds				
+teop	iar	0211	enam	1PL.EX.PRON	pl_pro.1:a	pl_pro	1	a	1042	
 teop	iar	0211	pasi	TAM4	lv	lv				
 teop	iar	0211	kabuu	prepare.feast	v:pred	v		pred		
 teop	iar	0211	vue	particular	rv	rv				
 teop	iar	0211	a	ART2.SG	ln	ln				
-teop	iar	0211	taba-an	thing-eat	np:p	np		p		
-teop	iar	0212	#ds	#ds	##ds	##ds				
+teop	iar	0211	taba-an	thing-eat	np:p	np		p	1097	new
+teop	iar	0212	#	#	##ds	##ds				
 teop	iar	0212	me	and4	other	other				
-teop	iar	0212	ZERO	1PL.EX.ZERO	pl_0.1:a	pl_0	1	a		
+teop	iar	0212	ZERO	1PL.EX.ZERO	pl_0.1:a	pl_0	1	a	1042	
 teop	iar	0212	paa	TAM3	lv	lv				
 teop	iar	0212	mee	bring	v:pred	v		pred		
 teop	iar	0212	nasu	ahead	rv	rv				
 teop	iar	0212	e	ART1	ln	ln				
-teop	iar	0212	Taguone	Taguone	np.h:p	np	h	p		
-teop	iar	0212	#ds.cc	#ds.cc	#ds_cc	#ds_cc				
+teop	iar	0212	Taguone	Taguone	np.h:p	np	h	p	1004	
+teop	iar	0212	#	#	#ds_cc	#ds_cc				
 teop	iar	0212	tea	COMP1	other	other				
 teop	iar	0212	atono	leave	vother:pred	vother		pred		
-teop	iar	0212	ZERO	3SG.ZERO	0.h:p	0	h	p		
-teop	iar	0212	te=	PREP=	adp=	adp=				
-teop	iar	0212	am	2PL.ZERO	pl_pro.2:obl	pl_pro	2	obl		
-teop	iar	0213	#ds	#ds	##ds	##ds				
+teop	iar	0212	ZERO	3SG.ZERO	0.h:p	0	h	p	1004	
+teop	iar	0212	te=	PREP=	=adp	=adp				
+teop	iar	0212	am	2PL.ZERO	pl_pro.2:obl	pl_pro	2	obl	1098	bridging
+teop	iar	0213	#	#	##ds	##ds				
 teop	iar	0213	A	ART2.SG	ln	ln				
-teop	iar	0213	beiko	child	np.h:a	np	h	a		
-teop	iar	0213	te=	PREP=	rn=	rn=				
-teop	iar	0213	am	2PL.PRON	rn_pl_pro.2:poss	rn_pl_pro	2	poss		
+teop	iar	0213	beiko	child	np.h:a	np	h	a	1096	
+teop	iar	0213	te=	PREP=	=rn	=rn				
+teop	iar	0213	am	2PL.PRON	rn_pl_pro.2:poss	rn_pl_pro	2	poss	1098	
 teop	iar	0213	paa	TAM3	lv	lv				
 teop	iar	0213	hino-u	request-IMM	v:pred	v		pred		
 teop	iar	0213	bene	OBJ.ART1	ln	ln				
-teop	iar	0213	Taguone	Taguone	np.h:p	np	h	p		
-teop	iar	0213	#ds	#ds	##ds	##ds				
-teop	iar	0213	enam	1PL.EX.PRON	pl_pro.1:a	pl_pro	1	a		
+teop	iar	0213	Taguone	Taguone	np.h:p	np	h	p	1004	
+teop	iar	0213	#	#	##ds	##ds				
+teop	iar	0213	enam	1PL.EX.PRON	pl_pro.1:a	pl_pro	1	a	1042	
 teop	iar	0213	pasi	TAM4	lv	lv				
 teop	iar	0213	mee	bring	v:pred	v		pred		
 teop	iar	0213	nasu	over	rv	rv				
-teop	iar	0213	vu=	IMM=	rv=	rv=				
-teop	iar	0213	ee	3SG.PRON	pro.h:p	pro	h	p		
-teop	iar	0214	#ds	#ds	##ds	##ds				
-teop	iar	0214	me=	and4=	other=	other=				
+teop	iar	0213	vu=	IMM=	=rv	=rv				
+teop	iar	0213	ee	3SG.PRON	pro.h:p	pro	h	p	1004	
+teop	iar	0214	#	#	##ds	##ds				
+teop	iar	0214	me=	and4=	=other	=other				
 teop	iar	0214	a	ART2.SG	ln	ln				
 teop	iar	0214	peha	one.A	ln	ln				
 teop	iar	0214	taba	thing	np:s	np		s		
-teop	iar	0214	#cc	#cc	#ds_cc.neg:pred	#ds_cc.neg		pred		
-teop	iar	0214	ZERO	2PL.ZERO	pl_0.2:a	pl_0	2	a		
+teop	iar	0214	#	#	#ds_cc.neg:pred	#ds_cc.neg		pred		
+teop	iar	0214	ZERO	2PL.ZERO	pl_0.2:a	pl_0	2	a	1098	
 teop	iar	0214	goe	do.not	v:pred	v		pred		
-teop	iar	0214	#cc	#cc	#cc	#cc				
+teop	iar	0214	#	#	#cc	#cc				
 teop	iar	0214	ta	COMP1	other	other				
 teop	iar	0214	va-puri-purihi	CAUS_RED-wet	vother:pred	vother		pred		
-teop	iar	0214	ee	3SG.PRON	pro.h:p	pro	h	p		
+teop	iar	0214	ee	3SG.PRON	pro.h:p	pro	h	p	1004	
 teop	iar	0214	a	ART2.SG	ln	ln				
-teop	iar	0214	suin-na=	body-3SG.POSS=	np.h:appos	np	h	appos		
-teop	iar	0214	e	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss		
-teop	iar	0215	#ds	#ds	##ds.neg	##ds.neg				
-teop	iar	0215	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0214	suin-	body-	-np.h:appos	-np	h	appos	1099	bridging
+teop	iar	0214	na=	3SG.POSS=	=rn_pro.h:poss	=rn_pro	h	poss		
+teop	iar	0214	e	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1004	
+teop	iar	0215	#	#	##ds.neg	##ds.neg				
+teop	iar	0215	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0215	saka	NEG	lv	lv				
 teop	iar	0215	manin	at.all	lv	lv				
 teop	iar	0215	pita	walk	v:pred	v		pred		
 teop	iar	0215	haa	NEG	rv	rv				
-teop	iar	0215	=na	=3SG.IPFV	=rv-pro.h:s	=rv-pro	h	s		
+teop	iar	0215	=na	=3SG.IPFV	=rv-pro_h_s	=rv-pro_h_s				
 teop	iar	0215	te	PREP	adp	adp				
 teop	iar	0215	=a	=ART2.SG	=ln	=ln				
-teop	iar	0215	tahii	sea	np:l	np		l		
-teop	iar	0216	#ds	#ds	#ds.neg	#ds.neg				
-teop	iar	0216	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0215	tahii	sea	np:l	np		l	1100	new
+teop	iar	0216	#	#	#ds.neg	#ds.neg				
+teop	iar	0216	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0216	samin	NEG.at.all	lv	lv				
 teop	iar	0216	pita	walk	v:pred	v		pred		
 teop	iar	0216	haa	NEG	rv	rv				
-teop	iar	0216	=na	=3SG.IPFV	=rv-pro.h:s	=rv-pro	h	s		
+teop	iar	0216	=na	=3SG.IPFV	=rv-pro_h_s	=rv-pro_h_s				
 teop	iar	0216	te	PREP	adp	adp				
 teop	iar	0216	=a	=ART2.SG	=ln	=ln				
-teop	iar	0216	tahii	sea	np:l	np		l		
-teop	iar	0216	#ds	#ds	#ds.neg	#ds.neg				
-teop	iar	0216	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0216	tahii	sea	np:l	np		l	1100	
+teop	iar	0216	#	#	#ds.neg	#ds.neg				
+teop	iar	0216	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0216	sa-min	NEG-at.all	lv	lv				
 teop	iar	0217	sisibu	bathe	v:pred	v		pred		
 teop	iar	0217	haa	NEG	rv	rv				
-teop	iar	0217	=na	=3sg.IPFV	=rv-pro.h:s	=rv-pro	h	s		
+teop	iar	0217	=na	=3SG.IPFV	=rv-pro_h_s	=rv-pro_h_s				
 teop	iar	0217	te	PREP	adp	adp				
 teop	iar	0217	=a	=ART2.SG	=ln	=ln				
-teop	iar	0217	ruene	river	np:l	np		l		
-teop	iar	0218	#ds	#ds	##	##				
-teop	iar	0218	Eam	2PL.ZERO	pl_pro.2:a	pl_pro	2	a		
+teop	iar	0217	ruene	river	np:l	np		l	1101	new
+teop	iar	0218	#	#	##	##				
+teop	iar	0218	Eam	2PL.ZERO	pl_pro.2:a	pl_pro	2	a	1098	
 teop	iar	0218	kona	know	v:pred	v		pred		
-teop	iar	0218	nom	2PL.IPFV	rv-pl_pro.2:a	rv-pl_pro	2	a		
-teop	iar	0218	#ds	#ds.cc:p	#cc:p	#cc		p		
+teop	iar	0218	nom	2PL.IPFV	rv-pl_pro_2_a	rv-pl_pro_2_a				
+teop	iar	0218	#	#	#cc:p	#cc		p		
 teop	iar	0218	o	ART3.SG	ln	ln				
 teop	iar	0218	meho	other.O	ln	ln				
 teop	iar	0218	matapaku	practice	np:s	np		s		
@@ -1788,9 +1801,9 @@ teop	iar	0218	tei	be	v:pred	v		pred
 teop	iar	0218	te	PREP	adp	adp				
 teop	iar	0218	=a	=ART2.SG	=ln	=ln				
 teop	iar	0218	nabunuu	past	np:obl	np		obl		
-teop	iar	0219	te=	PREP=	rn	rn				
+teop	iar	0219	te=	PREP=	=rn	=rn				
 teop	iar	0219	nam	1PL.EX.PRON	rn_pl_pro.1:poss	rn_pl_pro	1	poss		
-teop	iar	0219	#ds	#ds	##neg	##neg				
+teop	iar	0219	#	#	##neg	##neg				
 teop	iar	0219	ZERO	3PL.ZERO	pl_0.1:s	pl_0	1	s		
 teop	iar	0219	sa	NEG	lv	lv				
 teop	iar	0219	sii-sisibu	RED-bathe	v:pred	v		pred		
@@ -1801,12 +1814,12 @@ teop	iar	0220	ZERO	1PL.EX.ZERO	pl_0.1:s	pl_0	1	s
 teop	iar	0220	konoboo	oil	v:pred	v		pred		
 teop	iar	0220	tamuana	always	rv	rv				
 teop	iar	0220	koa	only	other	other				
-teop	iar	0221	##		##	##				
-teop	iar	0221	#ac	#ac	#ac	#ac				
+teop	iar	0221	#	#	##	##				
+teop	iar	0221	#	#	#ac	#ac				
 teop	iar	0221	Be	when	other	other				
 teop	iar	0221	gita	dried.up	v:pred	v		pred		
-teop	iar	0221	#	#	%	%				
-teop	iar	0221	o-re=	3PRON-CONSEC=	pl_pro.h:s-other=	pl_pro	h	s-other=		
+teop	iar	0221	%	%	%	%				
+teop	iar	0221	o-re=	3PRON-CONSEC=	=pl_pro.h:s	=pl_pro	h	s		
 teop	iar	0221	paa	TAM3	lv	lv				
 teop	iar	0221	konoboo	use.oil	v:pred	v		pred		
 teop	iar	0221	habana	again	other	other				
@@ -1814,40 +1827,41 @@ teop	iar	0222	#	#	##	##
 teop	iar	0222	te	PREP	adp	adp				
 teop	iar	0222	=a	=ART2.SG	=ln	=ln				
 teop	iar	0222	nubunubu	morning	np:other	np		other		
-teop	iar	0222	o-re=	3PRON-CONSEC=	pl_pro.h:a-other=	pl_pro	h	a-other=		
+teop	iar	0222	o-re=	3PRON-CONSEC=	=pl_pro.h:a	=pl_pro	h	a		
 teop	iar	0222	paa	TAM3	lv	lv				
 teop	iar	0222	havi-havi	RED-wipe	v:pred	v		pred		
 teop	iar	0222	bona	OBJ.ART2.SG	ln	ln				
-teop	iar	0222	suin-ri=	body-3PL.POSS=	np:p-pl_pro.h:poss	np		p-pl_pro.h:poss		
+teop	iar	0222	suin-	body-	-np:p	-np		p		
+teop	iar	0222	ri=	3PL.POSS=	=rn_pl_pro.h:poss	=rn_pl_pro	h	poss		
 teop	iar	0222	ori	3PL.PRON	rn_pl_pro.h:poss	rn_pl_pro	h	poss		
 teop	iar	0223	te	PREP	adp	adp				
 teop	iar	0223	=a	=ART2.SG	=ln	=ln				
 teop	iar	0223	nahu	pot	np:other	np		other		
 teop	iar	0223	konoboo	oil	rn	rn				
-teop	iar	0223	te=	PREP=	rn=	rn=				
+teop	iar	0223	te=	PREP=	=rn	=rn				
 teop	iar	0223	ori	3PL.PRON	rn_pl_pro.h:poss	rn_pl_pro	h	poss		
 teop	iar	0223	#	#	##	##				
 teop	iar	0223	ZERO	3SG.ZERO	0:s	0		s		
 teop	iar	0223	na	TAM2	lv	lv				
 teop	iar	0223	hio	sit	v:pred	v		pred		
-teop	iar	0223	nana	3SG.IPFV	rv-pro.h:s	rv-pro	h	s		
+teop	iar	0223	nana	3SG.IPFV	rv-pro_h_s	rv-pro_h_s				
 teop	iar	0223	inu	house	np:l	np		l		
 teop	iar	0224	#	#	##	##				
-teop	iar	0224	o-re=	3PRON=CONSEC	pro.3.pl:s-	pro	3.pl	s-		
+teop	iar	0224	o-re=	3PRON-CONSEC=	=pl_pro.h:s	=pl_pro	h	s	1042	
 teop	iar	0224	paa	TAM3	lv	lv				
 teop	iar	0224	boha	say	v:pred	v		pred		
-teop	iar	0224	vo=	like=	rv=	rv=				
+teop	iar	0224	vo=	like=	=rv	=rv				
 teop	iar	0224	en	DEM3	dem_pro:obl	dem_pro		obl		
 teop	iar	0224	#	#	##	##				
-teop	iar	0224	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0224	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0224	paa	TAM3	lv	lv				
 teop	iar	0224	ruvu	dive	v:pred	v		pred		
-teop	iar	0224	ma=	hither=	rv=	rv=				
+teop	iar	0224	ma=	hither=	=rv	=rv				
 teop	iar	0224	u	IMM	rv	rv				
-teop	iar	0224	ruene	water	np:l	np		l		
+teop	iar	0224	ruene	water	np:l	np		l	1102	bridging
 teop	iar	0224	ahiki	not.exist	other	other				
 teop	iar	0225	#	#	##	##				
-teop	iar	0225	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0225	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0225	paa	TAM3	lv	lv				
 teop	iar	0225	va-havi-havi	MULT-RED-wipe	v:pred	v		pred		
 teop	iar	0225	taono	press.down	rv	rv				
@@ -1855,211 +1869,220 @@ teop	iar	0225	koa	only	rv	rv
 teop	iar	0225	=u	=IMM	=rv	=rv				
 teop	iar	0226	te	PREP	adp	adp				
 teop	iar	0226	=o	=ART3.SG	=ln	=ln				
-teop	iar	0226	konoboo	oil	adp.np:obl	adp	np	obl		
+teop	iar	0226	konoboo	oil	np:obl	np		obl	1103	new
 teop	iar	0227	#	#	##	##				
 teop	iar	0227	o	ART3.SG	ln	ln				
-teop	iar	0227	konoboo	oil	np:pred	np		pred		
+teop	iar	0227	konoboo	oil	np:pred	np		pred	1103	
 teop	iar	0227	o	ART3.SG	rn	rn				
 teop	iar	0227	beera	big	rn	rn				
-teop	iar	0227	#rc	#rc	#rc:s	#rc		s		
+teop	iar	0227	#	#	#rc:s	#rc		s		
 teop	iar	0227	to	REL	rel_pro:p	rel_pro		p		
 teop	iar	0227	paa	TAM3	lv	lv				
 teop	iar	0227	paku	make	v:pred	v		pred		
-teop	iar	0227	ri=	3PL.IPFV	rv-pl_pro.h:a=	rv-pl_pro	h	a=		
-teop	iar	0227	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0227	ri=	3PL.IPFV=	=rv-pl_pro_h_a	=rv-pl_pro_h_a				
+teop	iar	0227	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0227	#	#	##	##				
 teop	iar	0227	erau	then	other	other				
-teop	iar	0227	me=	and4=	other=	other=				
-teop	iar	0227	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0227	me=	and4=	=other	=other				
+teop	iar	0227	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0227	paa	TAM3	lv	lv				
 teop	iar	0227	sue	say	v:pred	v		pred		
 teop	iar	0227	ki	DAT	rv	rv				
-teop	iar	0227	=ri	=3PL.OBJM	=rv-pl_pro.h:a	=rv-pl_pro	h	a		
-teop	iar	0227	bari	4PL.PRON	pl_pro.h:p	pl_pro	h	p		
-teop	iar	0228	#ds	#ds	#ds	#ds				
-teop	iar	0228	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0227	=ri	=3PL.OBJM	=rv-pl_pro_h_a	=rv-pl_pro_h_a				
+teop	iar	0227	bari	4PL.PRON	pl_pro.h:p	pl_pro	h	p	1098	
+teop	iar	0228	#	#	#ds	#ds				
+teop	iar	0228	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0228	Pasi	TAM4	lv	lv				
 teop	iar	0228	tii	be	v:pred	v		pred		
 teop	iar	0228	koa	very	rv	rv				
 teop	iar	0228	vo	like	rv	rv				
 teop	iar	0228	nom	IPFV	nc	nc				
 teop	iar	0228	enei	this.way	dem_pro:obl	dem_pro		obl		
-teop	iar	0228	#ds	#ds	##ds.neg	##ds.neg				
+teop	iar	0228	#	#	##ds.neg	##ds.neg				
 teop	iar	0228	ZERO	3SG.ZERO	0.h:s	0	h	s		
 teop	iar	0228	samin	NEG.at.all	lv	lv				
 teop	iar	0228	sisibu	bathe	v:pred	v		pred		
 teop	iar	0228	haa	NEG	rv	rv				
-teop	iar	0228	=na	=3SG.IPFV	=rv-pro.h:s	=rv-pro	h	s		
-teop	iar	0229	#ds	#ds	##ds	##ds				
-teop	iar	0229	ZERO	3SG.ZERO	0.h:a	0	h	a		
+teop	iar	0228	=na	=3SG.IPFV	=rv-pro_h_s	=rv-pro_h_s				
+teop	iar	0229	#	#	##ds	##ds				
+teop	iar	0229	ZERO	3SG.ZERO	0.h:a	0	h	a	1004	
 teop	iar	0229	antee	can	v:pred	v		pred		
-teop	iar	0229	nana	3SG.IPFV	rv-pro.h:a	rv-pro	h	a		
-teop	iar	0229	#ds.cc	#ds.cc	#ds_cc:p	#ds_cc		p		
+teop	iar	0229	nana	3SG.IPFV	rv-pro_h_a	rv-pro_h_a				
+teop	iar	0229	#	#	#ds_cc:p	#ds_cc		p		
 teop	iar	0229	tea	COMP1	other	other				
 teop	iar	0229	paku	make	vother:pred	vother		pred		
 teop	iar	0229	bona	OBJ.ART2.SG	ln	ln				
-teop	iar	0229	mohina	garden	np:p	np		p		
-teop	iar	0230	#ds	#ds	##ds	##ds				
-teop	iar	0230	ZERO	3SG.ZERO	0.h:a	0	h	a		
+teop	iar	0229	mohina	garden	np:p	np		p	1104	new
+teop	iar	0230	#	#	##ds	##ds				
+teop	iar	0230	ZERO	3SG.ZERO	0.h:a	0	h	a	1004	
 teop	iar	0230	antee	can	v:pred	v		pred		
-teop	iar	0230	nana	3SG.IPFV	rv-pro.h:a	rv-pro	h	a		
-teop	iar	0230	#ds.cc	#ds.cc	#ds_cc:p	#ds_cc		p		
+teop	iar	0230	nana	3SG.IPFV	rv-pro_h_a	rv-pro_h_a				
+teop	iar	0230	#	#	#ds_cc:p	#ds_cc		p		
 teop	iar	0230	tea	COMP1	other	other				
 teop	iar	0230	ubi	collect.firewood	vother:pred	vother		pred		
-teop	iar	0230	#ds.cc	#ds.cc	#ds_cc:appos	#ds_cc		appos		
+teop	iar	0230	#	#	#ds_cc:appos	#ds_cc		appos		
 teop	iar	0230	tea	COMP1	other	other				
 teop	iar	0230	vateen	carry.in.knapsack	vother:pred	vother		pred		
-teop	iar	0230	naono	wood	rv_n	rv_n				
+teop	iar	0230	naono	wood	rv_np	rv_np			1107	new
 teop	iar	0230	maa	hither	rv	rv				
-teop	iar	0231	#		#ds_cc:appos	#ds_cc		appos		
+teop	iar	0231	#	#	#ds_cc:appos	#ds_cc		appos		
 teop	iar	0231	bara	and2	other	other				
 teop	iar	0231	tea	COMP1	other	other				
 teop	iar	0231	nahu-nahu	RED-cook	vother:pred	vother		pred		
-teop	iar	0231	#ds	#ds	##ds	##ds				
-teop	iar	0231	ZERO	3SG.ZERO	0.h:a	0	h	a		
+teop	iar	0231	#	#	##ds	##ds				
+teop	iar	0231	ZERO	3SG.ZERO	0.h:a	0	h	a	1004	
 teop	iar	0231	na	TAM2	lv	lv				
 teop	iar	0231	antee	can	v:pred	v		pred		
-teop	iar	0231	nana	3SG.IPFV	rv-pro.h:a	rv-pro	h	a		
-teop	iar	0231	#ds.cc	#ds.cc	#ds_cc:p	#ds_cc		p		
+teop	iar	0231	nana	3SG.IPFV	rv-pro_h_a	rv-pro_h_a				
+teop	iar	0231	#	#	#ds_cc:p	#ds_cc		p		
 teop	iar	0231	tea	COMP1	other	other				
 teop	iar	0231	paku	do	vother:pred	vother		pred		
 teop	iar	0231	bona	OBJ.ART2.SG	ln	ln				
 teop	iar	0231	maa	PLM	ln	ln				
-teop	iar	0231	kiu	work	pl_np:p	pl_np		p		
+teop	iar	0231	kiu	work	pl_np:p	pl_np		p	1108	new
 teop	iar	0231	bona	ANA	rn	rn				
-teop	iar	0232	#ds.cc	#ds.cc	#ds	#ds				
+teop	iar	0232	#	#	#ds	#ds				
 teop	iar	0232	Evehee	but	other	other				
 teop	iar	0232	te	PREP	adp	adp				
-teop	iar	0232	=a	ART2.SG	=ln	=ln				
+teop	iar	0232	=a	=ART2.SG	=ln	=ln				
 teop	iar	0232	sisibu	bathe	np:dt	np		dt		
 teop	iar	0232	ahiki	not.exist	other:pred	other		pred		
-teop	iar	0233	#ds	#ds	##ds	##ds				
+teop	iar	0233	#	#	##ds	##ds				
 teop	iar	0233	ZERO	3SG.ZERO	0:s	0		s		
 teop	iar	0233	Tii	be	v:pred	v		pred		
-teop	iar	0233	nana	3SG.IPFV	rv-pro:s	rv-pro		s		
-teop	iar	0233	#ds	#ds	##ds	##ds				
+teop	iar	0233	nana	3SG.IPFV	rv-pro_s	rv-pro_s				
+teop	iar	0233	#	#	##ds	##ds				
 teop	iar	0233	a	ART2.SG	ln	ln				
 teop	iar	0233	taba	thing	np:s	np		s		
-teop	iar	0233	teve	PREP=3SG.PRON	rn_adp=pro.h:poss	rn_adp=pro	h	poss		
+teop	iar	0233	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0233	eve	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1004	
 teop	iar	0233	vaa	LNK	rn	rn				
 teop	iar	0233	sisibu	bathe	rn	rn				
-teop	iar	0233	teve	PREP=3SG.PRON	rn_adp=pro.h:poss	rn_adp=pro	h	poss		
-teop	iar	0233	=i	=DEM1	rn_dem	rn_dem				
+teop	iar	0233	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0233	eve	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1004	
+teop	iar	0233	=i	=DEM1	=rn_dem	=rn_dem			1103	
 teop	iar	0233	o	ART3.SG	ln	ln				
-teop	iar	0233	konobo	oil	np:pred	np		pred		
-teop	iar	0233	teve	PREP.3SG.PRON	rn_adp=pro.h:poss	rn_adp=pro	h	poss		
+teop	iar	0233	konobo	oil	np:pred	np		pred	1103	
+teop	iar	0233	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0233	eve	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1004	
 teop	iar	0234	#	#	##	##				
-teop	iar	0234	me=	and4=	other=	other=				
-teop	iar	0234	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0234	me=	and4=	=other	=other				
+teop	iar	0234	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0234	paa	TAM3	lv	lv				
 teop	iar	0234	mee	bring	v:pred	v		pred		
-teop	iar	0234	bari	4PL.PRON	pro.h:p	pro	h	p		
+teop	iar	0234	bari	4PL.PRON	pro.h:p	pro	h	p	1004	
 teop	iar	0235	#	#	##	##				
-teop	iar	0235	ZERO	3SG.ZERO	0.h:p	0	h	p		
+teop	iar	0235	ZERO	3SG.ZERO	0.h:p	0	h	p	1004	
 teop	iar	0235	mee	bring	v:pred	v		pred		
 teop	iar	0235	vai	now	other	other				
-teop	iar	0235	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0235	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0235	te	PREP	adp	adp				
 teop	iar	0235	=o	=ART3.SG	=ln	=ln				
 teop	iar	0235	bon	day	np:other	np		other		
 teop	iar	0235	vai	DEM6	rn	rn				
 teop	iar	0235	#	#	##	##				
-teop	iar	0235	o-re	3PRON-CONSEC	pl_pro.h:a-other	pl_pro	h	a-other		
+teop	iar	0235	o-re	3PRON-CONSEC	pl_pro.h:a	pl_pro	h	a	1098	
 teop	iar	0235	he	but	other	other				
 teop	iar	0235	matatopo	prepare	v:pred	v		pred		
 teop	iar	0235	bona	ART2.SG	ln	ln				
-teop	iar	0235	taba-an	thing-eat	np:p	np		p		
+teop	iar	0235	taba-an	thing-eat	np:p	np		p	1109	new
 teop	iar	0236	#	#	##	##				
-teop	iar	0236	me=	and4=	other=	other=				
-teop	iar	0236	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0236	me=	and4=	=other	=other				
+teop	iar	0236	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0236	paa	TAM3	lv	lv				
 teop	iar	0236	mee	bring	v:pred	v		pred		
 teop	iar	0236	bene	OBJ.ART1	ln	ln				
-teop	iar	0236	Taguone	Taguone	np.h:p	np	h	p		
-teop	iar	0236	#cc	#cc	#ac	#ac				
+teop	iar	0236	Taguone	Taguone	np.h:p	np	h	p	1004	
+teop	iar	0236	#	#	#ac	#ac				
 teop	iar	0236	tea	COMP1	other	other				
 teop	iar	0236	atono	leave	vother:pred	vother		pred		
-teop	iar	0236	ZERO	3SG.ZERO	0.h:p	0	h	p		
+teop	iar	0236	ZERO	3SG.ZERO	0.h:p	0	h	p	1004	
 teop	iar	0236	te	PREP.ART1	adp	adp				
-teop	iar	0236	roanabai	mother.in.law	np.h:obl	np	h	obl		
-teop	iar	0236	teve	PREP.3SG.PRON	rn_adp=np.h:poss	rn_adp=np	h	poss		
+teop	iar	0236	roanabai	mother.in.law	np.h:obl	np	h	obl	1112	bridging
+teop	iar	0236	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0236	eve	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1004	
 teop	iar	0237	ae	and1	rn	rn				
 teop	iar	0237	te	PREP.ART1	rn	rn				
-teop	iar	0237	avue	boy´s.sister	rn_np.h	rn_np	h			
-teop	iar	0237	teve	PREP.3SG.PRON	rn_adp=pro.h:poss	rn_adp=pro	h	poss		
-teop	iar	0237	roanabai	in.law	rn_np.h	rn_np	h			
+teop	iar	0237	avue	boy's.sister	rn_np.h	rn_np	h		1113	bridging
+teop	iar	0237	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0237	eve	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1004	
+teop	iar	0237	roanabai	in.law	rn_np.h	rn_np	h		1114	bridging
 teop	iar	0237	otei	male	rn	rn				
-teop	iar	0237	roanabai	in.law	rn_np.h	rn_np	h			
+teop	iar	0237	roanabai	in.law	rn_np.h	rn_np	h		1115	bridging
 teop	iar	0237	moon	female	rn	rn				
 teop	iar	0238	#	#	##	##				
-teop	iar	0238	me=	and4=	other=	other=				
-teop	iar	0238	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0238	me=	and4=	=other	=other				
+teop	iar	0238	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1042	
 teop	iar	0238	paa	TAM3	lv	lv				
 teop	iar	0238	nao	go	v:pred	v		pred		
 teop	iar	0238	#	#	##	##				
-teop	iar	0238	a=	ART2.SG=	ln=	ln=				
+teop	iar	0238	a=	ART2.SG=	=ln	=ln				
 teop	iar	0238	maa	PLM	ln	ln				
-teop	iar	0238	avue	boy´s.sister	np.h:a	np	h	a		
-teop	iar	0238	teve	PREP.3SG.PRON	rn_adp=pro.h:poss	rn_adp=pro	h	poss		
+teop	iar	0238	avue	boy´s.sister	np.h:a	np	h	a	1116	bridging
+teop	iar	0238	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0238	eve	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1004	
 teop	iar	0238	na	TAM2	lv	lv				
 teop	iar	0238	matatopo	prepare	v:pred	v		pred		
 teop	iar	0238	bona	OBJ.ART2.SG	ln	ln				
-teop	iar	0238	taba	thing	np:p	np		p		
+teop	iar	0238	taba	thing	np:p	np		p	1109	
 teop	iar	0238	an	eat	rn	rn				
-teop	iar	0239	#rc	#rc	#rc	#rc				
+teop	iar	0239	#	#	#rc	#rc				
 teop	iar	0239	to	REL	rel_pro:p	rel_pro		p		
 teop	iar	0239	kahi	TAM1	lv	lv				
 teop	iar	0239	an	eat	v:pred	v		pred		
-teop	iar	0239	nana	3SG.IPFV	rv-pro.h:a	rv-pro	h	a		
-teop	iar	0239	eve	3SG.PRON	pro.h:a	pro	h	a		
+teop	iar	0239	nana	3SG.IPFV	rv-pro_h_a	rv-pro_h_a				
+teop	iar	0239	eve	3SG.PRON	pro.h:a	pro	h	a	1004	
 teop	iar	0239	#	#	##	##				
-teop	iar	0239	a=	ART2.SG=	ln=	ln=				
+teop	iar	0239	a=	ART2.SG=	=ln	=ln				
 teop	iar	0239	maa	PLM	ln	ln				
-teop	iar	0239	raen	line	pl_np.h:dt	pl_np	h	dt		
-teop	iar	0239	teve	PREP.ART1	rn_adp=pro.h:poss	rn_adp=pro	h	poss		
-teop	iar	0239	Taguone	Taguone	np.h:appos	np	h	appos		
-teop	iar	0240	o-re=	3PRON=CONSEC	pl_pro.h:s-other=	pl_pro	h	s-other=		
+teop	iar	0239	raen	line	pl_np.h:dt	pl_np	h	dt	1117	bridging
+teop	iar	0239	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0239	eve	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1004	
+teop	iar	0239	Taguone	Taguone	np.h:appos	np	h	appos	1004	
+teop	iar	0240	o-re=	3PRON-CONSEC=	=pl_pro.h:s	=pl_pro	h	s	1042	
+teop	iar	0240	re=	CONSEC=	=other	=other				
 teop	iar	0240	paa	TAM3	lv	lv				
 teop	iar	0240	nomaa	come	v:pred	v		pred		
 teop	iar	0240	vahaa	back	rv	rv				
-teop	iar	0241	#ds	#ds	##ds	##ds				
+teop	iar	0241	#	#	##ds	##ds				
 teop	iar	0241	Bara	alright	other	other				
-teop	iar	0241	enam	1PL.EX.PRON	pl_pro.1:s	pl_pro	1	s		
+teop	iar	0241	enam	1PL.EX.PRON	pl_pro.1:s	pl_pro	1	s	1042	
 teop	iar	0241	ei	here	dem_pro:pred	dem_pro		pred		
-teop	iar	0241	#ds	#ds	##ds	##ds				
-teop	iar	0241	enam	1PL.EX.PRON	pl_pro.1:a	pl_pro	1	a		
+teop	iar	0241	#	#	##ds	##ds				
+teop	iar	0241	enam	1PL.EX.PRON	pl_pro.1:a	pl_pro	1	a	1042	
 teop	iar	0241	paa	TAM3	lv	lv				
 teop	iar	0241	mee	bring	v:pred	v		pred		
-teop	iar	0241	ma=	hither=	rv=	rv=				
+teop	iar	0241	ma=	hither=	=rv	=rv				
 teop	iar	0241	u	IMM	rv	rv				
 teop	iar	0241	e	ART1	ln	ln				
-teop	iar	0241	Taguone	Taguone	np.h:p	np	h	p		
-teop	iar	0241	#cc	#cc	#cc	#cc				
+teop	iar	0241	Taguone	Taguone	np.h:p	np	h	p	1004	
+teop	iar	0241	#	#	#cc	#cc				
 teop	iar	0241	tea	COMP1	other	other				
 teop	iar	0241	atono	leave	vother:pred	vother		pred		
-teop	iar	0241	ZERO	3SG.ZERO	0.h:p	0	h	p		
-teop	iar	0242	#ds	#ds	##ds	##ds				
-teop	iar	0242	eam	2PL.ZERO	pl_pro.2:a	pl_pro	2	a		
+teop	iar	0241	ZERO	3SG.ZERO	0.h:p	0	h	p	1004	
+teop	iar	0242	#	#	##ds	##ds				
+teop	iar	0242	eam	2PL.ZERO	pl_pro.2:a	pl_pro	2	a	1098	
 teop	iar	0242	paa	TAM3	lv	lv				
 teop	iar	0242	kikira	look.after	v:pred	v		pred		
 teop	iar	0242	va-mataa	ADVR-good	rv	rv				
 teop	iar	0242	ni	APPL	rv	rv				
 teop	iar	0242	=a	=ART2.SG	=ln	=ln				
-teop	iar	0242	sahata	dear	np.h:p	np	h	p		
-teop	iar	0242	te=	PREP=	rn=	rn=				
-teop	iar	0242	nam	1PL.EX.PRON	rn_pl_pro.1:poss	rn_pl_pro	1	poss		
-teop	iar	0243	#ds	#ds	##ds	##ds				
+teop	iar	0242	sahata	dear	np.h:p	np	h	p	1004	
+teop	iar	0242	te=	PREP=	=rn	=rn				
+teop	iar	0242	nam	1PL.EX.PRON	rn_pl_pro.1:poss	rn_pl_pro	1	poss	1042	
+teop	iar	0243	#	#	##ds	##ds				
 teop	iar	0243	Ah	yes	other	other				
-teop	iar	0243	enam	1PL.EX.PRON	pl_pro.1:a	pl_pro	1	a		
+teop	iar	0243	enam	1PL.EX.PRON	pl_pro.1:a	pl_pro	1	a	1098	
 teop	iar	0243	pasi	TAM4	lv	lv				
 teop	iar	0243	kikira	look.after	v:pred	v		pred		
 teop	iar	0243	ni	APPL	rv	rv				
-teop	iar	0243	vu=	IMM=	rv=	rv=				
-teop	iar	0243	ee	3SG.PRON	pro.h:p	pro	h	p		
+teop	iar	0243	vu=	IMM=	=rv	=rv				
+teop	iar	0243	ee	3SG.PRON	pro.h:p	pro	h	p	1004	
 teop	iar	0244	#	#	##	##				
 teop	iar	0244	e	ART1	ln	ln				
-teop	iar	0244	roanabai	mother.in.law	np.h:pred	np	h	pred		
-teop	iar	0244	teve	PREP.3SG.PRON	adp=pro.h:poss	adp=pro	h	poss		
+teop	iar	0244	roanabai	mother.in.law	np.h:pred	np	h	pred	1112	
+teop	iar	0244	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0244	eve	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss		
 teop	iar	0244	kou	EMPH	other	other				
 teop	iar	0244	ei	DEM2	dem_pro:s	dem_pro		s		
 teop	iar	0245	#	#	##	##				
@@ -2067,74 +2090,75 @@ teop	iar	0245	Erau	then	other	other
 teop	iar	0245	ZERO	3SG.ZERO	0.h:p	0	h	p		
 teop	iar	0245	atono	leave	v:pred	v		pred		
 teop	iar	0245	vai	now	rv	rv				
-teop	iar	0245	ni=	APPL=	rv=	rv=				
-teop	iar	0245	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0245	ni=	APPL=	=rv	=rv				
+teop	iar	0245	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1042	
 teop	iar	0245	#	#	##	##				
-teop	iar	0245	me=	and4=	other=	other=				
-teop	iar	0245	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0245	me=	and4=	=other	=other				
+teop	iar	0245	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1042	
 teop	iar	0245	paa	TAM3	lv	lv				
 teop	iar	0245	an	eat	v:pred	v		pred		
 teop	iar	0246	#	#	##	##				
-teop	iar	0246	ZERO	3PL.ZERO	pl_0:a	pl_0		a		
+teop	iar	0246	ZERO	3PL.ZERO	pl_0:a	pl_0		a	1042	
 teop	iar	0246	an	eat	v:pred	v		pred		
 teop	iar	0246	bona	OBJ.ART2.SG	ln	ln				
-teop	iar	0246	taba	thing	np:p	np		p		
+teop	iar	0246	taba	thing	np:p	np		p	1109	
 teop	iar	0246	an	eat	rn	rn				
 teop	iar	0246	#	#	##	##				
-teop	iar	0246	me=	and4=	other=	other=				
-teop	iar	0246	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0246	me=	and4=	=other	=other				
+teop	iar	0246	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1042	
 teop	iar	0246	paa	TAM3	lv	lv				
 teop	iar	0246	nao	go	v:pred	v		pred		
 teop	iar	0246	vahaa	again	rv	rv				
 teop	iar	0247	#	#	##	##				
-teop	iar	0247	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s		
+teop	iar	0247	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s	1042	
 teop	iar	0247	nao	go	v:pred	v		pred		
 teop	iar	0247	vaha	again	rv	rv				
 teop	iar	0247	maa	hither	rv	rv				
-teop	iar	0247	inu	house	np:g	np		g		
-teop	iar	0247	te=	PREP=	rn=	rn=				
-teop	iar	0247	ori	3PL.PRON	rn_pl_pro.h:poss	rn_pl_pro	h	poss		
+teop	iar	0247	inu	house	np:g	np		g	1011	
+teop	iar	0247	te=	PREP=	=rn	=rn				
+teop	iar	0247	ori	3PL.PRON	rn_pl_pro.h:poss	rn_pl_pro	h	poss	1042	
 teop	iar	0248	#	#	##	##				
 teop	iar	0248	evehee	but	other	other				
 teop	iar	0248	e	ART1	ln	ln				
-teop	iar	0248	roanabai	mother.in.law	np.h:a	np	h	a		
-teop	iar	0248	teve	PREP.3SG.PRON	rn_adp=pro.h:poss	rn_adp=pro	h	poss		
+teop	iar	0248	roanabai	mother.in.law	np.h:a	np	h	a	1112	
+teop	iar	0248	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0248	eve	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1004	
 teop	iar	0249	saka	NEG	lv	lv				
 teop	iar	0249	kikira	care	v:pred	v		pred		
 teop	iar	0249	va-mataa	ADVR-good	rv	rv				
 teop	iar	0249	haa	NEG	rv	rv				
-teop	iar	0249	=na	=3SG.IPFV	=rv-pro.h:a	=rv-pro	h	a		
+teop	iar	0249	=na	=3SG.IPFV	=rv-pro_h_a	=rv-pro_h_a				
 teop	iar	0249	bene	OBJ.ART1	ln	ln				
-teop	iar	0249	Taguone	Taguone	np.h:p	np	h	p		
+teop	iar	0249	Taguone	Taguone	np.h:p	np	h	p	1004	
 teop	iar	0250	#	#	##	##				
-teop	iar	0250	me=	and4=	other=	other=				
-teop	iar	0250	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
+teop	iar	0250	me=	and4=	=other	=other				
+teop	iar	0250	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a	1115	
 teop	iar	0250	paa	TAM3	lv	lv				
 teop	iar	0250	mee	take	v:pred	v		pred		
-teop	iar	0250	bari	4PL.PRON	pro.h:p	pro	h	p		
-teop	iar	0250	tahii	sea	np:g	np		g		
+teop	iar	0250	bari	4PL.PRON	pro.h:p	pro	h	p	1004	
+teop	iar	0250	tahii	sea	np:g	np		g	1100	
 teop	iar	0250	te	PREP	adp	adp				
 teop	iar	0250	=o	=ART3.SG	=ln	=ln				
 teop	iar	0250	peho	INDEF.O	ln	ln				
 teop	iar	0250	bon	day	np:other	np		other		
 teop	iar	0251	#	#	##	##				
-teop	iar	0251	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s		
+teop	iar	0251	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s	1118	bridging
 teop	iar	0251	nao	go	v:pred	v		pred		
-teop	iar	0251	tahii	sea	np:g	np		g		
+teop	iar	0251	tahii	sea	np:g	np		g	1100	
 teop	iar	0251	#	#	##	##				
-teop	iar	0251	me=	and4=	other=	other=				
-teop	iar	0251	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0251	me=	and4=	=other	=other				
+teop	iar	0251	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1118	
 teop	iar	0251	paa	TAM3	lv	lv				
 teop	iar	0251	vagana	fish	v:pred	v		pred		
 teop	iar	0251	maa	hither	rv	rv				
 teop	iar	0252	#	#	##	##				
-teop	iar	0252	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s		
+teop	iar	0252	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s	1118	
 teop	iar	0252	vagana	fish	v:pred	v		pred		
 teop	iar	0252	maa	hither	rv	rv				
 teop	iar	0252	#	#	##	##				
 teop	iar	0252	o	ART3.SG	ln	ln				
 teop	iar	0252	kaku	kind	ln	ln				
-teop	iar	0252	vagana	fish	np:dt	np		dt		
+teop	iar	0252	vagana	fish	np:dt	np		dt	1119	new
 teop	iar	0252	te	PREP	rn	rn				
 teop	iar	0252	=a	=ART2.SG	=rn	=rn				
 teop	iar	0252	maa	PLM	rn	rn				
@@ -2143,20 +2167,20 @@ teop	iar	0253	te	PREP	rn	rn
 teop	iar	0253	=a	=ART2.SG	=rn	=rn				
 teop	iar	0253	maa	PLM	rn	rn				
 teop	iar	0253	moon	woman	rn_pl_np.h:poss	rn_pl_np	h	poss		
-teop	iar	0253	te=	PREP=	rn=	rn=				
+teop	iar	0253	te=	PREP=	=rn	=rn				
 teop	iar	0253	nam	1PL.EX.PRON	rn_pl_pro.1:poss	rn_pl_pro	1	poss		
 teop	iar	0253	ei	DEM2	rn	rn				
 teop	iar	0253	Teapu	Teop	np:appos	np		appos		
 teop	iar	0253	ei	DEM2	dem_pro:s	dem_pro		s		
 teop	iar	0253	na	TAM2	lv	lv				
 teop	iar	0253	vaavaha	different	v:pred	v		pred		
-teop	iar	0253	nana	3SG.IPFV	rv-pro:s	rv-pro		s		
+teop	iar	0253	nana	3SG.IPFV	rv-pro_s	rv-pro_s				
 teop	iar	0254	#	#	##	##				
 teop	iar	0254	ZERO	3PL.ZERO	pl_0.h:a	pl_0	h	a		
 teop	iar	0254	na	TAM2	lv	lv				
 teop	iar	0254	gono	get	v:pred	v		pred		
 teop	iar	0254	bata	along	rv	rv				
-teop	iar	0254	=ri	=3PL.IPFV	=rv-pro.h:a	=rv-pro	h	a		
+teop	iar	0254	=ri	=3PL.IPFV	=rv-pro_h_a	=rv-pro_h_a				
 teop	iar	0254	bona	OBJ.ART2.SG	ln	ln				
 teop	iar	0254	maa	PLM	ln	ln				
 teop	iar	0254	vahara	little.PL	ln	ln				
@@ -2165,18 +2189,18 @@ teop	iar	0254	tahii	sea	np:l	np		l
 teop	iar	0254	a	ART2.SG	ln	ln				
 teop	iar	0254	maa	PLM	ln	ln				
 teop	iar	0254	ruta-rutaa	RED-small	np:dt_p	np		dt_p		
-teop	iar	0255	#ac	#ac	#ac	#ac				
-teop	iar	0255	be=	when=	other=	other=				
+teop	iar	0255	#	#	#ac	#ac				
+teop	iar	0255	be=	when=	=other	=other				
 teop	iar	0255	ori	3PL.PRON	pl_pro.h:a	pl_pro	h	a		
 teop	iar	0255	vaa-obete	CAUS-lie	v:pred	v		pred		
 teop	iar	0255	bata	along	rv	rv				
-teop	iar	0255	=ri	=3PL.IPFV	=rv-pl_pro.h:a	=rv-pl_pro	h	a		
+teop	iar	0255	=ri	=3PL.IPFV	=rv-pl_pro_h_a	=rv-pl_pro_h_a				
 teop	iar	0255	ZERO	3SG.ZERO	0:p	0		p		
 teop	iar	0255	te	PREP	adp	adp				
 teop	iar	0255	=a	=ART2.SG	=ln	=ln				
 teop	iar	0255	bonaa	fishing.basket	np:g	np		g		
 teop	iar	0256	#	#	##	##				
-teop	iar	0256	o-re=	3PRON-CONSEC	pl_pro:s-other=	pl_pro		s-other=		
+teop	iar	0256	o-re=	3PRON-CONSEC=	=pl_pro:s	=pl_pro		s		
 teop	iar	0256	paa	TAM3	lv	lv				
 teop	iar	0256	bero	many	v:pred	v		pred		
 teop	iar	0256	bero	many	rv	rv				
@@ -2188,239 +2212,243 @@ teop	iar	0256	maa	PLM	ln	ln
 teop	iar	0256	kaku-kaku	RED-kind	ln	ln				
 teop	iar	0256	taba	thing	pl_np:dt_s	pl_np		dt_s		
 teop	iar	0257	#	#	#	#				
-teop	iar	0257	o-re=	3PRON=CONSEC	pl_pro.h:a-other=	pl_pro	h	a-other=		
+teop	iar	0257	o-re=	3PRON-CONSEC=	=pl_pro.h:a	=pl_pro	h	a		
 teop	iar	0257	paa	TAM3	lv	lv				
 teop	iar	0257	ma	come	v:pred	v		pred		
 teop	iar	0257	nahu	cook	rv	rv				
 teop	iar	0257	bari	4PL.PRON	pl_pro:p	pl_pro		p		
 teop	iar	0258	#	#	##	##				
 teop	iar	0258	Erau	so	other	other				
-teop	iar	0258	ZERO	3PL.ZERO	0.h:s	0	h	s		
+teop	iar	0258	ZERO	3PL.ZERO	0.h:s	0	h	s	1118	
 teop	iar	0258	nao	go	v:pred	v		pred		
 teop	iar	0258	vai	now	rv	rv				
 teop	iar	0258	te	PREP	adp	adp				
 teop	iar	0258	=a	=ART2.SG	=ln	=ln				
-teop	iar	0258	vagana	fishing	np:g	np		g		
+teop	iar	0258	vagana	fishing	np:g	np		g	1119	
 teop	iar	0258	te	PREP	adp	adp				
 teop	iar	0258	=a	=ART2.SG	=ln	=ln				
 teop	iar	0258	maa	PLM	ln	ln				
 teop	iar	0258	moon	woman	rn_pl_np.h:poss	rn_pl_np	h	poss		
 teop	iar	0259	#	#	##	##				
-teop	iar	0259	me=	and4=	other=	other=				
-teop	iar	0259	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0259	me=	and4=	=other	=other				
+teop	iar	0259	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1118	
 teop	iar	0259	vagana	fish	v:pred	v		pred		
 teop	iar	0259	#	#	##	##				
-teop	iar	0259	me=	and4=	other=	other=				
-teop	iar	0259	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0259	me=	and4=	=other	=other				
+teop	iar	0259	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1118	
 teop	iar	0259	vagana	fish	v:pred	v		pred		
 teop	iar	0259	#	#	##	##				
-teop	iar	0259	me=	and4=	other=	other=				
-teop	iar	0259	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s		
+teop	iar	0259	me=	and4=	=other	=other				
+teop	iar	0259	ori	3PL.PRON	pl_pro.h:s	pl_pro	h	s	1118	
 teop	iar	0259	vagana	fish	v:pred	v		pred		
 teop	iar	0260	#	#	##	##				
-teop	iar	0260	ZERO	3PL.ZERO	0.h:a	0	h	a		
+teop	iar	0260	ZERO	3PL.ZERO	0.h:a	0	h	a	1118	
 teop	iar	0260	gono	get	v:pred	v		pred		
 teop	iar	0260	bona	OBJ.ART2.SG	ln	ln				
 teop	iar	0260	maa	PLM	ln	ln				
-teop	iar	0260	taba	thing	pl_np:p	pl_np		p		
+teop	iar	0260	taba	thing	pl_np:p	pl_np		p	1123	new
 teop	iar	0260	a	ART2.SG	rn	rn				
 teop	iar	0260	maa	PLM	rn	rn				
 teop	iar	0260	bero	many	rn	rn				
 teop	iar	0261	#	#	##	##				
 teop	iar	0261	Evehee	but	other	other				
 teop	iar	0261	e	ART1	ln	ln				
-teop	iar	0261	roanabai	mother.in.law	np.h:s	np	h	s		
-teop	iar	0261	teve	PREP.3SG.PRON	rn_adp=pro.h:poss	rn_adp=pro	h	poss		
+teop	iar	0261	roanabai	mother.in.law	np.h:s	np	h	s	1112	
+teop	iar	0261	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0261	eve	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1004	
 teop	iar	0262	toro	must	lv	lv				
 teop	iar	0262	va-da-dao	MULT-RED-call	v:pred	v		pred		
-teop	iar	0263	#ds	#ds	##ds	##ds				
-teop	iar	0263	Are	1PL.IN.CONSEC	pl_pro.1:s	pl_pro	1	s		
+teop	iar	0263	#	#	##ds	##ds				
+teop	iar	0263	a-re	1PL.IN-CONSEC	pl_pro.1:s	pl_pro	1	s	1118	
 teop	iar	0263	nao	go	v:pred	v		pred		
-teop	iar	0263	#ds	#ds	##ds	##ds				
+teop	iar	0263	#	#	##ds	##ds				
 teop	iar	0263	a	ART2.SG	ln	ln				
-teop	iar	0263	puhana	high.tide	np:s	np		s		
+teop	iar	0263	puhana	high.tide	np:s	np		s	1124	bridging
 teop	iar	0263	mene	otherwise	other	other				
 teop	iar	0263	na	TAM3	lv	lv				
 teop	iar	0263	puhana	high.tide	v:pred	v		pred		
 teop	iar	0263	bata	along	rv	rv				
 teop	iar	0263	maa	hither	rv	rv				
-teop	iar	0263	=na	=3SG.IPFV	=rv-pro:s	=rv-pro		s		
-teop	iar	0264	#ds	#ds	##ds	##ds				
-teop	iar	0264	irihi	edge.of.the.reef	np:s	np		s		
+teop	iar	0263	=na	=3SG.IPFV	=rv-pro_s	=rv-pro_s				
+teop	iar	0264	#	#	##ds	##ds				
+teop	iar	0264	irihi	edge.of.the.reef	np:s	np		s	1125	bridging
 teop	iar	0264	a	ART2.SG	ln	ln				
 teop	iar	0264	gohoho	in-coming.tide	np:pred	np		pred		
-teop	iar	0265	#ds	#ds	##ds	##ds				
+teop	iar	0265	#	#	##ds	##ds				
 teop	iar	0265	a	ART2.SG	ln	ln				
-teop	iar	0265	tahii	sea	np:a	np		a		
+teop	iar	0265	tahii	sea	np:a	np		a	1100	
 teop	iar	0265	na	TAM2	lv	lv				
 teop	iar	0265	taneo	start	v:pred	v		pred		
 teop	iar	0265	bata	along	rv	rv				
 teop	iar	0265	maa	hither	rv	rv				
-teop	iar	0265	=na	=3SG.IPFV	=rv-pro:a	=rv-pro		a		
-teop	iar	0265	#cc	#cc	#cc:p	#cc		p		
+teop	iar	0265	=na	=3SG.IPFV	=rv-pro_a	=rv-pro_a				
+teop	iar	0265	#	#	#cc:p	#cc		p		
 teop	iar	0265	tea	COMP1	other	other				
 teop	iar	0265	nomaa	come	vother:pred	vother		pred		
 teop	iar	0266	ii	DEM1	rv	rv				
 teop	iar	0266	gina	over	rv	rv				
-teop	iar	0266	irihi	edge.of.the.reef	np:l	np		l		
+teop	iar	0266	irihi	edge.of.the.reef	np:l	np		l	1125	
 teop	iar	0267	#	#	##	##				
 teop	iar	0267	Evehee	but	other	other				
 teop	iar	0267	ahiki	no	other:pred	other		pred		
 teop	iar	0267	#	#	##	##				
-teop	iar	0267	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0267	ZERO	3SG.ZERO	0.h:s	0	h	s	1112	
 teop	iar	0267	sa	NEG	lv	lv				
 teop	iar	0267	sue	say	v:pred	v		pred		
 teop	iar	0267	haa	NEG	rv	rv				
 teop	iar	0267	ZERO	4SG.ZERO	0:p	0		p		
 teop	iar	0268	#	#	##	##				
-teop	iar	0268	ZERO	3SG.ZERO	0.h:a	0	h	a		
+teop	iar	0268	ZERO	3SG.ZERO	0.h:a	0	h	a	1112	
 teop	iar	0268	na	TAM2	lv	lv				
 teop	iar	0268	tei	be	v:pred	v		pred		
 teop	iar	0268	umee	forget	rv	rv				
 teop	iar	0268	koa	just	rv	rv				
 teop	iar	0268	bene	OBJ.ART2.SG	ln	ln				
-teop	iar	0268	Taguone	Taguone	np.h:p	np	h	p		
+teop	iar	0268	Taguone	Taguone	np.h:p	np	h	p	1004	
 teop	iar	0269	#	#	##	##				
-teop	iar	0269	meo	and4= ART3.SG	other	other				
-teop	iar	0269	puhana	high.tide	np:s	np		s		
+teop	iar	0269	meo	and4=ART3.SG	other	other				
+teop	iar	0269	puhana	high.tide	np:s	np		s	1124	
 teop	iar	0269	paa	TAM3	lv	lv				
 teop	iar	0269	beera	big	v:pred	v		pred		
 teop	iar	0269	maa	hither	rv	rv				
 teop	iar	0269	#	#	##	##				
-teop	iar	0269	ZERO	3SG.ZERO	0:s	0		s		
+teop	iar	0269	ZERO	3SG.ZERO	0:s	0		s	1124	
 teop	iar	0269	me	and4	other	other				
 teop	iar	0269	beera	big	v:pred	v		pred		
 teop	iar	0269	maa	hither	rv	rv				
 teop	iar	0270	#	#	##	##				
-teop	iar	0270	ZERO	3SG.ZERO	0:s	0		s		
+teop	iar	0270	ZERO	3SG.ZERO	0:s	0		s	1124	
 teop	iar	0270	me	and4	other	other				
 teop	iar	0270	nomaa	come	v:pred	v		pred		
-teop	iar	0270	moo-na	leg-3SG.POSS	np:g	np		g		
-teop	iar	0270	=e	3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss		
+teop	iar	0270	moo-na	leg-3SG.POSS	np:g	np		g	1093	
+teop	iar	0270	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	1004	
 teop	iar	0271	#	#	##	##				
-teop	iar	0271	ZERO	3SG.ZERO	0:s	0		s		
+teop	iar	0271	ZERO	3SG.ZERO	0:s	0		s	1124	
 teop	iar	0271	me	and4	other	other				
 teop	iar	0271	nomaa	come	v:pred	v		pred		
-teop	iar	0271	moo-na	leg-3SG.POSS	np:g	np		g		
-teop	iar	0271	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss		
+teop	iar	0271	moo-na	leg-3SG.POSS	np:g	np		g	1093	
+teop	iar	0271	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	1004	
 teop	iar	0272	#	#	##	##				
 teop	iar	0272	me	and4	other	other				
 teop	iar	0272	antee	reach	v:pred	v		pred		
 teop	iar	0272	enei	here	other:g	other		g		
 teop	iar	0272	o	ART3.SG	ln	ln				
-teop	iar	0272	puhana-i	high.tide-DEM1	np:s	np		s		
+teop	iar	0272	puhana-i	high.tide-DEM1	np:s	np		s	1124	
 teop	iar	0273	#	#	##	##				
 teop	iar	0273	e	ART1	ln	ln				
-teop	iar	0273	roanabai	mother.in.law	np.h:a	np	h	a		
-teop	iar	0273	teve	PREP.3SG.PRON	rn_adp=pro.h:poss	rn_adp=pro	h	poss		
+teop	iar	0273	roanabai	mother.in.law	np.h:a	np	h	a	1112	
+teop	iar	0273	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0273	eve	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1004	
 teop	iar	0273	he	but	other	other				
 teop	iar	0273	sue	say	v:pred	v		pred		
-teop	iar	0274	#ds	#ds	##ds	##ds				
+teop	iar	0274	#	#	##ds	##ds				
 teop	iar	0274	He	he	other	other				
 teop	iar	0274	E	ART1	ln	ln				
-teop	iar	0274	Taguone	Taguone	np.h:voc	np	h	voc		
-teop	iar	0275	#ds	#ds	##ds	##ds				
-teop	iar	0275	enaa	1SG.PRON	pro.1:s	pro	1	s		
+teop	iar	0274	Taguone	Taguone	np.h:voc	np	h	voc	1004	
+teop	iar	0275	#	#	##ds	##ds				
+teop	iar	0275	enaa	1SG.PRON	pro.1:s	pro	1	s	1112	
 teop	iar	0275	paa	TAM3	lv	lv				
 teop	iar	0275	umee	forget	v:pred	v		pred		
 teop	iar	0275	vuru	long.time.ago	other	other				
-teop	iar	0276	#ds	#ds	##ds	##ds				
-teop	iar	0276	enaa	1SG.PRON	pro.1:a	pro	1	a		
+teop	iar	0276	#	#	##ds	##ds				
+teop	iar	0276	enaa	1SG.PRON	pro.1:a	pro	1	a	1112	
 teop	iar	0276	paa	TAM3	lv	lv				
 teop	iar	0276	umee	forget	v:pred	v		pred		
 teop	iar	0276	vuru	long.time.ago	other	other				
-teop	iar	0276	#cc	#cc	#cc:p	#cc		p		
+teop	iar	0276	#	#	#cc:p	#cc		p		
 teop	iar	0276	tea	COMP1	other	other				
 teop	iar	0276	sue	say	vother:pred	vother		pred		
-teop	iar	0277	#ds	#ds	##ds	##ds				
-teop	iar	0277	eara	1PL.IN.PRON	pl_pro.1:s	pl_pro	1	s		
+teop	iar	0277	#	#	##ds	##ds				
+teop	iar	0277	eara	1PL.IN.PRON	pl_pro.1:s	pl_pro	1	s	1118	
 teop	iar	0277	re	CONSEC	other	other				
 teop	iar	0277	vakahu	hurry	v:pred	v		pred		
 teop	iar	0277	te	PREP	adp	adp				
 teop	iar	0277	=a	=ART2.SG	=ln	=ln				
-teop	iar	0277	masi	dry.reef	np:g	np		g		
-teop	iar	0278	#ds	#ds	##ds	##ds				
+teop	iar	0277	masi	dry.reef	np:g	np		g	1126	bridging
+teop	iar	0278	#	#	##ds	##ds				
 teop	iar	0278	O	ART3.SG	ln	ln				
-teop	iar	0278	puhana	high.tide	np:s	np		s		
+teop	iar	0278	puhana	high.tide	np:s	np		s	1124	
 teop	iar	0278	paa	TAM3	lv	lv				
 teop	iar	0278	beera	big	v:pred	v		pred		
 teop	iar	0278	vaevuru	already	other	other				
 teop	iar	0279	#	#	##	##				
 teop	iar	0279	me	and4	other	other				
-teop	iar	0279	Taguone	Taguone	np.h:s	np	h	s		
+teop	iar	0279	Taguone	Taguone	np.h:s	np	h	s	1004	
 teop	iar	0279	paa	TAM3	lv	lv				
 teop	iar	0279	buno	move	v:pred	v		pred		
-teop	iar	0280	#cc	#cc	#cc:g	#cc		g		
+teop	iar	0280	#	#	#cc:g	#cc		g		
 teop	iar	0280	tea	COMP1	other	other				
 teop	iar	0280	tabin	turn	vother:pred	vother		pred		
 teop	iar	0280	voosu	go.home	rv	rv				
 teop	iar	0280	vo	GOAL	rv	rv				
-teop	iar	0280	#cc	#cc	#cc:g	#cc		g		
+teop	iar	0280	#	#	#cc:g	#cc		g		
 teop	iar	0280	tea	COMP1	other	other				
 teop	iar	0280	nao	go	vother:pred	vother		pred		
 teop	iar	0281	#	#	##	##				
 teop	iar	0281	ahaiki	no	other	other				
-teop	iar	0281	puhana	high.tide	np:s	np		s		
+teop	iar	0281	puhana	high.tide	np:s	np		s	1124	
 teop	iar	0281	paa	TAM3	lv	lv				
 teop	iar	0281	beera	big	v:pred	v		pred		
 teop	iar	0281	vaevuru	already	other	other				
-teop	iar	0282			#nc	#nc				
+teop	iar	0282	#	#	#nc	#nc				
+teop	iar	0282	NC	NC	nc	nc				
 teop	iar	0283	#	#	##	##				
 teop	iar	0283	me	and4=ART1	other	other				
-teop	iar	0283	roanabai	mother.in.law	np.h:s	np	h	s		
-teop	iar	0283	teve	PREP.3SG.PRON	rn_adp=pro.h:poss	rn_adp=pro	h	poss		
+teop	iar	0283	roanabai	mother.in.law	np.h:s	np	h	s	1112	
+teop	iar	0283	te=	PREP=	=rn_adp	=rn_adp				
+teop	iar	0283	eve	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1004	
 teop	iar	0283	paa	TAM3	lv	lv				
 teop	iar	0283	nao	go	v:pred	v		pred		
 teop	iar	0284	#	#	##	##				
-teop	iar	0284	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0284	ZERO	3SG.ZERO	0.h:s	0	h	s	1112	
 teop	iar	0284	paa	TAM3	lv	lv				
 teop	iar	0284	nao	go	v:pred	v		pred		
 teop	iar	0284	#	#	##	##				
 teop	iar	0284	me	and4	other	other				
-teop	iar	0284	ZERO	ZERO	0.h:s	0	h	s		
+teop	iar	0284	ZERO	ZERO	0.h:s	0	h	s	1112	
 teop	iar	0284	takin	go.out.of.water	v:pred	v		pred		
 teop	iar	0285	#	#	##	##				
 teop	iar	0285	me	and4	other	other				
-teop	iar	0285	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0285	ZERO	3SG.ZERO	0.h:s	0	h	s	1112	
 teop	iar	0285	takin	go.out.of.water	v:pred	v		pred		
 teop	iar	0285	te	PREP	adp	adp				
 teop	iar	0285	=a	=ART2.SG	=ln	=ln				
-teop	iar	0285	masi	dry.reef	np:g	np		g		
+teop	iar	0285	masi	dry.reef	np:g	np		g	1126	
 teop	iar	0286	#	#	##	##				
 teop	iar	0286	me	and4=ART1	other	other				
-teop	iar	0286	Taguone	Taguone	np.h:dt	np	h	dt		
+teop	iar	0286	Taguone	Taguone	np.h:dt	np	h	dt	1004	
 teop	iar	0286	he	but	other	other				
 teop	iar	0286	paa	TAM3	lv	lv				
 teop	iar	0286	ponis	heavy	v:pred	v		pred		
 teop	iar	0286	vaevuru	already	rv	rv				
 teop	iar	0286	maa	hither	rv	rv				
-teop	iar	0286	suin	body	np:s	np		s		
+teop	iar	0286	suin	body	np:s	np		s	1099	
 teop	iar	0286	na	3SG.POSS	rn_pro.h:poss	rn_pro	h	poss		
-teop	iar	0286	=e	=3SG.PRON	=pro.h:poss	=pro	h	poss		
+teop	iar	0286	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	1004	
 teop	iar	0287	#	#	##	##				
 teop	iar	0287	me	and4	other	other				
-teop	iar	0287	ZERO	3SG.ZERO	0.h:a	0	h	a		
+teop	iar	0287	ZERO	3SG.ZERO	0.h:a	0	h	a	1004	
 teop	iar	0287	paa	TAM3	lv	lv				
 teop	iar	0287	nagu	exhausted	v:pred	v		pred		
 teop	iar	0287	bata	along	rv	rv				
 teop	iar	0287	mana	finally	other	other				
-teop	iar	0287	#cc	#cc	#cc:p	#cc		p		
+teop	iar	0287	#	#	#cc:p	#cc		p		
 teop	iar	0287	tea	COMP1	other	other				
 teop	iar	0287	pita	walk	vother:pred	vother		pred		
 teop	iar	0288	#	#	##	##				
 teop	iar	0288	o	ART3.SG	ln	ln				
-teop	iar	0288	puhana	high.tide	np:s	np		s		
+teop	iar	0288	puhana	high.tide	np:s	np		s	1124	
 teop	iar	0288	paa	TAM3	lv	lv				
 teop	iar	0288	antee	reach	v:pred	v		pred		
-teop	iar	0288	vo=	GOAL	rv=	rv=				
+teop	iar	0288	vo=	GOAL=	=rv	=rv				
 teop	iar	0288	enei	here	adv_other:g	adv_other		g		
 teop	iar	0289	#	#	##	##				
-teop	iar	0289	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0289	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0289	na	TAM2	lv	lv				
 teop	iar	0289	ponisi	heavy	v:pred	v		pred		
 teop	iar	0289	bata	along	rv	rv				
-teop	iar	0289	maa=	hither=	rv=	rv=				
-teop	iar	0289	na	3SG.IPFV	rv-pro.h:s	rv-pro	h	s		
+teop	iar	0289	maa=	hither=	=rv	=rv				
+teop	iar	0289	na	3SG.IPFV	rv-pro_h_s	rv-pro_h_s				
 teop	iar	0290	#	#	##	##				
 teop	iar	0290	Erau	then	other	other				
 teop	iar	0290	te	PREP	adp	adp				
@@ -2428,23 +2456,24 @@ teop	iar	0290	=o	=ART3.SG	=ln	=ln
 teop	iar	0290	vuri	time	np:other	np		other		
 teop	iar	0290	bona	ANA	rn	rn				
 teop	iar	0291	e	ART1	ln	ln				
-teop	iar	0291	roanabai	mother.in.law	np.h:s	np	h	s		
-teop	iar	0291	teve	PREP.3SG.PRON	rn_adp=pro.h:poss	rn_adp=pro	h	poss		
+teop	iar	0291	roanabai	mother.in.law	np.h:s	np	h	s	1112	
+teop	iar	0291	te=	PREP=	=rn_adp	=rn_adp			1004	
+teop	iar	0291	eve	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss		
 teop	iar	0291	paa	TAM3	lv	lv				
 teop	iar	0291	nao	go	v:pred	v		pred		
 teop	iar	0291	te	PREP	adp	adp				
 teop	iar	0291	=a	=ART2.SG	=ln	=ln				
-teop	iar	0291	masi	dry.reef	np:g	np		g		
+teop	iar	0291	masi	dry.reef	np:g	np		g	1126	
 teop	iar	0292	#	#	##	##				
-teop	iar	0292	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0292	ZERO	3SG.ZERO	0.h:s	0	h	s	1112	
 teop	iar	0292	sun	stand	v:pred	v		pred		
 teop	iar	0292	vaevuru	already	other	other				
 teop	iar	0292	te	PREP	adp	adp				
 teop	iar	0292	=a	=ART2.SG	=ln	=ln				
-teop	iar	0292	masi	dry.reef	np:g	np		g		
+teop	iar	0292	masi	dry.reef	np:g	np		g	1126	
 teop	iar	0293	#	#	##	##				
 teop	iar	0293	e	ART1	ln	ln				
-teop	iar	0293	Taguone	Taguone	np.h:s	np	h	s		
+teop	iar	0293	Taguone	Taguone	np.h:s	np	h	s	1004	
 teop	iar	0293	paa	TAM3	lv	lv				
 teop	iar	0293	ponisi	heavy	v:pred	v		pred		
 teop	iar	0293	vaevuru	already	other	other				
@@ -2452,49 +2481,51 @@ teop	iar	0294	#	#	##	##
 teop	iar	0294	paa	TAM3	lv	lv				
 teop	iar	0294	huun	liquid	v:pred	v		pred		
 teop	iar	0294	a	ART2.SG	ln	ln				
-teop	iar	0294	suin-na	body-3SG.POSS	np:s	np		s		
-teop	iar	0294	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss		
+teop	iar	0294	suin-na	body-3SG.POSS	np:s	np		s	1099	
+teop	iar	0294	=e	=3SG.PRON	=rn_pro.h:poss	=rn_pro	h	poss	1004	
 teop	iar	0295	#	#	##	##				
-teop	iar	0295	ZERO	3SG.ZERO	0:s	0		s		
+teop	iar	0295	ZERO	3SG.ZERO	0:s	0		s	1099	
 teop	iar	0295	paa	TAM3	lv	lv				
 teop	iar	0295	muraka	soft	v:pred	v		pred		
 teop	iar	0295	#	#	##	##				
 teop	iar	0295	me	and4	other	other				
-teop	iar	0295	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0295	ZERO	3SG.ZERO	0.h:s	0	h	s	1099	
 teop	iar	0295	paa	TAM3	lv	lv				
 teop	iar	0295	ta-verete	ACAUS-turn	v:pred	v		pred		
 teop	iar	0295	tahii	salt.water	rv	rv				
 teop	iar	0296	#	#	##	##				
 teop	iar	0296	me	and4	other	other				
-teop	iar	0296	ZERO	3SG.ZERO	0:s	0		s		
+teop	iar	0296	ZERO	3SG.ZERO	0:s	0		s	1099	
 teop	iar	0296	paa	TAM3	lv	lv				
 teop	iar	0296	rova	disappear	v:pred	v		pred		
-teop	iar	0296	koma-n=	inside-3SG.POSS=	np:l-pro:poss	np		l-pro:poss		
+teop	iar	0296	koma	inside	np:l	np		l		
+teop	iar	0296	-n=	-3SG.POSS=	-rn_pro:poss	-rn_pro		poss		
 teop	iar	0296	a	ART2.SG	rn	rn				
-teop	iar	0296	tahii	sea	rn_np:poss	rn_np		poss		
+teop	iar	0296	tahii	sea	rn_np:poss	rn_np		poss	1100	
 teop	iar	0297	#	#	##	##				
 teop	iar	0297	Me	and4	other	other				
 teop	iar	0297	paa	TAM3	lv	lv				
 teop	iar	0297	voosu	go.home	v:pred	v		pred		
 teop	iar	0297	e	ART1.SG	ln	ln				
-teop	iar	0297	sina-na=	mother-3SG.POSS	np.h:s-pro.h:poss	np	h	s-pro.h:poss		
-teop	iar	0297	e	3SG.PRON	pro.h:poss	pro	h	poss		
+teop	iar	0297	sina	mother	np.h:s	np	h	s	1010	
+teop	iar	0297	-na=	-3SG.POSS=	-rn_pro.h:poss	-rn_pro	h	poss		
+teop	iar	0297	e	3SG.PRON	rn_pro.h:poss	rn_pro	h	poss	1004	
 teop	iar	0298	#	#	##	##				
-teop	iar	0298	ZERO	3SG.ZERO	0.h:a	0	h	a		
+teop	iar	0298	ZERO	3SG.ZERO	0.h:a	0	h	a	1010	
 teop	iar	0298	paa	TAM3	lv	lv				
 teop	iar	0298	vaakoara	swear.at	v:pred	v		pred		
 teop	iar	0298	me	and4	rv	rv				
 teop	iar	0298	vaakoara	swear.at	rv	rv				
 teop	iar	0298	bene	OBJ:ART1.SG	ln	ln				
-teop	iar	0298	roanabai	mother-in-law	np.h:p	np	h	p		
+teop	iar	0298	roanabai	mother-in-law	np.h:p	np	h	p	1112	
 teop	iar	0298	te	PREP.ART1	rn	rn				
-teop	iar	0298	Taguone	Taguone	rn_np.h:poss	rn_np	h	poss		
+teop	iar	0298	Taguone	Taguone	rn_np.h:poss	rn_np	h	poss	1004	
 teop	iar	0299	#	#	##	##				
 teop	iar	0299	Eve	3SG.PRON	pro:s	pro		s		
 teop	iar	0299	koa	just	other	other				
 teop	iar	0299	o	ART3.SG	ln	ln				
 teop	iar	0299	hutate	story	np:pred	np		pred		
-teop	iar	0299	#		##	##				
+teop	iar	0299	#	#	##	##				
 teop	iar	0299	me	and4	other	other				
 teop	iar	0299	ZERO	3SG.ZERO	0:s	0		s		
 teop	iar	0299	kavara	finished	v:pred	v		pred		
