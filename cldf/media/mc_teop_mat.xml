@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2207">
+<multicast version="2211">
  <corpus c_name="teop">
   <text t_name="mat" annotators="Ulrike Mosel, Stefan Schnell" speaker="TP02">
-   <file f_name="mc_teop_mat" audio="mc_teop_mat.wav" updated="2022-03-18">
+   <file f_name="mc_teop_mat" audio="mc_teop_mat.wav" updated="2022-07-25">
     <unit uid="0001" start_time="0" end_time="4221">
      <utterance_id>teop_mat_0001</utterance_id>
      <utterance>Teitei roho a peha vaan.</utterance>
@@ -1357,7 +1357,6 @@
        <gloss>2SG.ZERO</gloss>
        <graid>0.2:s</graid>
        <refind>2006</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>Mirin</gword>

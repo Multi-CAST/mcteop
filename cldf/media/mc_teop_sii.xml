@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2207">
+<multicast version="2211">
  <corpus c_name="teop">
   <text t_name="sii" annotators="Ulrike Mosel, Stefan Schnell" speaker="TP03">
-   <file f_name="mc_teop_sii" audio="mc_teop_sii.wav" updated="2021-03-07">
+   <file f_name="mc_teop_sii" audio="mc_teop_sii.wav" updated="2022-07-25">
     <unit uid="0001" start_time="0" end_time="5518">
      <utterance_id>teop_sii_0001</utterance_id>
      <utterance>A - nabunuu a peha roosuu na teitei roho,</utterance>
@@ -2811,7 +2811,6 @@
        <gloss>jungle</gloss>
        <graid>np:g</graid>
        <refind>3013</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>#</gword>
