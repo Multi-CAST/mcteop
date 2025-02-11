@@ -5,7 +5,7 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Mosel, Ulrike & Schnell, Stefan. 2019. Multi-CAST Teop. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1908. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#teop) (date accessed)",
+    "dc:bibliographicCitation": "Mosel, Ulrike & Schnell, Stefan. 2021. Multi-CAST Teop. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2101. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#teop) (date accessed)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TextCorpus",
     "dc:description": "**Teop** ([teop1238](https://glottolog.org/resource/languoid/id/teop1238)) is a Western Oceanic language spoken on Bougainville Island, Papua New Guinea. The texts, all traditional narratives, were recorded by Ulrike Mosel and Enoch Horai Magum over the course of a [language documentation project](http://dobes.mpi.nl/projects/teop/) (principal investigator: Ulrike Mosel) funded by the Volkswagen Foundation (grant no. II 77 973). Details on the project can be found online at [the DOBES webpage](http://dobes.mpi.nl/projects/teop/).\n\nA sketch grammar of Teop ([Mosel & Thiesen 2007](Source#cldf:mosel.thiesen2007)) and additional materials are also available there, and an online dictionary (*[A multifunctional Teop-English dictionary](https://dictionaria.clld.org/contributions/teop)*, [Mosel 2019](Source#cldf:mosel2019)) can be found [here](https://dictionaria.clld.org/contributions/teop). The texts were annotated for Multi-CAST by Ulrike Mosel and Stefan Schnell; referent indexing with RefIND was added in 2019 by Ulrike Mosel, Stefan Schnell, and Maria Vollmer.\n\nThe Multi-CAST Teop texts (version 2207) also constitute a part of the [Teop data set](https://doreco.huma-num.fr/languages/teop1238) in [DoReCo](https://doreco.huma-num.fr/), which has been time-aligned at the phone level.",
     "dc:identifier": "https://multicast.aspra.uni-bamberg.de/#teop",
@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Multi-CAST/mcteop",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1905",
+            "dc:created": "v1908",
             "dc:title": "Repository"
         },
         {

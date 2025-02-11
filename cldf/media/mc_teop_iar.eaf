@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2019-08-25T08:11:42+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2020-09-20T03:10:26+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_teop_iar.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:b7eb0055-6960-4bb3-8d3c-e381cf00d23f</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">120295</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">120296</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
@@ -2366,7 +2366,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a106633" ANNOTATION_REF="a53">
-                <ANNOTATION_VALUE>evehee na kahi potee maana bono - o tagu koa,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>evehee na kahi potee maana bono -- o tagu koa,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25155,7 +25155,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a111091" ANNOTATION_REF="a108568">
-                <ANNOTATION_VALUE>4SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>4SG.ZERO</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -34717,32 +34717,32 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a112956" ANNOTATION_REF="a110433">
-                <ANNOTATION_VALUE>v:pred</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a112957" ANNOTATION_REF="a110434">
-                <ANNOTATION_VALUE>v:pred</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a112958" ANNOTATION_REF="a110435">
-                <ANNOTATION_VALUE>v:pred</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a112959" ANNOTATION_REF="a110436">
-                <ANNOTATION_VALUE>v:pred</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a112960" ANNOTATION_REF="a110437">
-                <ANNOTATION_VALUE>v:pred</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a112961" ANNOTATION_REF="a110438">
-                <ANNOTATION_VALUE>v:pred</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -35117,7 +35117,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a113035" ANNOTATION_REF="a110512">
-                <ANNOTATION_VALUE>pl_0.h:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pl_0.2:s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -42257,7 +42257,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a114408" ANNOTATION_REF="a111885">
-                <ANNOTATION_VALUE>0.h:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0:s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -43064,6 +43064,11 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a115186" ANNOTATION_REF="a112668">
+                <ANNOTATION_VALUE>1004</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120296" ANNOTATION_REF="a112673">
                 <ANNOTATION_VALUE>1004</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -45563,7 +45568,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119455" ANNOTATION_REF="a106583">
-                <ANNOTATION_VALUE>I am going to tell a -</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>I am going to tell a --</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -45583,12 +45588,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119459" ANNOTATION_REF="a106587">
-                <ANNOTATION_VALUE>Taguone was - was a person</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Taguone was -- was a person</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119460" ANNOTATION_REF="a106588">
-                <ANNOTATION_VALUE>but a little - only a little thing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>but a little -- only a little thing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -45598,7 +45603,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119462" ANNOTATION_REF="a106590">
-                <ANNOTATION_VALUE>A - a - we used it for</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A -- a -- we used it for</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -45678,7 +45683,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119478" ANNOTATION_REF="a106606">
-                <ANNOTATION_VALUE>and stored (it) - on her shelf,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and stored (it) -- on her shelf,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -45708,7 +45713,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119484" ANNOTATION_REF="a106612">
-                <ANNOTATION_VALUE>The kepaa - clay pot and the big pot,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>The kepaa -- clay pot and the big pot,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -45763,12 +45768,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119495" ANNOTATION_REF="a106623">
-                <ANNOTATION_VALUE>And (it) stayed and stayed and stayed and -</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>And (it) stayed and stayed and stayed and --</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119496" ANNOTATION_REF="a106624">
-                <ANNOTATION_VALUE>one - one day</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>one -- one day</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -45778,7 +45783,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119498" ANNOTATION_REF="a106626">
-                <ANNOTATION_VALUE>(she) heard it - (she) heard it,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>(she) heard it -- (she) heard it,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -45813,7 +45818,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119505" ANNOTATION_REF="a106633">
-                <ANNOTATION_VALUE>but it looked like a - just a lump,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>but it looked like a -- just a lump,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -45828,7 +45833,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119508" ANNOTATION_REF="a106636">
-                <ANNOTATION_VALUE>(It )was splitting open,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>(It) was splitting open,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -45873,12 +45878,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119517" ANNOTATION_REF="a106645">
-                <ANNOTATION_VALUE>Then they opened the pot again a second time -</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Then they opened the pot again a second time --</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119518" ANNOTATION_REF="a106646">
-                <ANNOTATION_VALUE>an other time - and they saw the little person -</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>an other time -- and they saw the little person --</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -45893,12 +45898,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119521" ANNOTATION_REF="a106649">
-                <ANNOTATION_VALUE>the lump - the lump of clay appeared to be a person.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>the lump -- the lump of clay appeared to be a person.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119522" ANNOTATION_REF="a106650">
-                <ANNOTATION_VALUE>(It) looked like a - a chicken lump - chicken egg.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>(It) looked like a -- a chicken lump -- chicken egg.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -45928,7 +45933,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119528" ANNOTATION_REF="a106656">
-                <ANNOTATION_VALUE>Now perhaps we look at the - (lit. Now perhaps, what we look at is)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Now perhaps we look at the -- [lit. now perhaps, what we look at is]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -45968,7 +45973,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119536" ANNOTATION_REF="a106664">
-                <ANNOTATION_VALUE>A piece of stone - clay became the child."</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A piece of stone -- clay became the child."</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46008,7 +46013,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119544" ANNOTATION_REF="a106672">
-                <ANNOTATION_VALUE>(they) got the child now, and they -</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>(they) got the child now, and they --</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46048,7 +46053,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119552" ANNOTATION_REF="a106680">
-                <ANNOTATION_VALUE>and (when) they had something to eat (lit. could themselves eat),</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and (when) they had something to eat [lit. could themselves eat],</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46083,7 +46088,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119559" ANNOTATION_REF="a106687">
-                <ANNOTATION_VALUE>and they made a - a - a feast,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and they made a -- a -- a feast,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46108,7 +46113,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119564" ANNOTATION_REF="a106692">
-                <ANNOTATION_VALUE>taro, banana and yams.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>taro, banana, and yams.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46158,7 +46163,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119574" ANNOTATION_REF="a106702">
-                <ANNOTATION_VALUE>we'll - we'll go fishing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>we'll -- we'll go fishing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46178,7 +46183,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119578" ANNOTATION_REF="a106706">
-                <ANNOTATION_VALUE>we'll let it go around in the - in the piuvu dance</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>we'll let it go around in the -- in the piuvu dance</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46193,7 +46198,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119581" ANNOTATION_REF="a106709">
-                <ANNOTATION_VALUE>then they waited, waited, waited, waited, waited, waited, waited for a very long time, the - the</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>then they waited, waited, waited, waited, waited, waited, waited for a very long time, the -- the</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46213,7 +46218,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119585" ANNOTATION_REF="a106713">
-                <ANNOTATION_VALUE>The woman - the child is already mature,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>The woman -- the child is already mature,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46248,7 +46253,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119592" ANNOTATION_REF="a106720">
-                <ANNOTATION_VALUE>to the house of the chief and they -</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to the house of the chief and they --</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46283,12 +46288,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119599" ANNOTATION_REF="a106727">
-                <ANNOTATION_VALUE>you carry them home and put (them) in - in my house.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>you carry them home and put (them) in -- in my house.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119600" ANNOTATION_REF="a106728">
-                <ANNOTATION_VALUE>You, the men, bring the fish, you -</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>You, the men, bring the fish, you --</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46298,12 +46303,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119602" ANNOTATION_REF="a106730">
-                <ANNOTATION_VALUE>Your women too will come to bake the - the taros.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Your women too will come to bake the -- the taros.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119603" ANNOTATION_REF="a106731">
-                <ANNOTATION_VALUE>We are - we are going to perform</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>We are -- we are going to perform</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46318,12 +46323,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119606" ANNOTATION_REF="a106734">
-                <ANNOTATION_VALUE>went fishing perhaps for one - one week,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>went fishing perhaps for one -- one week,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119607" ANNOTATION_REF="a106735">
-                <ANNOTATION_VALUE>the men - while they were getting ready,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>the men -- while they were getting ready,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46343,7 +46348,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119611" ANNOTATION_REF="a106739">
-                <ANNOTATION_VALUE>we'll make the feast, we'll -</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>we'll make the feast, we'll --</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46368,7 +46373,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119616" ANNOTATION_REF="a106744">
-                <ANNOTATION_VALUE>said the - the man, (was like what the man said)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>said the -- the man, (was like what the man said)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46378,7 +46383,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119618" ANNOTATION_REF="a106746">
-                <ANNOTATION_VALUE>we'll let (her) go out, the name of the - the -</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>we'll let (her) go out, the name of the -- the --</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46388,12 +46393,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119620" ANNOTATION_REF="a106748">
-                <ANNOTATION_VALUE>Then they did the baking and they -</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Then they did the baking and they --</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119621" ANNOTATION_REF="a106749">
-                <ANNOTATION_VALUE>roast - baked the fish</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>roast -- baked the fish</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46423,7 +46428,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119627" ANNOTATION_REF="a106755">
-                <ANNOTATION_VALUE>did the baking during the day, and in the night they came together -</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>did the baking during the day, and in the night they came together --</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46458,7 +46463,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119634" ANNOTATION_REF="a106762">
-                <ANNOTATION_VALUE>Her mother prepared the - her belts</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Her mother prepared the -- her belts</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46468,12 +46473,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119636" ANNOTATION_REF="a106764">
-                <ANNOTATION_VALUE>and the - and her things from the bush (nicely smelling leaves),</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and the -- and her things from the bush (nicely smelling leaves),</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119637" ANNOTATION_REF="a106765">
-                <ANNOTATION_VALUE>they made the - tied them here around her legs.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>they made the -- tied them here around her legs.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46493,7 +46498,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119641" ANNOTATION_REF="a106769">
-                <ANNOTATION_VALUE>but they had already said,"Her name is Taguone."</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>but they had already said, "Her name is Taguone."</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46513,17 +46518,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119645" ANNOTATION_REF="a106773">
-                <ANNOTATION_VALUE>[UNCLEAR] you must go, you come and look at -</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[UNCLEAR] you must go, you come and look at --</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119646" ANNOTATION_REF="a106774">
-                <ANNOTATION_VALUE>at Taguone who -</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>at Taguone who --</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119647" ANNOTATION_REF="a106775">
-                <ANNOTATION_VALUE>come - who they are going around with in the dance."</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>come -- who they are going around with in the dance."</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46553,7 +46558,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119653" ANNOTATION_REF="a106781">
-                <ANNOTATION_VALUE>And they held the - Taguone's belts</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>And they held the -- Taguone's belts</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46583,7 +46588,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119659" ANNOTATION_REF="a106787">
-                <ANNOTATION_VALUE>wanted her to - to - to what? to marry (her),</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>wanted her to -- to -- to what? to marry (her),</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46633,7 +46638,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119669" ANNOTATION_REF="a106797">
-                <ANNOTATION_VALUE>ah - bathe in the river.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ah -- bathe in the river.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46743,7 +46748,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119691" ANNOTATION_REF="a106819">
-                <ANNOTATION_VALUE>that she was going to eat, Taguone's people (lit line/group),</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>that she was going to eat, Taguone's people [lit. line/group],</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46808,7 +46813,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119704" ANNOTATION_REF="a106832">
-                <ANNOTATION_VALUE>fished [STUTTERING]- the women's kind of fishing,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>fished [STUTTERING] the women's kind of fishing,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46828,12 +46833,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119708" ANNOTATION_REF="a106836">
-                <ANNOTATION_VALUE>so that there are many, many different kinds of things (lit. so that different kinds of things are many)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>so that there are many, many different kinds of things [lit. so that different kinds of things are many]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119709" ANNOTATION_REF="a106837">
-                <ANNOTATION_VALUE>to cook. (lit: so that they come and cook them)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to cook [lit. so that they come and cook them].</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46858,7 +46863,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119714" ANNOTATION_REF="a106842">
-                <ANNOTATION_VALUE>should have said - should have called,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>should have said -- should have called,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46913,7 +46918,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119725" ANNOTATION_REF="a106853">
-                <ANNOTATION_VALUE>She - the - but her mother-in-law said,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>She -- the -- but her mother-in-law said,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46943,7 +46948,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119731" ANNOTATION_REF="a106859">
-                <ANNOTATION_VALUE>And - and Taguone moved to -</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>And -- and Taguone moved to --</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46958,7 +46963,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119734" ANNOTATION_REF="a106862">
-                <ANNOTATION_VALUE>and her mother-in-law -</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and her mother-in-law --</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -47013,7 +47018,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119745" ANNOTATION_REF="a106873">
-                <ANNOTATION_VALUE>Taguone had already become heavy -</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Taguone had already become heavy --</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

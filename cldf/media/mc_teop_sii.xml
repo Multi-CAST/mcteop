@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1908">
+<multicast version="2101">
     <corpus c_name="teop">
         <text t_name="sii" annotators="Ulrike Mosel, Stefan Schnell" speaker="TP03">
-            <file f_name="mc_teop_sii" audio="mc_teop_sii.wav" updated="2019-08-25">
+            <file f_name="mc_teop_sii" audio="mc_teop_sii.wav" updated="2020-09-14">
                 <unit uid="0001" start_time="0" end_time="5518">
                     <utterance_id>teop_sii_0001</utterance_id>
                     <utterance>A - nabunuu a peha roosuu na teitei roho,</utterance>
@@ -128,7 +128,7 @@
                         <segment>
                             <gword>ta-verete</gword>
                             <gloss>ACAUS-change</gloss>
-                            <graid>vother:pred</graid>
+                            <graid>rv</graid>
                         </segment>
                         <segment>
                             <gword>kuruu</gword>
@@ -143,7 +143,7 @@
                         <segment>
                             <gword>ta-verete</gword>
                             <gloss>ACAUS-change</gloss>
-                            <graid>vother:pred</graid>
+                            <graid>rv</graid>
                         </segment>
                         <segment>
                             <gword>toa</gword>
@@ -267,7 +267,7 @@
                         </segment>
                         <segment>
                             <gword>ve</gword>
-                            <gloss>PTCL2</gloss>
+                            <gloss>PRT2</gloss>
                             <graid>rn</graid>
                         </segment>
                         <segment>
@@ -389,7 +389,7 @@
                 <unit uid="0008" start_time="27765" end_time="30615">
                     <utterance_id>teop_sii_0008</utterance_id>
                     <utterance>Me teo peho bon mea -</utterance>
-                    <utterance_translation>And one day -</utterance_translation>
+                    <utterance_translation>And one day --</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -6820,12 +6820,12 @@
                         <segment>
                             <gword>a</gword>
                             <gloss>ART2.SG</gloss>
-                            <graid>ln</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>maa</gword>
                             <gloss>PLM</gloss>
-                            <graid>pl_np:poss</graid>
+                            <graid>rn_pl_np:poss</graid>
                         </segment>
                         <segment>
                             <gword>kave</gword>
@@ -8624,7 +8624,7 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>3PL.PRON</gloss>
+                            <gloss>3PL.ZERO</gloss>
                             <graid>pl_0.h:a</graid>
                             <refind>3047</refind>
                         </segment>
@@ -12567,7 +12567,7 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>3PL.PRON</gloss>
+                            <gloss>3PL.ZERO</gloss>
                             <graid>pl_0.h:s</graid>
                             <refind>3068</refind>
                         </segment>
@@ -15793,8 +15793,8 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>1PL.IN.PRON</gloss>
-                            <graid>pl_0.h:s</graid>
+                            <gloss>1PL.IN.ZERO</gloss>
+                            <graid>pl_0.1:s</graid>
                             <refind>3011</refind>
                         </segment>
                         <segment>
@@ -16172,6 +16172,11 @@
                             <graid>rn_v</graid>
                         </segment>
                         <segment>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>##ds</graid>
+                        </segment>
+                        <segment>
                             <gword>bara</gword>
                             <gloss>and2</gloss>
                             <graid>conj_other</graid>
@@ -16243,7 +16248,7 @@
                         <segment>
                             <gword>aba</gword>
                             <gloss>person</gloss>
-                            <graid>pl_np.h:pred</graid>
+                            <graid>pl_np.h:other</graid>
                         </segment>
                         <segment>
                             <gword>vaa</gword>
@@ -20818,7 +20823,7 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>(anything)</gloss>
+                            <gloss>ZERO</gloss>
                             <graid>0:s</graid>
                         </segment>
                     </annotations>
@@ -22892,7 +22897,7 @@
                         <segment>
                             <gword>toraara</gword>
                             <gloss>axe</gloss>
-                            <graid>rn_np:p</graid>
+                            <graid>rn_np</graid>
                             <refind>3136</refind>
                             <isnref>bridging</isnref>
                         </segment>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1908">
+<multicast version="2101">
     <corpus c_name="teop">
         <text t_name="iar" annotators="Ulrike Mosel, Stefan Schnell" speaker="TP01">
-            <file f_name="mc_teop_iar" audio="mc_teop_iar.wav" updated="2019-08-25">
+            <file f_name="mc_teop_iar" audio="mc_teop_iar.wav" updated="2020-09-20">
                 <unit uid="0001" start_time="0" end_time="1843">
                     <utterance_id>teop_iar_0001</utterance_id>
                     <utterance>Bara.</utterance>
@@ -60,7 +60,7 @@
                 <unit uid="0003" start_time="5708" end_time="8974">
                     <utterance_id>teop_iar_0003</utterance_id>
                     <utterance>Enaa kahi vahutate nom a -</utterance>
-                    <utterance_translation>I am going to tell a -</utterance_translation>
+                    <utterance_translation>I am going to tell a --</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -252,7 +252,7 @@
                 <unit uid="0007" start_time="22246" end_time="26918">
                     <utterance_id>teop_iar_0007</utterance_id>
                     <utterance>e Taguone na - na aba roho</utterance>
-                    <utterance_translation>Taguone was - was a person</utterance_translation>
+                    <utterance_translation>Taguone was -- was a person</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>e</gword>
@@ -285,7 +285,7 @@
                 <unit uid="0008" start_time="26918" end_time="31200">
                     <utterance_id>teop_iar_0008</utterance_id>
                     <utterance>evehee o - a sii - o sii taba koa o sii -</utterance>
-                    <utterance_translation>but a little - only a little thing</utterance_translation>
+                    <utterance_translation>but a little -- only a little thing</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -366,7 +366,7 @@
                 <unit uid="0010" start_time="33574" end_time="35807">
                     <utterance_id>teop_iar_0010</utterance_id>
                     <utterance>O - o - enam na ius ni nom ee</utterance>
-                    <utterance_translation>A - a - we used it for</utterance_translation>
+                    <utterance_translation>A -- a -- we used it for</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -1193,7 +1193,7 @@
                 <unit uid="0026" start_time="80933" end_time="85608">
                     <utterance_id>teop_iar_0026</utterance_id>
                     <utterance>me paa vaatii roho tea - teo poa teve</utterance>
-                    <utterance_translation>and stored (it) - on her shelf,</utterance_translation>
+                    <utterance_translation>and stored (it) -- on her shelf,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -1508,7 +1508,7 @@
                 <unit uid="0032" start_time="103682" end_time="107214">
                     <utterance_id>teop_iar_0032</utterance_id>
                     <utterance>O kepaa ae a nahu a beera,</utterance>
-                    <utterance_translation>The kepaa - clay pot and the big pot,</utterance_translation>
+                    <utterance_translation>The kepaa -- clay pot and the big pot,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -2176,7 +2176,7 @@
                 <unit uid="0043" start_time="139092" end_time="141956">
                     <utterance_id>teop_iar_0043</utterance_id>
                     <utterance>Me tei me tei me tei me tei mea –</utterance>
-                    <utterance_translation>And (it) stayed and stayed and stayed and -</utterance_translation>
+                    <utterance_translation>And (it) stayed and stayed and stayed and --</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -2267,7 +2267,7 @@
                 <unit uid="0044" start_time="141956" end_time="144173">
                     <utterance_id>teop_iar_0044</utterance_id>
                     <utterance>a peha a - peho vuri</utterance>
-                    <utterance_translation>one - one day</utterance_translation>
+                    <utterance_translation>one -- one day</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>NC</gword>
@@ -2357,7 +2357,7 @@
                 <unit uid="0046" start_time="147897" end_time="150381">
                     <utterance_id>teop_iar_0046</utterance_id>
                     <utterance>to baitono bona - na baitono bona</utterance>
-                    <utterance_translation>(she) heard it - (she) heard it,</utterance_translation>
+                    <utterance_translation>(she) heard it -- (she) heard it,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -2648,8 +2648,8 @@
                 </unit>
                 <unit uid="0053" start_time="168115" end_time="171628">
                     <utterance_id>teop_iar_0053</utterance_id>
-                    <utterance>evehee na kahi potee maana bono - o tagu koa,</utterance>
-                    <utterance_translation>but it looked like a - just a lump,</utterance_translation>
+                    <utterance>evehee na kahi potee maana bono -- o tagu koa,</utterance>
+                    <utterance_translation>but it looked like a -- just a lump,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -2793,7 +2793,7 @@
                 <unit uid="0056" start_time="176218" end_time="178091">
                     <utterance_id>teop_iar_0056</utterance_id>
                     <utterance>Na takopaa bata maana,</utterance>
-                    <utterance_translation>(It )was splitting open,</utterance_translation>
+                    <utterance_translation>(It) was splitting open,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3234,7 +3234,7 @@
                 <unit uid="0065" start_time="198633" end_time="201955">
                     <utterance_id>teop_iar_0065</utterance_id>
                     <utterance>Merau meori paa kapa vaha bona nahu tea meha taem -</utterance>
-                    <utterance_translation>Then they opened the pot again a second time -</utterance_translation>
+                    <utterance_translation>Then they opened the pot again a second time --</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3293,7 +3293,7 @@
                 <unit uid="0066" start_time="201955" end_time="205829">
                     <utterance_id>teop_iar_0066</utterance_id>
                     <utterance>teo meho vuri - meori paa tara bona a sii aba na -</utterance>
-                    <utterance_translation>an other time - and they saw the little person -</utterance_translation>
+                    <utterance_translation>an other time -- and they saw the little person --</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>te</gword>
@@ -3448,7 +3448,7 @@
                 <unit uid="0069" start_time="209108" end_time="212685">
                     <utterance_id>teop_iar_0069</utterance_id>
                     <utterance>o tagu - o tagu one na abaaba bata maana.</utterance>
-                    <utterance_translation>the lump - the lump of clay appeared to be a person.</utterance_translation>
+                    <utterance_translation>the lump -- the lump of clay appeared to be a person.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3501,7 +3501,7 @@
                 <unit uid="0070" start_time="212685" end_time="217311">
                     <utterance_id>teop_iar_0070</utterance_id>
                     <utterance>Na potee bata maana bono - o tagu toa - rupi toa.</utterance>
-                    <utterance_translation>(It) looked like a - a chicken lump - chicken egg.</utterance_translation>
+                    <utterance_translation>(It) looked like a -- a chicken lump -- chicken egg.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3835,7 +3835,7 @@
                 <unit uid="0076" start_time="231244" end_time="233981">
                     <utterance_id>teop_iar_0076</utterance_id>
                     <utterance>Ei kasi to tara vo raara teo -</utterance>
-                    <utterance_translation>Now perhaps we look at the - (lit. Now perhaps, what we look at is)</utterance_translation>
+                    <utterance_translation>Now perhaps we look at the -- [lit. now perhaps, what we look at is]</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -4264,7 +4264,7 @@
                 <unit uid="0084" start_time="255333" end_time="257928">
                     <utterance_id>teop_iar_0084</utterance_id>
                     <utterance>E ta vasu - one na paku bona beiko."</utterance>
-                    <utterance_translation>A piece of stone - clay became the child."</utterance_translation>
+                    <utterance_translation>A piece of stone -- clay became the child."</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -4546,6 +4546,7 @@
                             <gword>ZERO</gword>
                             <gloss>3SG.ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>1004</refind>
                         </segment>
                         <segment>
                             <gword>beera</gword>
@@ -4634,7 +4635,7 @@
                 <unit uid="0092" start_time="273795" end_time="275974">
                     <utterance_id>teop_iar_0092</utterance_id>
                     <utterance>gono vai ori a beiko, meori paa -</utterance>
-                    <utterance_translation>(they) got the child now, and they -</utterance_translation>
+                    <utterance_translation>(they) got the child now, and they --</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -4971,7 +4972,7 @@
                 <unit uid="0100" start_time="289223" end_time="292485">
                     <utterance_id>teop_iar_0100</utterance_id>
                     <utterance>meori antee komana tea an,</utterance>
-                    <utterance_translation>and (when) they had something to eat (lit. could themselves eat),</utterance_translation>
+                    <utterance_translation>and (when) they had something to eat [lit. could themselves eat],</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -5297,7 +5298,7 @@
                 <unit uid="0107" start_time="305905" end_time="309506">
                     <utterance_id>teop_iar_0107</utterance_id>
                     <utterance>meori paa paku bono - o peho - o peho paku,</utterance>
-                    <utterance_translation>and they made a - a - a feast,</utterance_translation>
+                    <utterance_translation>and they made a -- a -- a feast,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -5494,7 +5495,7 @@
                 <unit uid="0112" start_time="320451" end_time="323751">
                     <utterance_id>teop_iar_0112</utterance_id>
                     <utterance>a muu, pauna, a voi.</utterance>
-                    <utterance_translation>taro, banana and yams.</utterance_translation>
+                    <utterance_translation>taro, banana, and yams.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>a</gword>
@@ -5983,7 +5984,7 @@
                 <unit uid="0122" start_time="347902" end_time="350486">
                     <utterance_id>teop_iar_0122</utterance_id>
                     <utterance>are e - are paa vagana iana,</utterance>
-                    <utterance_translation>we'll - we'll go fishing</utterance_translation>
+                    <utterance_translation>we'll -- we'll go fishing</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -6180,7 +6181,7 @@
                 <unit uid="0126" start_time="357695" end_time="362075">
                     <utterance_id>teop_iar_0126</utterance_id>
                     <utterance>kahi - kahi vaataviri raara teo - teo piuvu</utterance>
-                    <utterance_translation>we'll let it go around in the - in the piuvu dance</utterance_translation>
+                    <utterance_translation>we'll let it go around in the -- in the piuvu dance</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -6308,7 +6309,7 @@
                 <unit uid="0129" start_time="365931" end_time="374847">
                     <utterance_id>teop_iar_0129</utterance_id>
                     <utterance>Erau tii, tii, tii, tii, tii, tii, tii bona taem sana a - a-</utterance>
-                    <utterance_translation>then they waited, waited, waited, waited, waited, waited, waited for a very long time, the - the</utterance_translation>
+                    <utterance_translation>then they waited, waited, waited, waited, waited, waited, waited for a very long time, the -- the</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>%</gword>
@@ -6334,32 +6335,32 @@
                         <segment>
                             <gword>tii</gword>
                             <gloss>be.there</gloss>
-                            <graid>v:pred</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>tii</gword>
                             <gloss>be.there</gloss>
-                            <graid>v:pred</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>tii</gword>
                             <gloss>be.there</gloss>
-                            <graid>v:pred</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>tii</gword>
                             <gloss>be.there</gloss>
-                            <graid>v:pred</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>tii</gword>
                             <gloss>be.there</gloss>
-                            <graid>v:pred</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>tii</gword>
                             <gloss>be.there</gloss>
-                            <graid>v:pred</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>bona</gword>
@@ -6558,7 +6559,7 @@
                 <unit uid="0133" start_time="384682" end_time="387820">
                     <utterance_id>teop_iar_0133</utterance_id>
                     <utterance>A moon paa - a beiko paa mahura vaevuru,</utterance>
-                    <utterance_translation>The woman - the child is already mature,</utterance_translation>
+                    <utterance_translation>The woman -- the child is already mature,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -6813,7 +6814,7 @@
                         <segment>
                             <gword>ZERO</gword>
                             <gloss>2PL.ZERO</gloss>
-                            <graid>pl_0.h:s</graid>
+                            <graid>pl_0.2:s</graid>
                             <refind>1051</refind>
                         </segment>
                         <segment>
@@ -6893,7 +6894,7 @@
                 <unit uid="0140" start_time="410001" end_time="411911">
                     <utterance_id>teop_iar_0140</utterance_id>
                     <utterance>tea inu te chief meori paa -</utterance>
-                    <utterance_translation>to the house of the chief and they -</utterance_translation>
+                    <utterance_translation>to the house of the chief and they --</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>te</gword>
@@ -7283,7 +7284,7 @@
                 <unit uid="0147" start_time="430429" end_time="433532">
                     <utterance_id>teop_iar_0147</utterance_id>
                     <utterance>eam paa dee voosu mai me vaatii tea - tea inu tenaa.</utterance>
-                    <utterance_translation>you carry them home and put (them) in - in my house.</utterance_translation>
+                    <utterance_translation>you carry them home and put (them) in -- in my house.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -7381,7 +7382,7 @@
                 <unit uid="0148" start_time="433532" end_time="436231">
                     <utterance_id>teop_iar_0148</utterance_id>
                     <utterance>Eam a abana dee maa a iana, eam paa -</utterance>
-                    <utterance_translation>You, the men, bring the fish, you -</utterance_translation>
+                    <utterance_translation>You, the men, bring the fish, you --</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -7486,7 +7487,7 @@
                 <unit uid="0150" start_time="438038" end_time="441753">
                     <utterance_id>teop_iar_0150</utterance_id>
                     <utterance>Amaa moon team mee pasi nomaa tea tao bona - amaa muu.</utterance>
-                    <utterance_translation>Your women too will come to bake the - the taros.</utterance_translation>
+                    <utterance_translation>Your women too will come to bake the -- the taros.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -7571,7 +7572,7 @@
                 <unit uid="0151" start_time="441753" end_time="444269">
                     <utterance_id>teop_iar_0151</utterance_id>
                     <utterance>Eara kahi - eara kahi paku rara</utterance>
-                    <utterance_translation>We are - we are going to perform</utterance_translation>
+                    <utterance_translation>We are -- we are going to perform</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -7668,7 +7669,7 @@
                 <unit uid="0154" start_time="448080" end_time="452635">
                     <utterance_id>teop_iar_0154</utterance_id>
                     <utterance>vagana kasi bono peho - o peho tookiu,</utterance>
-                    <utterance_translation>went fishing perhaps for one - one week,</utterance_translation>
+                    <utterance_translation>went fishing perhaps for one -- one week,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -7713,7 +7714,7 @@
                 <unit uid="0155" start_time="452635" end_time="456350">
                     <utterance_id>teop_iar_0155</utterance_id>
                     <utterance>otei -eori he tea matatopo,</utterance>
-                    <utterance_translation>the men - while they were getting ready,</utterance_translation>
+                    <utterance_translation>the men -- while they were getting ready,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -7901,7 +7902,7 @@
                 <unit uid="0159" start_time="468216" end_time="470338">
                     <utterance_id>teop_iar_0159</utterance_id>
                     <utterance>are paa paku o paku, are paa -</utterance>
-                    <utterance_translation>we'll make the feast, we'll -</utterance_translation>
+                    <utterance_translation>we'll make the feast, we'll --</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -8184,7 +8185,7 @@
                 <unit uid="0164" start_time="480943" end_time="482686">
                     <utterance_id>teop_iar_0164</utterance_id>
                     <utterance>to boha vo a - a otei,</utterance>
-                    <utterance_translation>said the - the man, (was like what the man said)</utterance_translation>
+                    <utterance_translation>said the -- the man, (was like what the man said)</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -8266,7 +8267,7 @@
                 <unit uid="0166" start_time="484555" end_time="487695">
                     <utterance_id>teop_iar_0166</utterance_id>
                     <utterance>na kahi vaatavusu raara, a hena a- , a-</utterance>
-                    <utterance_translation>we'll let (her) go out, the name of the - the -</utterance_translation>
+                    <utterance_translation>we'll let (her) go out, the name of the -- the --</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -8401,7 +8402,7 @@
                 <unit uid="0168" start_time="492518" end_time="495985">
                     <utterance_id>teop_iar_0168</utterance_id>
                     <utterance>Erau, meori paa taotao meori -</utterance>
-                    <utterance_translation>Then they did the baking and they -</utterance_translation>
+                    <utterance_translation>Then they did the baking and they --</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -8455,7 +8456,7 @@
                 <unit uid="0169" start_time="495985" end_time="497765">
                     <utterance_id>teop_iar_0169</utterance_id>
                     <utterance>sibo - taotao bona iana</utterance>
-                    <utterance_translation>roast - baked the fish</utterance_translation>
+                    <utterance_translation>roast -- baked the fish</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>tao-tao</gword>
@@ -8716,7 +8717,7 @@
                 <unit uid="0175" start_time="510934" end_time="514385">
                     <utterance_id>teop_iar_0175</utterance_id>
                     <utterance>taotao tea roava, tea bon meori paa vatataonun -</utterance>
-                    <utterance_translation>did the baking during the day, and in the night they came together -</utterance_translation>
+                    <utterance_translation>did the baking during the day, and in the night they came together --</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -9121,7 +9122,7 @@
                 <unit uid="0182" start_time="530444" end_time="534936">
                     <utterance_id>teop_iar_0182</utterance_id>
                     <utterance>E sinanae paa matatopo bona maa - amaa vohu teve</utterance>
-                    <utterance_translation>Her mother prepared the - her belts</utterance_translation>
+                    <utterance_translation>Her mother prepared the -- her belts</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -9238,7 +9239,7 @@
                 <unit uid="0184" start_time="537318" end_time="540631">
                     <utterance_id>teop_iar_0184</utterance_id>
                     <utterance>ae amaa - amaa taba teve vaa rasuu,</utterance>
-                    <utterance_translation>and the - and her things from the bush (nicely smelling leaves),</utterance_translation>
+                    <utterance_translation>and the -- and her things from the bush (nicely smelling leaves),</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>ae</gword>
@@ -9290,7 +9291,7 @@
                 <unit uid="0185" start_time="540631" end_time="544894">
                     <utterance_id>teop_iar_0185</utterance_id>
                     <utterance>meori paku bona maa - kiskisi bata ni bari en - bari en moonae,</utterance>
-                    <utterance_translation>they made the - tied them here around her legs.</utterance_translation>
+                    <utterance_translation>they made the -- tied them here around her legs.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -9502,7 +9503,7 @@
                 <unit uid="0189" start_time="553320" end_time="556786">
                     <utterance_id>teop_iar_0189</utterance_id>
                     <utterance>eori he sue vaevuru voen, "A henanae e Taguone."</utterance>
-                    <utterance_translation>but they had already said,"Her name is Taguone."</utterance_translation>
+                    <utterance_translation>but they had already said, "Her name is Taguone."</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -9741,7 +9742,7 @@
                 <unit uid="0193" start_time="564259" end_time="567247">
                     <utterance_id>teop_iar_0193</utterance_id>
                     <utterance>[UNCLEAR] eam toro nao, eam ma tara te -</utterance>
-                    <utterance_translation>[UNCLEAR] you must go, you come and look at -</utterance_translation>
+                    <utterance_translation>[UNCLEAR] you must go, you come and look at --</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>e-am</gword>
@@ -9785,7 +9786,7 @@
                 <unit uid="0194" start_time="567247" end_time="569271">
                     <utterance_id>teop_iar_0194</utterance_id>
                     <utterance>te Taguone to paa -</utterance>
-                    <utterance_translation>at Taguone who -</utterance_translation>
+                    <utterance_translation>at Taguone who --</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>te</gword>
@@ -9808,7 +9809,7 @@
                 <unit uid="0195" start_time="569271" end_time="571908">
                     <utterance_id>teop_iar_0195</utterance_id>
                     <utterance>ma ta - to taviri miriori teo piuvu."</utterance>
-                    <utterance_translation>come - who they are going around with in the dance."</utterance_translation>
+                    <utterance_translation>come -- who they are going around with in the dance."</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -10080,7 +10081,7 @@
                 <unit uid="0201" start_time="583924" end_time="587630">
                     <utterance_id>teop_iar_0201</utterance_id>
                     <utterance>Meori atoato bata bona maa -amaa vohu te Taguone</utterance>
-                    <utterance_translation>And they held the - Taguone's belts</utterance_translation>
+                    <utterance_translation>And they held the -- Taguone's belts</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -10414,7 +10415,7 @@
                 <unit uid="0207" start_time="604381" end_time="608796">
                     <utterance_id>teop_iar_0207</utterance_id>
                     <utterance>rake bona ta - ta - ta tabae? ta vahio,</utterance>
-                    <utterance_translation>wanted her to - to - to what? to marry (her),</utterance_translation>
+                    <utterance_translation>wanted her to -- to -- to what? to marry (her),</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>rake</gword>
@@ -10476,7 +10477,7 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>4SG</gloss>
+                            <gloss>4SG.ZERO</gloss>
                             <graid>0.h:p</graid>
                             <refind>1004</refind>
                         </segment>
@@ -11071,7 +11072,7 @@
                 <unit uid="0217" start_time="635683" end_time="638075">
                     <utterance_id>teop_iar_0217</utterance_id>
                     <utterance>a - sisibu haana tea ruene.</utterance>
-                    <utterance_translation>ah - bathe in the river.</utterance_translation>
+                    <utterance_translation>ah -- bathe in the river.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>sisibu</gword>
@@ -12539,7 +12540,7 @@
                 <unit uid="0239" start_time="708957" end_time="713234">
                     <utterance_id>teop_iar_0239</utterance_id>
                     <utterance>to kahi an nana eve amaa raen te Taguone,</utterance>
-                    <utterance_translation>that she was going to eat, Taguone's people (lit line/group),</utterance_translation>
+                    <utterance_translation>that she was going to eat, Taguone's people [lit. line/group],</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -13289,7 +13290,7 @@
                 <unit uid="0252" start_time="750525" end_time="753910">
                     <utterance_id>teop_iar_0252</utterance_id>
                     <utterance>vagana maa am- o va- o kaku vagana tea maa moon,</utterance>
-                    <utterance_translation>fished [STUTTERING]- the women's kind of fishing,</utterance_translation>
+                    <utterance_translation>fished [STUTTERING] the women's kind of fishing,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -13560,7 +13561,7 @@
                 <unit uid="0256" start_time="763298" end_time="766832">
                     <utterance_id>teop_iar_0256</utterance_id>
                     <utterance>ore paa bero, bero, bero bero maa kakukaku taba,</utterance>
-                    <utterance_translation>so that there are many, many different kinds of things (lit. so that different kinds of things are many)</utterance_translation>
+                    <utterance_translation>so that there are many, many different kinds of things [lit. so that different kinds of things are many]</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -13632,7 +13633,7 @@
                 <unit uid="0257" start_time="766832" end_time="769254">
                     <utterance_id>teop_iar_0257</utterance_id>
                     <utterance>ore paa ma nahu bari.</utterance>
-                    <utterance_translation>to cook. (lit: so that they come and cook them)</utterance_translation>
+                    <utterance_translation>to cook [lit. so that they come and cook them].</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -13907,7 +13908,7 @@
                 <unit uid="0262" start_time="781122" end_time="783199">
                     <utterance_id>teop_iar_0262</utterance_id>
                     <utterance>toro sue - toro vadadao,</utterance>
-                    <utterance_translation>should have said - should have called,</utterance_translation>
+                    <utterance_translation>should have said -- should have called,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>toro</gword>
@@ -14418,7 +14419,7 @@
                 <unit uid="0273" start_time="808022" end_time="811275">
                     <utterance_id>teop_iar_0273</utterance_id>
                     <utterance>Eve- e- e roanabai teve he sue</utterance>
-                    <utterance_translation>She - the - but her mother-in-law said,</utterance_translation>
+                    <utterance_translation>She -- the -- but her mother-in-law said,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -14654,7 +14655,7 @@
                 <unit uid="0279" start_time="822909" end_time="826489">
                     <utterance_id>teop_iar_0279</utterance_id>
                     <utterance>Me- me Taguone paa buno tea</utterance>
-                    <utterance_translation>And - and Taguone moved to -</utterance_translation>
+                    <utterance_translation>And -- and Taguone moved to --</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -14777,7 +14778,7 @@
                 <unit uid="0282" start_time="831966" end_time="833245">
                     <utterance_id>teop_iar_0282</utterance_id>
                     <utterance>me roanabai teve -</utterance>
-                    <utterance_translation>and her mother-in-law -</utterance_translation>
+                    <utterance_translation>and her mother-in-law --</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -15296,7 +15297,7 @@
                 <unit uid="0293" start_time="855740" end_time="857846">
                     <utterance_id>teop_iar_0293</utterance_id>
                     <utterance>e Taguone paa ponisi vaevuru paa -</utterance>
-                    <utterance_translation>Taguone had already become heavy -</utterance_translation>
+                    <utterance_translation>Taguone had already become heavy --</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -15414,7 +15415,7 @@
                         <segment>
                             <gword>ZERO</gword>
                             <gloss>3SG.ZERO</gloss>
-                            <graid>0.h:s</graid>
+                            <graid>0:s</graid>
                             <refind>1099</refind>
                         </segment>
                         <segment>

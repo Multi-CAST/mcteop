@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1908">
+<multicast version="2101">
     <corpus c_name="teop">
         <text t_name="mat" annotators="Ulrike Mosel, Stefan Schnell" speaker="TP02">
-            <file f_name="mc_teop_mat" audio="mc_teop_mat.wav" updated="2019-08-25">
+            <file f_name="mc_teop_mat" audio="mc_teop_mat.wav" updated="2020-08-06">
                 <unit uid="0001" start_time="0" end_time="4221">
                     <utterance_id>teop_mat_0001</utterance_id>
                     <utterance>Teitei roho a peha vaan.</utterance>
@@ -988,7 +988,7 @@
                         <segment>
                             <gword>ZERO</gword>
                             <gloss>3SG.ZERO</gloss>
-                            <graid>np:s</graid>
+                            <graid>0:s</graid>
                         </segment>
                         <segment>
                             <gword>na</gword>

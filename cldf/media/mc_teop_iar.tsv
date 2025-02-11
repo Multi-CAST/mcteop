@@ -754,7 +754,7 @@ teop	iar	0089	paa	TAM3	lv	lv
 teop	iar	0089	beera	big	v:pred	v		pred		
 teop	iar	0089	maa	hither	rv	rv				
 teop	iar	0089	#	#	##	##				
-teop	iar	0089	ZERO	3SG.ZERO	0.h:s	0	h	s		
+teop	iar	0089	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0089	beera	big	v:pred	v		pred		
 teop	iar	0089	maa	hither	rv	rv				
 teop	iar	0090	#	#	##	##				
@@ -1039,12 +1039,12 @@ teop	iar	0129	%	%	%	%
 teop	iar	0129	Erau	then	other	other				
 teop	iar	0129	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s	1051	
 teop	iar	0129	tii	be.there	v:pred	v		pred		
-teop	iar	0129	tii	be.there	v:pred	v		pred		
-teop	iar	0129	tii	be.there	v:pred	v		pred		
-teop	iar	0129	tii	be.there	v:pred	v		pred		
-teop	iar	0129	tii	be.there	v:pred	v		pred		
-teop	iar	0129	tii	be.there	v:pred	v		pred		
-teop	iar	0129	tii	be.there	v:pred	v		pred		
+teop	iar	0129	tii	be.there	nc	nc				
+teop	iar	0129	tii	be.there	nc	nc				
+teop	iar	0129	tii	be.there	nc	nc				
+teop	iar	0129	tii	be.there	nc	nc				
+teop	iar	0129	tii	be.there	nc	nc				
+teop	iar	0129	tii	be.there	nc	nc				
 teop	iar	0129	bona	OBJ.ART2.SG	ln	ln				
 teop	iar	0129	taem	time	np:other	np		other		
 teop	iar	0129	sana	very	rn	rn				
@@ -1119,7 +1119,7 @@ teop	iar	0138	ZERO	2PL.ZERO	pl_0.2:s	pl_0	2	s	1051
 teop	iar	0138	vatataonun	come.together	v:pred	v		pred		
 teop	iar	0138	maa	hither	rv	rv				
 teop	iar	0138	#	#	##ds	##ds				
-teop	iar	0138	ZERO	2PL.ZERO	pl_0.h:s	pl_0	h	s	1051	
+teop	iar	0138	ZERO	2PL.ZERO	pl_0.2:s	pl_0	2	s	1051	
 teop	iar	0138	ma	come	v:pred	v		pred		
 teop	iar	0138	baitono	listen	rv_v	rv_v				
 teop	iar	0139	#	#	##	##				
@@ -1718,7 +1718,7 @@ teop	iar	0207	ta	COMPL1	conj_other	conj_other
 teop	iar	0207	vahio	marry	v:pred	v		pred		
 teop	iar	0207	ZERO	4SG.ZERO	0.h:p	0	h	p		
 teop	iar	0208	#	#	##	##				
-teop	iar	0208	ZERO	4SG	0.h:p	0	h	p	1004	
+teop	iar	0208	ZERO	4SG.ZERO	0.h:p	0	h	p	1004	
 teop	iar	0208	paa	TAM3	lv	lv				
 teop	iar	0208	rake	want	v:pred	v		pred		
 teop	iar	0208	=u	=IMM	=rv	=rv				
@@ -2547,7 +2547,7 @@ teop	iar	0295	paa	TAM3	lv	lv
 teop	iar	0295	muraka	soft	v:pred	v		pred		
 teop	iar	0295	#	#	##	##				
 teop	iar	0295	me	and4	conj_other	conj_other				
-teop	iar	0295	ZERO	3SG.ZERO	0.h:s	0	h	s	1099	
+teop	iar	0295	ZERO	3SG.ZERO	0:s	0		s	1099	
 teop	iar	0295	paa	TAM3	lv	lv				
 teop	iar	0295	ta-verete	ACAUS-turn	v:pred	v		pred		
 teop	iar	0295	tahii	salt.water	rv_np	rv_np				

@@ -19,10 +19,10 @@ teop	sii	0002	tea	COMPL1	conj_other	conj_other
 teop	sii	0002	ta-verete	ACAUS-change	vother:pred	vother		pred		
 teop	sii	0003	oraa	spirit	rv_np	rv_np				
 teop	sii	0003	ge	or	conj_other	conj_other				
-teop	sii	0003	ta-verete	ACAUS-change	vother:pred	vother		pred		
+teop	sii	0003	ta-verete	ACAUS-change	rv	rv				
 teop	sii	0003	kuruu	snake	rv_np	rv_np				
 teop	sii	0003	ge	or	conj_other	conj_other				
-teop	sii	0003	ta-verete	ACAUS-change	vother:pred	vother		pred		
+teop	sii	0003	ta-verete	ACAUS-change	rv	rv				
 teop	sii	0003	toa	chicken	rv_np	rv_np				
 teop	sii	0004	#	#	##	##				
 teop	sii	0004	ge	or	conj_other	conj_other				
@@ -42,7 +42,7 @@ teop	sii	0006	#	#	##	##
 teop	sii	0006	a	ART2.SG	ln	ln				
 teop	sii	0006	oraa	spirit	np.h:a	np	h	a	3001	
 teop	sii	0006	bona	ANA	rn	rn				
-teop	sii	0006	ve	PTCL2	rn	rn				
+teop	sii	0006	ve	PRT2	rn	rn				
 teop	sii	0006	na	TAM2	lv	lv				
 teop	sii	0006	antee	can	v:pred	v		pred		
 teop	sii	0006	nana	3SG.IPFV	rv-pro_h_a	rv-pro_h_a				
@@ -1116,8 +1116,8 @@ teop	sii	0136	vaa-hae	CAUS-board	v:pred	v		pred
 teop	sii	0136	a	ART2.SG	rn	rn				
 teop	sii	0136	kavara-	all	pl_np:p	pl_np		p	3025	
 teop	sii	0136	n=	3SG.POSS=	=rn_pro:poss	=rn_pro		poss		
-teop	sii	0136	a	ART2.SG	ln	ln				
-teop	sii	0136	maa	PLM	pl_np:poss	pl_np		poss		
+teop	sii	0136	a	ART2.SG	rn	rn				
+teop	sii	0136	maa	PLM	rn_pl_np:poss	rn_pl_np		poss		
 teop	sii	0136	kave	net	rn	rn				
 teop	sii	0136	te=	PREP=	=rn_adp	=rn_adp				
 teop	sii	0136	am	2PL.PRON	rn_pl_pro.2:poss	rn_pl_pro	2	poss	3005	
@@ -1410,7 +1410,7 @@ teop	sii	0174	mararae	happy	rn	rn
 teop	sii	0174	te=	PREP=	=rn_adp	=rn_adp				
 teop	sii	0174	ori	3PL.PRON	rn_pl_pro.h:poss	rn_pl_pro	h	poss	3047	
 teop	sii	0175	#	#	##ds	##ds				
-teop	sii	0175	ZERO	3PL.PRON	pl_0.h:a	pl_0	h	a	3047	
+teop	sii	0175	ZERO	3PL.ZERO	pl_0.h:a	pl_0	h	a	3047	
 teop	sii	0175	Kahi	TAM1	lv	lv				
 teop	sii	0175	vataaree	show	v:pred	v		pred		
 teop	sii	0175	ni	APPL	rv	rv				
@@ -2044,7 +2044,7 @@ teop	sii	0260	kave	net	rn_np:poss	rn_np		poss	3025
 teop	sii	0261	mea	NC	nc	nc				
 teop	sii	0262	[PAUSE]	NC	nc	nc				
 teop	sii	0263	#	#	##	##				
-teop	sii	0263	ZERO	3PL.PRON	pl_0.h:s	pl_0	h	s	3068	
+teop	sii	0263	ZERO	3PL.ZERO	pl_0.h:s	pl_0	h	s	3068	
 teop	sii	0263	vahakaa	beat.water	v:pred	v		pred		
 teop	sii	0263	vai	now	rv	rv				
 teop	sii	0263	maa	hither	rv	rv				
@@ -2571,7 +2571,7 @@ teop	sii	0327	te	PREP	adp	adp
 teop	sii	0327	=a	=ART2.SG	=ln	=ln				
 teop	sii	0327	bon	night	np:other	np		other	3102	
 teop	sii	0328	#	#	##ds	##ds				
-teop	sii	0328	ZERO	1PL.IN.PRON	pl_0.h:s	pl_0	h	s	3011	
+teop	sii	0328	ZERO	1PL.IN.ZERO	pl_0.1:s	pl_0	1	s	3011	
 teop	sii	0328	saka	NEG	lv	lv				
 teop	sii	0328	manin	ever	lv	lv				
 teop	sii	0328	vigisi	late	v:pred	v		pred		
@@ -2634,6 +2634,7 @@ teop	sii	0334	te=	PREP=	=rn_adp	=rn_adp
 teop	sii	0334	a	ART2.SG	rn	rn				
 teop	sii	0334	too	person	rn_np.h	rn_np	h			
 teop	sii	0335	vagana	go.fishing	rn_v	rn_v				
+teop	sii	0335	#	#	##ds	##ds				
 teop	sii	0335	bara	and2	conj_other	conj_other				
 teop	sii	0335	a	ART2.SG	ln	ln				
 teop	sii	0335	aba	one	np:pred	np		pred	3108	bridging
@@ -2646,7 +2647,7 @@ teop	sii	0336	te	PREP	adp	adp
 teop	sii	0336	=a	=ART2.SG	=ln	=ln				
 teop	sii	0336	buaku	two	ln_num	ln_num				
 teop	sii	0336	a	ART2.SG	ln	ln				
-teop	sii	0336	aba	person	pl_np.h:pred	pl_np	h	pred		
+teop	sii	0336	aba	person	pl_np.h:other	pl_np	h	other		
 teop	sii	0336	vaa	LNK	rn	rn				
 teop	sii	0336	koma-	inside-	rn_np	rn_np				
 teop	sii	0336	n=	3SG.POSS=	=rn_pro:poss	=rn_pro		poss		
@@ -3382,7 +3383,7 @@ teop	sii	0441	hua	paddle	v:pred	v		pred
 teop	sii	0441	maa	hither	rv	rv				
 teop	sii	0441	#	#	##	##				
 teop	sii	0441	ahiki	not.exist	other:pred	other		pred		
-teop	sii	0441	ZERO	(anything)	0:s	0		s		
+teop	sii	0441	ZERO	ZERO	0:s	0		s		
 teop	sii	0442	#	#	##	##				
 teop	sii	0442	me=	and4=	=conj_other	=conj_other				
 teop	sii	0442	ZERO	3SG.ZERO	0.h:s	0	h	s	3001	
@@ -3721,7 +3722,7 @@ teop	sii	0483	maa	PLM	pl_np:p	pl_np		p
 teop	sii	0483	pusu kuhikuhi	war.club	rn_np	rn_np			3135	bridging
 teop	sii	0483	te=	PREP=	=rn_adp	=rn_adp				
 teop	sii	0483	ori	3PL.PRON	rn_pl_pro.h:poss	rn_pl_pro	h	poss	3005	
-teop	sii	0484	toraara	axe	rn_np:p	rn_np		p	3136	bridging
+teop	sii	0484	toraara	axe	rn_np	rn_np			3136	bridging
 teop	sii	0484	te=	PREP=	=rn_adp	=rn_adp				
 teop	sii	0484	ori	3PL.PRON	rn_pl_pro.h:poss	rn_pl_pro	h	poss	3005	
 teop	sii	0485	a=	ART2.SG=	=ln	=ln				

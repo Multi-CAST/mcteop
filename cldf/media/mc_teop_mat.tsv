@@ -160,7 +160,7 @@ teop	mat	0020	ahiki	not.exist	other:pred	other		pred
 teop	mat	0020	ta	NSPEC2.SG	ln	ln				
 teop	mat	0020	bai	mango	np:s	np		s		
 teop	mat	0020	#	#	##	##				
-teop	mat	0020	ZERO	3SG.ZERO	np:s	np		s		
+teop	mat	0020	ZERO	3SG.ZERO	0:s	0		s		
 teop	mat	0020	na	TAM2	lv	lv				
 teop	mat	0020	vaa-kukan	ORD-three	v:pred	v		pred		
 teop	mat	0020	bata	CONT	rv	rv				
