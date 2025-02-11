@@ -1335,7 +1335,7 @@ teop	iar	0162	a	ART2.SG	ln	ln
 teop	iar	0162	beiko	child	np.h:p	np	h	p	1004	
 teop	iar	0162	bona	ANA	rn	rn				
 teop	iar	0163	#	#	##	##				
-teop	iar	0163	#	#	#ds:pred	#ds		pred		
+teop	iar	0163	#	#	#ds_cc:pred	#ds_cc		pred		
 teop	iar	0163	Ae	eh	other	other				
 teop	iar	0163	ZERO	3SG.ZERO	0.h:s	0	h	s	1004	
 teop	iar	0163	a	ART2.SG	ln	ln				

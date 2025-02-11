@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2019-08-25T08:10:37+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2021-03-07T14:26:21+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_teop_viv.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:fe694728-c233-4d38-b601-5653a32472b6</PROPERTY>
@@ -4260,8 +4260,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18221" ANNOTATION_REF="a17659" PREVIOUS_ANNOTATION="a18220">
-                <ANNOTATION_VALUE>
-pii-pii-ana</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pii-pii-ana</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8011,8 +8010,7 @@ pii-pii-ana</ANNOTATION_VALUE>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18956" ANNOTATION_REF="a17757" PREVIOUS_ANNOTATION="a18955">
-                <ANNOTATION_VALUE>#
-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8229,8 +8227,7 @@ pii-pii-ana</ANNOTATION_VALUE>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18998" ANNOTATION_REF="a17788">
-                <ANNOTATION_VALUE>3SG.IPFV
-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>3SG.IPFV</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

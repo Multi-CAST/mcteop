@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2020-09-14T20:42:19+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2021-03-07T14:26:02+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_teop_sii.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:9530118d-6e8c-4cd3-b18c-f058296dac35</PROPERTY>
@@ -19878,8 +19878,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119450" ANNOTATION_REF="a116554" PREVIOUS_ANNOTATION="a119449">
-                <ANNOTATION_VALUE>ZERO
-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ZERO</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24454,8 +24453,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a120358" ANNOTATION_REF="a116683" PREVIOUS_ANNOTATION="a120357">
-                <ANNOTATION_VALUE>ZERO
-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ZERO</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

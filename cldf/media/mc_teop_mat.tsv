@@ -485,7 +485,7 @@ teop	mat	0053	sue	say	v:pred	v		pred
 teop	mat	0053	ki	DAT	rv	rv				
 teop	mat	0053	bono	OBJ.ART3.SG	ln	ln				
 teop	mat	0053	matavus	door	np:p	np		p	2014	
-teop	mat	0054	#	#	#ds:p2	#ds		p2		
+teop	mat	0054	#	#	#ds_cc:p2	#ds_cc		p2		
 teop	mat	0054	Tagan	tagan	nc	nc				
 teop	mat	0055	takarata	takarata	nc	nc				
 teop	mat	0055	#	#	##	##				

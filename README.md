@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Mosel, Ulrike & Schnell, Stefan. 2021. Multi-CAST Teop. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2101. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#teop) (date accessed)
+  > Mosel, Ulrike & Schnell, Stefan. 2022. Multi-CAST Teop. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2207. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#teop) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
